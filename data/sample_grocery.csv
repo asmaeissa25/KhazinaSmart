@@ -1,0 +1,2521 @@
+date,store_id,category,units_sold,revenue,is_promoted,temperature_c,is_holiday
+2022-01-03,Store_Casablanca,Fruits & Vegetables,2852,13438.36,0,14.9,0
+2022-01-10,Store_Casablanca,Fruits & Vegetables,1614,16572.13,0,16.7,1
+2022-01-17,Store_Casablanca,Fruits & Vegetables,1068,11913.92,0,13.4,0
+2022-01-24,Store_Casablanca,Fruits & Vegetables,2134,14747.08,0,11.4,0
+2022-01-31,Store_Casablanca,Fruits & Vegetables,1412,12912.83,0,14.1,0
+2022-02-07,Store_Casablanca,Fruits & Vegetables,1550,14664.36,0,18.8,0
+2022-02-14,Store_Casablanca,Fruits & Vegetables,2214,17128.55,1,24.0,0
+2022-02-21,Store_Casablanca,Fruits & Vegetables,2160,17116.5,0,20.6,0
+2022-02-28,Store_Casablanca,Fruits & Vegetables,2357,15311.83,0,19.8,0
+2022-03-07,Store_Casablanca,Fruits & Vegetables,3703,20816.85,0,22.3,0
+2022-03-14,Store_Casablanca,Fruits & Vegetables,4852,22684.22,0,24.5,0
+2022-03-21,Store_Casablanca,Fruits & Vegetables,2279,21007.1,0,23.5,0
+2022-03-28,Store_Casablanca,Fruits & Vegetables,2343,21783.65,1,22.4,0
+2022-04-04,Store_Casablanca,Fruits & Vegetables,5478,26159.46,0,28.4,0
+2022-04-11,Store_Casablanca,Fruits & Vegetables,2252,25422.4,1,26.3,0
+2022-04-18,Store_Casablanca,Fruits & Vegetables,3536,24578.89,0,20.9,0
+2022-04-25,Store_Casablanca,Fruits & Vegetables,2781,26830.95,0,24.5,1
+2022-05-02,Store_Casablanca,Fruits & Vegetables,3255,32589.7,0,22.8,1
+2022-05-09,Store_Casablanca,Fruits & Vegetables,2308,26145.93,0,25.0,0
+2022-05-16,Store_Casablanca,Fruits & Vegetables,2337,24711.7,0,22.4,0
+2022-05-23,Store_Casablanca,Fruits & Vegetables,2531,29645.96,1,22.0,0
+2022-05-30,Store_Casablanca,Fruits & Vegetables,2177,25691.01,0,22.4,0
+2022-06-06,Store_Casablanca,Fruits & Vegetables,4521,25417.06,1,20.5,0
+2022-06-13,Store_Casablanca,Fruits & Vegetables,3315,24750.72,1,19.6,0
+2022-06-20,Store_Casablanca,Fruits & Vegetables,2438,22690.51,0,22.8,0
+2022-06-27,Store_Casablanca,Fruits & Vegetables,2317,22053.83,0,19.9,0
+2022-07-04,Store_Casablanca,Fruits & Vegetables,5823,25906.52,0,15.2,1
+2022-07-11,Store_Casablanca,Fruits & Vegetables,2515,21770.08,0,17.2,0
+2022-07-18,Store_Casablanca,Fruits & Vegetables,2962,19889.44,0,16.2,0
+2022-07-25,Store_Casablanca,Fruits & Vegetables,2166,22302.58,0,14.8,0
+2022-08-01,Store_Casablanca,Fruits & Vegetables,3334,21206.22,0,9.8,0
+2022-08-08,Store_Casablanca,Fruits & Vegetables,3141,20011.08,0,7.7,0
+2022-08-15,Store_Casablanca,Fruits & Vegetables,3504,19262.28,0,9.4,0
+2022-08-22,Store_Casablanca,Fruits & Vegetables,2134,19441.17,0,12.1,0
+2022-08-29,Store_Casablanca,Fruits & Vegetables,2203,22200.26,1,8.8,0
+2022-09-05,Store_Casablanca,Fruits & Vegetables,4118,20196.81,1,6.4,0
+2022-09-12,Store_Casablanca,Fruits & Vegetables,1411,16579.32,0,4.3,0
+2022-09-19,Store_Casablanca,Fruits & Vegetables,3418,17654.9,0,5.5,0
+2022-09-26,Store_Casablanca,Fruits & Vegetables,1789,16963.79,1,7.5,0
+2022-10-03,Store_Casablanca,Fruits & Vegetables,1484,16406.59,1,3.4,0
+2022-10-10,Store_Casablanca,Fruits & Vegetables,2653,16571.04,1,4.3,0
+2022-10-17,Store_Casablanca,Fruits & Vegetables,2736,15530.64,0,5.8,0
+2022-10-24,Store_Casablanca,Fruits & Vegetables,2508,14037.74,0,4.9,0
+2022-10-31,Store_Casablanca,Fruits & Vegetables,1386,15178.19,0,3.9,0
+2022-11-07,Store_Casablanca,Fruits & Vegetables,3448,19900.03,0,11.2,0
+2022-11-14,Store_Casablanca,Fruits & Vegetables,2197,16580.21,0,3.5,0
+2022-11-21,Store_Casablanca,Fruits & Vegetables,1630,18029.63,0,5.0,0
+2022-11-28,Store_Casablanca,Fruits & Vegetables,4164,22166.44,0,7.8,1
+2022-12-05,Store_Casablanca,Fruits & Vegetables,2256,18961.82,0,13.3,0
+2022-12-12,Store_Casablanca,Fruits & Vegetables,2114,17609.86,0,14.5,0
+2022-12-19,Store_Casablanca,Fruits & Vegetables,2237,21076.23,0,4.3,0
+2022-12-26,Store_Casablanca,Fruits & Vegetables,2790,24083.23,0,8.8,1
+2023-01-02,Store_Casablanca,Fruits & Vegetables,1472,15204.91,0,12.5,1
+2023-01-09,Store_Casablanca,Fruits & Vegetables,1366,13640.21,0,13.0,0
+2023-01-16,Store_Casablanca,Fruits & Vegetables,1378,14473.95,1,11.3,0
+2023-01-23,Store_Casablanca,Fruits & Vegetables,1121,13457.04,0,17.4,0
+2023-01-30,Store_Casablanca,Fruits & Vegetables,2958,12873.93,0,16.7,0
+2023-02-06,Store_Casablanca,Fruits & Vegetables,1625,12490.95,0,21.4,0
+2023-02-13,Store_Casablanca,Fruits & Vegetables,1841,15721.14,1,23.5,0
+2023-02-20,Store_Casablanca,Fruits & Vegetables,1175,13378.21,0,20.2,0
+2023-02-27,Store_Casablanca,Fruits & Vegetables,2480,14516.92,0,21.5,0
+2023-03-06,Store_Casablanca,Fruits & Vegetables,4732,22562.8,0,23.5,0
+2023-03-13,Store_Casablanca,Fruits & Vegetables,5565,23118.95,0,20.6,0
+2023-03-20,Store_Casablanca,Fruits & Vegetables,2207,23314.96,0,23.7,0
+2023-03-27,Store_Casablanca,Fruits & Vegetables,2386,21554.25,0,24.6,0
+2023-04-03,Store_Casablanca,Fruits & Vegetables,2451,24775.09,0,25.7,0
+2023-04-10,Store_Casablanca,Fruits & Vegetables,2452,24525.29,0,26.4,0
+2023-04-17,Store_Casablanca,Fruits & Vegetables,2953,25137.81,0,24.1,0
+2023-04-24,Store_Casablanca,Fruits & Vegetables,5353,28615.08,0,25.5,1
+2023-05-01,Store_Casablanca,Fruits & Vegetables,2745,24706.94,0,21.7,0
+2023-05-08,Store_Casablanca,Fruits & Vegetables,6258,27723.85,1,23.1,0
+2023-05-15,Store_Casablanca,Fruits & Vegetables,3025,27808.99,0,23.2,0
+2023-05-22,Store_Casablanca,Fruits & Vegetables,2577,28213.08,0,22.4,0
+2023-05-29,Store_Casablanca,Fruits & Vegetables,2442,25434.6,0,25.7,0
+2023-06-05,Store_Casablanca,Fruits & Vegetables,1955,22604.02,0,22.0,0
+2023-06-12,Store_Casablanca,Fruits & Vegetables,3699,19188.85,0,17.8,0
+2023-06-19,Store_Casablanca,Fruits & Vegetables,4374,23447.93,1,19.7,0
+2023-06-26,Store_Casablanca,Fruits & Vegetables,2605,22119.98,0,15.2,0
+2023-07-03,Store_Casablanca,Fruits & Vegetables,2357,25035.01,0,18.5,1
+2023-07-10,Store_Casablanca,Fruits & Vegetables,2764,20028.99,0,14.9,0
+2023-07-17,Store_Casablanca,Fruits & Vegetables,2604,19138.87,0,14.3,0
+2023-07-24,Store_Casablanca,Fruits & Vegetables,2158,18800.4,0,15.8,0
+2023-07-31,Store_Casablanca,Fruits & Vegetables,1905,20181.89,0,15.7,0
+2023-08-07,Store_Casablanca,Fruits & Vegetables,1533,18378.54,0,7.0,0
+2023-08-14,Store_Casablanca,Fruits & Vegetables,3697,21777.91,1,12.5,0
+2023-08-21,Store_Casablanca,Fruits & Vegetables,2330,19824.49,0,10.9,0
+2023-08-28,Store_Casablanca,Fruits & Vegetables,4223,21422.91,0,12.1,0
+2023-09-04,Store_Casablanca,Fruits & Vegetables,1526,17440.79,0,5.7,0
+2023-09-11,Store_Casablanca,Fruits & Vegetables,1817,20834.78,1,7.3,0
+2023-09-18,Store_Casablanca,Fruits & Vegetables,1519,16044.98,0,4.1,0
+2023-09-25,Store_Casablanca,Fruits & Vegetables,1844,19157.85,1,6.4,0
+2023-10-02,Store_Casablanca,Fruits & Vegetables,1249,14233.56,0,5.2,0
+2023-10-09,Store_Casablanca,Fruits & Vegetables,2317,16772.75,1,4.5,0
+2023-10-16,Store_Casablanca,Fruits & Vegetables,1930,15251.75,1,3.7,0
+2023-10-23,Store_Casablanca,Fruits & Vegetables,3430,14620.6,0,5.0,0
+2023-10-30,Store_Casablanca,Fruits & Vegetables,1357,13748.87,0,6.5,0
+2023-11-06,Store_Casablanca,Fruits & Vegetables,2390,20670.35,0,6.1,0
+2023-11-13,Store_Casablanca,Fruits & Vegetables,4411,20020.11,1,7.4,0
+2023-11-20,Store_Casablanca,Fruits & Vegetables,1990,20439.09,0,8.0,0
+2023-11-27,Store_Casablanca,Fruits & Vegetables,2598,23807.22,0,4.2,1
+2023-12-04,Store_Casablanca,Fruits & Vegetables,1978,21095.83,1,13.1,0
+2023-12-11,Store_Casablanca,Fruits & Vegetables,2423,17844.14,0,7.1,0
+2023-12-18,Store_Casablanca,Fruits & Vegetables,2797,17193.63,0,7.1,0
+2023-12-25,Store_Casablanca,Fruits & Vegetables,2355,27254.32,1,7.7,1
+2024-01-01,Store_Casablanca,Fruits & Vegetables,2812,12532.17,0,19.7,0
+2022-01-03,Store_Casablanca,Bakery,1418,10843.48,0,13.1,0
+2022-01-10,Store_Casablanca,Bakery,1427,13985.9,1,11.6,1
+2022-01-17,Store_Casablanca,Bakery,2408,10728.57,0,15.3,0
+2022-01-24,Store_Casablanca,Bakery,1143,11169.74,0,17.0,0
+2022-01-31,Store_Casablanca,Bakery,2090,11954.45,1,14.4,0
+2022-02-07,Store_Casablanca,Bakery,1156,12179.52,0,20.6,0
+2022-02-14,Store_Casablanca,Bakery,965,11290.8,0,17.0,0
+2022-02-21,Store_Casablanca,Bakery,1352,12293.86,0,19.5,0
+2022-02-28,Store_Casablanca,Bakery,2489,13996.57,1,20.1,0
+2022-03-07,Store_Casablanca,Bakery,1706,13664.26,0,26.6,0
+2022-03-14,Store_Casablanca,Bakery,1959,12266.53,0,27.3,0
+2022-03-21,Store_Casablanca,Bakery,1867,12662.09,0,18.6,0
+2022-03-28,Store_Casablanca,Bakery,1491,13928.01,0,24.8,0
+2022-04-04,Store_Casablanca,Bakery,2091,17944.56,1,24.8,0
+2022-04-11,Store_Casablanca,Bakery,3073,14965.85,0,25.1,0
+2022-04-18,Store_Casablanca,Bakery,1975,14080.39,0,27.5,0
+2022-04-25,Store_Casablanca,Bakery,1804,18997.82,0,26.1,1
+2022-05-02,Store_Casablanca,Bakery,2482,23502.83,1,20.6,1
+2022-05-09,Store_Casablanca,Bakery,1486,16274.82,0,24.2,0
+2022-05-16,Store_Casablanca,Bakery,1461,16906.49,0,27.6,0
+2022-05-23,Store_Casablanca,Bakery,3230,16362.48,0,21.6,0
+2022-05-30,Store_Casablanca,Bakery,2224,15543.95,0,26.2,0
+2022-06-06,Store_Casablanca,Bakery,1895,15117.63,0,18.4,0
+2022-06-13,Store_Casablanca,Bakery,2683,18056.91,0,19.3,0
+2022-06-20,Store_Casablanca,Bakery,1586,17140.42,1,20.3,0
+2022-06-27,Store_Casablanca,Bakery,2610,16181.98,0,23.7,0
+2022-07-04,Store_Casablanca,Bakery,1792,18940.57,0,15.6,1
+2022-07-11,Store_Casablanca,Bakery,1392,15874.12,0,16.7,0
+2022-07-18,Store_Casablanca,Bakery,1516,16180.54,0,15.0,0
+2022-07-25,Store_Casablanca,Bakery,3135,15295.17,0,14.4,0
+2022-08-01,Store_Casablanca,Bakery,1619,16306.96,0,12.9,0
+2022-08-08,Store_Casablanca,Bakery,1522,14490.13,0,11.1,0
+2022-08-15,Store_Casablanca,Bakery,2353,16867.82,1,12.9,0
+2022-08-22,Store_Casablanca,Bakery,1443,16064.84,0,10.0,0
+2022-08-29,Store_Casablanca,Bakery,2828,14865.6,0,10.2,0
+2022-09-05,Store_Casablanca,Bakery,1362,11976.07,0,3.5,0
+2022-09-12,Store_Casablanca,Bakery,1125,13043.59,0,7.0,0
+2022-09-19,Store_Casablanca,Bakery,1781,13793.77,0,5.3,0
+2022-09-26,Store_Casablanca,Bakery,2015,14445.67,0,5.1,0
+2022-10-03,Store_Casablanca,Bakery,891,9976.25,0,4.3,0
+2022-10-10,Store_Casablanca,Bakery,1364,13417.38,1,6.6,0
+2022-10-17,Store_Casablanca,Bakery,1682,11340.76,0,3.0,0
+2022-10-24,Store_Casablanca,Bakery,2308,12119.42,0,3.1,0
+2022-10-31,Store_Casablanca,Bakery,2472,11911.87,0,3.1,0
+2022-11-07,Store_Casablanca,Bakery,2420,17695.09,1,11.1,0
+2022-11-14,Store_Casablanca,Bakery,1342,15201.81,0,10.9,0
+2022-11-21,Store_Casablanca,Bakery,2664,13161.79,0,6.1,0
+2022-11-28,Store_Casablanca,Bakery,2333,16952.15,0,5.0,1
+2022-12-05,Store_Casablanca,Bakery,1505,13835.34,0,9.9,0
+2022-12-12,Store_Casablanca,Bakery,3281,14929.15,0,8.5,0
+2022-12-19,Store_Casablanca,Bakery,2372,14476.45,0,9.6,0
+2022-12-26,Store_Casablanca,Bakery,1532,18027.74,0,10.3,1
+2023-01-02,Store_Casablanca,Bakery,2059,13750.52,0,14.4,1
+2023-01-09,Store_Casablanca,Bakery,1859,11260.35,0,15.3,0
+2023-01-16,Store_Casablanca,Bakery,1362,11689.85,1,13.3,0
+2023-01-23,Store_Casablanca,Bakery,1200,9996.83,0,14.9,0
+2023-01-30,Store_Casablanca,Bakery,1066,10715.52,0,17.5,0
+2023-02-06,Store_Casablanca,Bakery,932,10125.42,0,20.9,0
+2023-02-13,Store_Casablanca,Bakery,1923,12653.65,1,21.4,0
+2023-02-20,Store_Casablanca,Bakery,1351,12180.37,0,22.4,0
+2023-02-27,Store_Casablanca,Bakery,2721,12963.91,0,22.0,0
+2023-03-06,Store_Casablanca,Bakery,1164,13485.99,0,24.0,0
+2023-03-13,Store_Casablanca,Bakery,1138,12713.89,0,23.5,0
+2023-03-20,Store_Casablanca,Bakery,3286,14902.78,1,22.7,0
+2023-03-27,Store_Casablanca,Bakery,1572,13473.39,0,23.5,0
+2023-04-03,Store_Casablanca,Bakery,1443,16373.97,0,25.4,0
+2023-04-10,Store_Casablanca,Bakery,3098,15024.68,0,23.6,0
+2023-04-17,Store_Casablanca,Bakery,1504,14236.32,0,21.1,0
+2023-04-24,Store_Casablanca,Bakery,1925,19817.84,0,23.7,1
+2023-05-01,Store_Casablanca,Bakery,1398,14462.24,0,28.0,0
+2023-05-08,Store_Casablanca,Bakery,2864,17182.58,0,24.1,0
+2023-05-15,Store_Casablanca,Bakery,1831,18486.92,1,21.5,0
+2023-05-22,Store_Casablanca,Bakery,1962,16566.58,0,26.4,0
+2023-05-29,Store_Casablanca,Bakery,2021,19323.6,1,27.3,0
+2023-06-05,Store_Casablanca,Bakery,2172,18085.7,0,18.8,0
+2023-06-12,Store_Casablanca,Bakery,1659,19112.28,0,17.0,0
+2023-06-19,Store_Casablanca,Bakery,1814,17848.49,0,21.7,0
+2023-06-26,Store_Casablanca,Bakery,4043,17768.0,0,18.4,0
+2023-07-03,Store_Casablanca,Bakery,2885,20405.77,0,16.4,1
+2023-07-10,Store_Casablanca,Bakery,1299,15333.27,0,12.9,0
+2023-07-17,Store_Casablanca,Bakery,3933,20107.76,1,20.2,0
+2023-07-24,Store_Casablanca,Bakery,2958,15889.67,0,15.3,0
+2023-07-31,Store_Casablanca,Bakery,2814,17160.36,0,15.5,0
+2023-08-07,Store_Casablanca,Bakery,3555,15016.6,1,11.4,0
+2023-08-14,Store_Casablanca,Bakery,2211,15929.98,0,10.8,0
+2023-08-21,Store_Casablanca,Bakery,1168,12965.68,0,9.8,0
+2023-08-28,Store_Casablanca,Bakery,1202,14194.05,0,5.0,0
+2023-09-04,Store_Casablanca,Bakery,2843,13574.19,1,5.7,0
+2023-09-11,Store_Casablanca,Bakery,2998,13251.16,0,5.0,0
+2023-09-18,Store_Casablanca,Bakery,1414,13318.85,0,6.3,0
+2023-09-25,Store_Casablanca,Bakery,1122,13116.39,0,10.3,0
+2023-10-02,Store_Casablanca,Bakery,1094,9711.35,0,4.7,0
+2023-10-09,Store_Casablanca,Bakery,1569,13248.6,1,4.8,0
+2023-10-16,Store_Casablanca,Bakery,2824,12764.93,0,6.8,0
+2023-10-23,Store_Casablanca,Bakery,1041,12121.06,0,2.2,0
+2023-10-30,Store_Casablanca,Bakery,1895,11471.05,0,4.7,0
+2023-11-06,Store_Casablanca,Bakery,2287,17138.53,1,6.7,0
+2023-11-13,Store_Casablanca,Bakery,1997,16184.79,0,10.4,0
+2023-11-20,Store_Casablanca,Bakery,2416,14812.08,0,7.9,0
+2023-11-27,Store_Casablanca,Bakery,3918,19943.13,0,5.2,1
+2023-12-04,Store_Casablanca,Bakery,1741,17324.38,1,9.7,0
+2023-12-11,Store_Casablanca,Bakery,3687,16031.12,0,9.1,0
+2023-12-18,Store_Casablanca,Bakery,1962,16811.58,1,11.0,0
+2023-12-25,Store_Casablanca,Bakery,2105,22274.26,1,7.8,1
+2024-01-01,Store_Casablanca,Bakery,2019,11144.97,0,16.4,0
+2022-01-03,Store_Casablanca,Dairy,1719,13497.46,1,16.0,0
+2022-01-10,Store_Casablanca,Dairy,2795,18664.4,1,14.6,1
+2022-01-17,Store_Casablanca,Dairy,1338,12917.05,1,11.8,0
+2022-01-24,Store_Casablanca,Dairy,2150,11366.66,0,15.3,0
+2022-01-31,Store_Casablanca,Dairy,2748,13866.26,1,16.0,0
+2022-02-07,Store_Casablanca,Dairy,1593,13775.02,0,20.3,0
+2022-02-14,Store_Casablanca,Dairy,1235,13444.31,0,19.5,0
+2022-02-21,Store_Casablanca,Dairy,1655,12547.95,0,17.6,0
+2022-02-28,Store_Casablanca,Dairy,2126,14308.88,1,21.0,0
+2022-03-07,Store_Casablanca,Dairy,1788,15785.57,0,24.1,0
+2022-03-14,Store_Casablanca,Dairy,1306,15126.03,0,25.5,0
+2022-03-21,Store_Casablanca,Dairy,1323,14821.55,0,23.3,0
+2022-03-28,Store_Casablanca,Dairy,1212,14095.52,0,24.5,0
+2022-04-04,Store_Casablanca,Dairy,3430,16828.28,0,24.9,0
+2022-04-11,Store_Casablanca,Dairy,2098,19060.38,0,24.4,0
+2022-04-18,Store_Casablanca,Dairy,2054,15981.63,0,25.6,0
+2022-04-25,Store_Casablanca,Dairy,2657,20505.82,0,24.6,1
+2022-05-02,Store_Casablanca,Dairy,2648,24388.7,0,25.1,1
+2022-05-09,Store_Casablanca,Dairy,2791,19477.59,0,20.8,0
+2022-05-16,Store_Casablanca,Dairy,2989,17922.59,0,24.1,0
+2022-05-23,Store_Casablanca,Dairy,1610,17741.41,0,26.8,0
+2022-05-30,Store_Casablanca,Dairy,2860,19954.96,0,25.0,0
+2022-06-06,Store_Casablanca,Dairy,3548,17879.65,0,16.7,0
+2022-06-13,Store_Casablanca,Dairy,2025,19442.58,0,21.2,0
+2022-06-20,Store_Casablanca,Dairy,2127,16765.26,0,22.3,0
+2022-06-27,Store_Casablanca,Dairy,2212,19324.72,0,19.1,0
+2022-07-04,Store_Casablanca,Dairy,2500,23987.15,0,19.2,1
+2022-07-11,Store_Casablanca,Dairy,3054,20150.89,0,16.5,0
+2022-07-18,Store_Casablanca,Dairy,1908,18739.73,0,13.7,0
+2022-07-25,Store_Casablanca,Dairy,4051,18563.37,0,14.2,0
+2022-08-01,Store_Casablanca,Dairy,1769,20964.16,1,11.8,0
+2022-08-08,Store_Casablanca,Dairy,2441,19395.19,1,12.0,0
+2022-08-15,Store_Casablanca,Dairy,2179,17448.19,0,13.2,0
+2022-08-22,Store_Casablanca,Dairy,4256,20515.05,1,10.1,0
+2022-08-29,Store_Casablanca,Dairy,3571,18916.75,1,10.3,0
+2022-09-05,Store_Casablanca,Dairy,1376,15041.12,0,9.5,0
+2022-09-12,Store_Casablanca,Dairy,2071,19172.62,1,11.3,0
+2022-09-19,Store_Casablanca,Dairy,2400,14230.68,0,3.7,0
+2022-09-26,Store_Casablanca,Dairy,1415,14346.22,0,10.7,0
+2022-10-03,Store_Casablanca,Dairy,1195,14102.89,0,5.9,0
+2022-10-10,Store_Casablanca,Dairy,1178,13514.03,0,2.3,0
+2022-10-17,Store_Casablanca,Dairy,1696,14510.41,1,5.2,0
+2022-10-24,Store_Casablanca,Dairy,1078,12394.1,0,5.4,0
+2022-10-31,Store_Casablanca,Dairy,1572,14322.15,0,5.3,0
+2022-11-07,Store_Casablanca,Dairy,2143,17988.17,0,7.0,0
+2022-11-14,Store_Casablanca,Dairy,3420,18744.06,1,8.3,0
+2022-11-21,Store_Casablanca,Dairy,3578,21039.3,1,9.4,0
+2022-11-28,Store_Casablanca,Dairy,1915,20939.12,0,6.7,1
+2022-12-05,Store_Casablanca,Dairy,1624,17713.07,0,9.7,0
+2022-12-12,Store_Casablanca,Dairy,1691,18761.63,0,7.2,0
+2022-12-19,Store_Casablanca,Dairy,2133,15384.68,0,8.6,0
+2022-12-26,Store_Casablanca,Dairy,2009,17207.27,0,9.3,1
+2023-01-02,Store_Casablanca,Dairy,2106,15031.72,0,15.7,1
+2023-01-09,Store_Casablanca,Dairy,1195,11089.68,0,13.3,0
+2023-01-16,Store_Casablanca,Dairy,3396,14824.25,1,11.0,0
+2023-01-23,Store_Casablanca,Dairy,1259,11146.54,0,15.0,0
+2023-01-30,Store_Casablanca,Dairy,930,10864.75,0,16.4,0
+2023-02-06,Store_Casablanca,Dairy,1749,12773.7,0,21.7,0
+2023-02-13,Store_Casablanca,Dairy,1964,12882.9,0,23.0,0
+2023-02-20,Store_Casablanca,Dairy,1317,13415.82,0,24.3,0
+2023-02-27,Store_Casablanca,Dairy,1391,13304.02,0,18.0,0
+2023-03-06,Store_Casablanca,Dairy,1552,18431.43,1,20.9,0
+2023-03-13,Store_Casablanca,Dairy,1916,14999.42,0,27.4,0
+2023-03-20,Store_Casablanca,Dairy,1502,16121.66,0,23.9,0
+2023-03-27,Store_Casablanca,Dairy,1656,16263.86,1,29.0,0
+2023-04-03,Store_Casablanca,Dairy,2732,17324.61,0,25.2,0
+2023-04-10,Store_Casablanca,Dairy,1781,17757.31,0,26.8,0
+2023-04-17,Store_Casablanca,Dairy,2197,18598.41,1,26.8,0
+2023-04-24,Store_Casablanca,Dairy,2265,22220.69,0,27.1,1
+2023-05-01,Store_Casablanca,Dairy,2673,19368.99,0,23.2,0
+2023-05-08,Store_Casablanca,Dairy,3391,20991.01,0,24.5,0
+2023-05-15,Store_Casablanca,Dairy,2336,17761.35,0,25.2,0
+2023-05-22,Store_Casablanca,Dairy,2321,20933.42,0,22.1,0
+2023-05-29,Store_Casablanca,Dairy,2642,20253.64,1,18.1,0
+2023-06-05,Store_Casablanca,Dairy,1935,19059.75,0,18.5,0
+2023-06-12,Store_Casablanca,Dairy,2523,20021.63,1,24.1,0
+2023-06-19,Store_Casablanca,Dairy,2823,22099.9,0,21.0,0
+2023-06-26,Store_Casablanca,Dairy,3530,21288.27,1,18.6,0
+2023-07-03,Store_Casablanca,Dairy,5392,24563.77,1,16.2,1
+2023-07-10,Store_Casablanca,Dairy,3360,21594.97,0,13.5,0
+2023-07-17,Store_Casablanca,Dairy,5027,23096.24,1,14.8,0
+2023-07-24,Store_Casablanca,Dairy,2128,19148.44,0,10.5,0
+2023-07-31,Store_Casablanca,Dairy,2314,19218.45,0,13.5,0
+2023-08-07,Store_Casablanca,Dairy,1462,17180.63,0,7.9,0
+2023-08-14,Store_Casablanca,Dairy,2119,16334.25,0,10.5,0
+2023-08-21,Store_Casablanca,Dairy,3139,19198.01,0,10.1,0
+2023-08-28,Store_Casablanca,Dairy,2059,18099.56,0,9.7,0
+2023-09-04,Store_Casablanca,Dairy,4582,18584.43,1,3.8,0
+2023-09-11,Store_Casablanca,Dairy,1902,18298.85,1,6.1,0
+2023-09-18,Store_Casablanca,Dairy,4875,19569.41,1,6.4,0
+2023-09-25,Store_Casablanca,Dairy,1887,15404.41,0,7.2,0
+2023-10-02,Store_Casablanca,Dairy,1719,13378.11,0,8.5,0
+2023-10-09,Store_Casablanca,Dairy,2624,13270.25,0,7.1,0
+2023-10-16,Store_Casablanca,Dairy,2148,13190.81,0,4.5,0
+2023-10-23,Store_Casablanca,Dairy,2084,13057.76,0,5.6,0
+2023-10-30,Store_Casablanca,Dairy,2066,14535.92,0,5.3,0
+2023-11-06,Store_Casablanca,Dairy,2959,17120.88,0,8.6,0
+2023-11-13,Store_Casablanca,Dairy,2401,18349.15,0,6.9,0
+2023-11-20,Store_Casablanca,Dairy,1572,18717.86,0,7.2,0
+2023-11-27,Store_Casablanca,Dairy,3366,27555.89,1,5.1,1
+2023-12-04,Store_Casablanca,Dairy,3619,17959.59,0,8.2,0
+2023-12-11,Store_Casablanca,Dairy,3210,15711.06,0,10.0,0
+2023-12-18,Store_Casablanca,Dairy,3595,17384.87,0,9.6,0
+2023-12-25,Store_Casablanca,Dairy,2102,21320.04,0,9.6,1
+2024-01-01,Store_Casablanca,Dairy,1608,12068.8,0,14.8,0
+2022-01-03,Store_Casablanca,Meat & Seafood,4405,18204.54,0,14.4,0
+2022-01-10,Store_Casablanca,Meat & Seafood,4209,24031.67,0,13.9,1
+2022-01-17,Store_Casablanca,Meat & Seafood,1808,21427.53,0,14.3,0
+2022-01-24,Store_Casablanca,Meat & Seafood,1870,20675.18,0,15.2,0
+2022-01-31,Store_Casablanca,Meat & Seafood,2349,19094.63,0,16.4,0
+2022-02-07,Store_Casablanca,Meat & Seafood,2362,21462.75,0,19.9,0
+2022-02-14,Store_Casablanca,Meat & Seafood,6120,28429.01,1,21.2,0
+2022-02-21,Store_Casablanca,Meat & Seafood,4409,25000.63,1,21.3,0
+2022-02-28,Store_Casablanca,Meat & Seafood,2632,23131.15,0,23.5,0
+2022-03-07,Store_Casablanca,Meat & Seafood,2121,25208.86,0,23.7,0
+2022-03-14,Store_Casablanca,Meat & Seafood,2815,25294.62,0,23.5,0
+2022-03-21,Store_Casablanca,Meat & Seafood,2270,26794.01,0,24.3,0
+2022-03-28,Store_Casablanca,Meat & Seafood,4390,28817.13,1,26.1,0
+2022-04-04,Store_Casablanca,Meat & Seafood,5243,29844.22,0,25.9,0
+2022-04-11,Store_Casablanca,Meat & Seafood,3569,27365.76,0,27.7,0
+2022-04-18,Store_Casablanca,Meat & Seafood,5560,29361.44,0,24.6,0
+2022-04-25,Store_Casablanca,Meat & Seafood,7510,41425.63,1,23.8,1
+2022-05-02,Store_Casablanca,Meat & Seafood,4045,36539.6,0,24.3,1
+2022-05-09,Store_Casablanca,Meat & Seafood,4502,32758.09,0,23.6,0
+2022-05-16,Store_Casablanca,Meat & Seafood,4150,28658.9,0,24.0,0
+2022-05-23,Store_Casablanca,Meat & Seafood,6072,29661.88,0,23.9,0
+2022-05-30,Store_Casablanca,Meat & Seafood,7516,36248.49,1,25.7,0
+2022-06-06,Store_Casablanca,Meat & Seafood,4193,31628.88,0,18.8,0
+2022-06-13,Store_Casablanca,Meat & Seafood,3897,35033.94,1,26.0,0
+2022-06-20,Store_Casablanca,Meat & Seafood,5895,32371.64,0,23.4,0
+2022-06-27,Store_Casablanca,Meat & Seafood,7596,32642.66,1,21.7,0
+2022-07-04,Store_Casablanca,Meat & Seafood,8555,38097.64,0,15.1,1
+2022-07-11,Store_Casablanca,Meat & Seafood,4011,36930.36,1,15.5,0
+2022-07-18,Store_Casablanca,Meat & Seafood,5337,31923.5,1,14.9,0
+2022-07-25,Store_Casablanca,Meat & Seafood,2801,30135.26,0,12.4,0
+2022-08-01,Store_Casablanca,Meat & Seafood,2639,25138.49,0,9.8,0
+2022-08-08,Store_Casablanca,Meat & Seafood,6624,28827.83,0,8.8,0
+2022-08-15,Store_Casablanca,Meat & Seafood,3951,32641.25,1,11.8,0
+2022-08-22,Store_Casablanca,Meat & Seafood,4384,31056.52,0,10.3,0
+2022-08-29,Store_Casablanca,Meat & Seafood,2782,29598.02,0,9.8,0
+2022-09-05,Store_Casablanca,Meat & Seafood,2212,26044.83,0,4.3,0
+2022-09-12,Store_Casablanca,Meat & Seafood,2360,25401.96,0,9.1,0
+2022-09-19,Store_Casablanca,Meat & Seafood,3802,29536.83,1,4.1,0
+2022-09-26,Store_Casablanca,Meat & Seafood,4522,25225.89,0,8.9,0
+2022-10-03,Store_Casablanca,Meat & Seafood,3111,18873.41,0,2.6,0
+2022-10-10,Store_Casablanca,Meat & Seafood,3626,26337.47,1,5.1,0
+2022-10-17,Store_Casablanca,Meat & Seafood,3024,19380.4,0,5.8,0
+2022-10-24,Store_Casablanca,Meat & Seafood,3329,23115.94,0,8.9,0
+2022-10-31,Store_Casablanca,Meat & Seafood,3280,21407.15,0,3.6,0
+2022-11-07,Store_Casablanca,Meat & Seafood,3751,33422.71,1,5.9,0
+2022-11-14,Store_Casablanca,Meat & Seafood,3199,27648.6,0,4.0,0
+2022-11-21,Store_Casablanca,Meat & Seafood,8406,35556.22,1,7.1,0
+2022-11-28,Store_Casablanca,Meat & Seafood,4823,36376.47,0,3.3,1
+2022-12-05,Store_Casablanca,Meat & Seafood,5050,32933.49,1,5.8,0
+2022-12-12,Store_Casablanca,Meat & Seafood,2476,25185.03,0,9.3,0
+2022-12-19,Store_Casablanca,Meat & Seafood,6211,31343.4,1,11.8,0
+2022-12-26,Store_Casablanca,Meat & Seafood,2958,33881.52,0,11.9,1
+2023-01-02,Store_Casablanca,Meat & Seafood,2413,22754.41,0,11.6,1
+2023-01-09,Store_Casablanca,Meat & Seafood,4880,21262.45,0,10.7,0
+2023-01-16,Store_Casablanca,Meat & Seafood,3966,21458.78,0,13.5,0
+2023-01-23,Store_Casablanca,Meat & Seafood,2690,18929.28,0,15.3,0
+2023-01-30,Store_Casablanca,Meat & Seafood,2844,24615.03,1,11.8,0
+2023-02-06,Store_Casablanca,Meat & Seafood,1893,22126.34,0,19.5,0
+2023-02-13,Store_Casablanca,Meat & Seafood,2511,22794.19,0,22.6,0
+2023-02-20,Store_Casablanca,Meat & Seafood,4851,21626.67,0,21.2,0
+2023-02-27,Store_Casablanca,Meat & Seafood,3082,25840.97,1,21.2,0
+2023-03-06,Store_Casablanca,Meat & Seafood,4902,23748.38,0,26.2,0
+2023-03-13,Store_Casablanca,Meat & Seafood,2574,25397.95,0,24.6,0
+2023-03-20,Store_Casablanca,Meat & Seafood,2327,24844.13,0,25.0,0
+2023-03-27,Store_Casablanca,Meat & Seafood,2903,26113.43,0,22.3,0
+2023-04-03,Store_Casablanca,Meat & Seafood,6103,30711.38,1,26.4,0
+2023-04-10,Store_Casablanca,Meat & Seafood,2802,30368.55,0,25.9,0
+2023-04-17,Store_Casablanca,Meat & Seafood,2299,27430.87,0,24.0,0
+2023-04-24,Store_Casablanca,Meat & Seafood,6093,38477.29,0,23.5,1
+2023-05-01,Store_Casablanca,Meat & Seafood,3834,30388.49,0,23.0,0
+2023-05-08,Store_Casablanca,Meat & Seafood,3975,34628.71,1,23.0,0
+2023-05-15,Store_Casablanca,Meat & Seafood,3583,26986.0,0,22.4,0
+2023-05-22,Store_Casablanca,Meat & Seafood,4337,28701.35,0,24.0,0
+2023-05-29,Store_Casablanca,Meat & Seafood,4820,26787.32,0,24.3,0
+2023-06-05,Store_Casablanca,Meat & Seafood,3666,38714.89,1,20.5,0
+2023-06-12,Store_Casablanca,Meat & Seafood,6666,34269.99,1,22.5,0
+2023-06-19,Store_Casablanca,Meat & Seafood,5948,32737.26,0,21.0,0
+2023-06-26,Store_Casablanca,Meat & Seafood,4192,31922.41,0,18.8,0
+2023-07-03,Store_Casablanca,Meat & Seafood,4719,39403.62,0,13.9,1
+2023-07-10,Store_Casablanca,Meat & Seafood,3881,31509.84,0,14.3,0
+2023-07-17,Store_Casablanca,Meat & Seafood,4339,34264.21,0,17.0,0
+2023-07-24,Store_Casablanca,Meat & Seafood,3003,34685.86,0,17.4,0
+2023-07-31,Store_Casablanca,Meat & Seafood,2690,29187.86,0,13.2,0
+2023-08-07,Store_Casablanca,Meat & Seafood,6869,30804.25,0,11.5,0
+2023-08-14,Store_Casablanca,Meat & Seafood,2929,30002.1,0,8.0,0
+2023-08-21,Store_Casablanca,Meat & Seafood,2982,29480.56,0,8.6,0
+2023-08-28,Store_Casablanca,Meat & Seafood,3440,32297.77,1,9.0,0
+2023-09-04,Store_Casablanca,Meat & Seafood,3997,24188.53,0,7.9,0
+2023-09-11,Store_Casablanca,Meat & Seafood,3718,29743.94,1,4.6,0
+2023-09-18,Store_Casablanca,Meat & Seafood,3460,25358.77,0,6.3,0
+2023-09-25,Store_Casablanca,Meat & Seafood,4004,29275.15,0,9.2,0
+2023-10-02,Store_Casablanca,Meat & Seafood,5595,23226.03,0,1.8,0
+2023-10-09,Store_Casablanca,Meat & Seafood,3188,21987.08,0,3.0,0
+2023-10-16,Store_Casablanca,Meat & Seafood,2282,26560.81,1,5.8,0
+2023-10-23,Store_Casablanca,Meat & Seafood,2684,25698.95,1,1.9,0
+2023-10-30,Store_Casablanca,Meat & Seafood,3065,22370.24,0,4.0,0
+2023-11-06,Store_Casablanca,Meat & Seafood,3435,25019.76,0,5.9,0
+2023-11-13,Store_Casablanca,Meat & Seafood,3337,30476.96,0,7.2,0
+2023-11-20,Store_Casablanca,Meat & Seafood,2806,28760.4,0,10.2,0
+2023-11-27,Store_Casablanca,Meat & Seafood,3732,35731.44,0,8.0,1
+2023-12-04,Store_Casablanca,Meat & Seafood,5952,32036.51,1,14.2,0
+2023-12-11,Store_Casablanca,Meat & Seafood,4502,29654.68,0,10.4,0
+2023-12-18,Store_Casablanca,Meat & Seafood,5927,32747.41,1,10.4,0
+2023-12-25,Store_Casablanca,Meat & Seafood,5917,32828.81,0,13.6,1
+2024-01-01,Store_Casablanca,Meat & Seafood,1985,17172.77,0,15.0,0
+2022-01-03,Store_Casablanca,Beverages,857,9572.1,1,20.9,0
+2022-01-10,Store_Casablanca,Beverages,1864,10946.07,0,14.9,1
+2022-01-17,Store_Casablanca,Beverages,1254,8507.2,0,14.0,0
+2022-01-24,Store_Casablanca,Beverages,1050,9669.53,0,17.1,0
+2022-01-31,Store_Casablanca,Beverages,2120,8753.02,0,17.2,0
+2022-02-07,Store_Casablanca,Beverages,1058,10141.26,0,17.2,0
+2022-02-14,Store_Casablanca,Beverages,1008,11616.28,1,16.6,0
+2022-02-21,Store_Casablanca,Beverages,1001,9922.4,0,17.9,0
+2022-02-28,Store_Casablanca,Beverages,923,10936.67,1,21.9,0
+2022-03-07,Store_Casablanca,Beverages,1017,11693.9,0,22.6,0
+2022-03-14,Store_Casablanca,Beverages,1798,13435.63,1,24.2,0
+2022-03-21,Store_Casablanca,Beverages,1207,12745.02,1,22.7,0
+2022-03-28,Store_Casablanca,Beverages,804,9567.7,0,26.6,0
+2022-04-04,Store_Casablanca,Beverages,2020,12450.47,0,25.1,0
+2022-04-11,Store_Casablanca,Beverages,1111,12811.06,0,24.9,0
+2022-04-18,Store_Casablanca,Beverages,1899,13942.6,0,27.7,0
+2022-04-25,Store_Casablanca,Beverages,2527,16973.9,1,25.6,1
+2022-05-02,Store_Casablanca,Beverages,2037,14634.33,0,26.5,1
+2022-05-09,Store_Casablanca,Beverages,1899,14380.78,0,23.1,0
+2022-05-16,Store_Casablanca,Beverages,3267,13728.43,0,25.0,0
+2022-05-23,Store_Casablanca,Beverages,1114,12946.42,0,22.9,0
+2022-05-30,Store_Casablanca,Beverages,1445,14124.27,0,22.7,0
+2022-06-06,Store_Casablanca,Beverages,2373,17811.52,0,19.0,0
+2022-06-13,Store_Casablanca,Beverages,2478,17922.15,0,22.8,0
+2022-06-20,Store_Casablanca,Beverages,2328,23682.65,1,17.8,0
+2022-06-27,Store_Casablanca,Beverages,1915,17986.94,0,18.1,0
+2022-07-04,Store_Casablanca,Beverages,4860,23471.28,0,14.2,1
+2022-07-11,Store_Casablanca,Beverages,2361,20001.83,0,16.9,0
+2022-07-18,Store_Casablanca,Beverages,2108,20776.23,1,17.0,0
+2022-07-25,Store_Casablanca,Beverages,2578,19405.79,0,13.5,0
+2022-08-01,Store_Casablanca,Beverages,1501,15839.82,0,9.3,0
+2022-08-08,Store_Casablanca,Beverages,3210,20293.5,1,9.7,0
+2022-08-15,Store_Casablanca,Beverages,2174,18991.92,1,11.7,0
+2022-08-22,Store_Casablanca,Beverages,2752,20626.65,1,7.8,0
+2022-08-29,Store_Casablanca,Beverages,2827,17336.42,0,9.3,0
+2022-09-05,Store_Casablanca,Beverages,2377,12009.01,0,6.6,0
+2022-09-12,Store_Casablanca,Beverages,1211,12233.33,0,4.6,0
+2022-09-19,Store_Casablanca,Beverages,2729,12303.04,1,9.0,0
+2022-09-26,Store_Casablanca,Beverages,2099,14290.78,1,4.6,0
+2022-10-03,Store_Casablanca,Beverages,1572,11089.66,1,7.9,0
+2022-10-10,Store_Casablanca,Beverages,1201,11085.16,0,7.3,0
+2022-10-17,Store_Casablanca,Beverages,1599,10812.68,1,4.5,0
+2022-10-24,Store_Casablanca,Beverages,960,10352.87,0,5.6,0
+2022-10-31,Store_Casablanca,Beverages,892,9823.94,0,3.7,0
+2022-11-07,Store_Casablanca,Beverages,1712,13815.3,0,6.1,0
+2022-11-14,Store_Casablanca,Beverages,3063,13766.5,1,7.4,0
+2022-11-21,Store_Casablanca,Beverages,1207,13475.76,0,6.6,0
+2022-11-28,Store_Casablanca,Beverages,2007,15529.2,0,7.4,1
+2022-12-05,Store_Casablanca,Beverages,1126,13130.17,0,12.4,0
+2022-12-12,Store_Casablanca,Beverages,2335,14645.13,0,9.6,0
+2022-12-19,Store_Casablanca,Beverages,2356,12452.3,0,8.2,0
+2022-12-26,Store_Casablanca,Beverages,3822,15986.71,0,10.6,1
+2023-01-02,Store_Casablanca,Beverages,962,10978.23,0,14.2,1
+2023-01-09,Store_Casablanca,Beverages,1229,9715.04,0,19.8,0
+2023-01-16,Store_Casablanca,Beverages,2084,9052.46,0,15.4,0
+2023-01-23,Store_Casablanca,Beverages,876,8094.86,0,14.5,0
+2023-01-30,Store_Casablanca,Beverages,705,8467.23,0,12.0,0
+2023-02-06,Store_Casablanca,Beverages,1038,11717.97,1,19.0,0
+2023-02-13,Store_Casablanca,Beverages,1739,9802.72,0,21.7,0
+2023-02-20,Store_Casablanca,Beverages,1203,9633.97,0,19.9,0
+2023-02-27,Store_Casablanca,Beverages,898,10767.31,1,18.2,0
+2023-03-06,Store_Casablanca,Beverages,1297,13268.19,1,28.0,0
+2023-03-13,Store_Casablanca,Beverages,1146,11449.58,0,20.9,0
+2023-03-20,Store_Casablanca,Beverages,2208,10909.32,0,22.6,0
+2023-03-27,Store_Casablanca,Beverages,978,9828.15,0,22.9,0
+2023-04-03,Store_Casablanca,Beverages,2659,11899.78,0,23.8,0
+2023-04-10,Store_Casablanca,Beverages,1304,12278.27,0,23.8,0
+2023-04-17,Store_Casablanca,Beverages,2692,12478.98,0,24.2,0
+2023-04-24,Store_Casablanca,Beverages,3697,18048.66,1,27.6,1
+2023-05-01,Store_Casablanca,Beverages,2821,14076.95,0,22.2,0
+2023-05-08,Store_Casablanca,Beverages,1231,12686.01,0,25.6,0
+2023-05-15,Store_Casablanca,Beverages,1819,13749.29,0,23.3,0
+2023-05-22,Store_Casablanca,Beverages,2641,12786.32,0,22.2,0
+2023-05-29,Store_Casablanca,Beverages,2545,14544.8,1,22.1,0
+2023-06-05,Store_Casablanca,Beverages,4745,19560.3,0,17.9,0
+2023-06-12,Store_Casablanca,Beverages,3482,17360.89,0,19.3,0
+2023-06-19,Store_Casablanca,Beverages,2197,20507.0,0,21.3,0
+2023-06-26,Store_Casablanca,Beverages,3153,19616.88,1,22.3,0
+2023-07-03,Store_Casablanca,Beverages,5089,25946.89,1,15.7,1
+2023-07-10,Store_Casablanca,Beverages,2360,19154.57,0,14.1,0
+2023-07-17,Store_Casablanca,Beverages,4924,19871.17,0,15.2,0
+2023-07-24,Store_Casablanca,Beverages,3473,22413.92,1,13.6,0
+2023-07-31,Store_Casablanca,Beverages,3511,19429.17,1,16.4,0
+2023-08-07,Store_Casablanca,Beverages,2624,19706.1,1,8.2,0
+2023-08-14,Store_Casablanca,Beverages,3139,18178.97,0,12.0,0
+2023-08-21,Store_Casablanca,Beverages,1368,16230.47,0,10.1,0
+2023-08-28,Store_Casablanca,Beverages,3236,18246.43,0,9.4,0
+2023-09-04,Store_Casablanca,Beverages,1733,12499.39,0,5.3,0
+2023-09-11,Store_Casablanca,Beverages,2376,10654.6,0,6.5,0
+2023-09-18,Store_Casablanca,Beverages,1568,12216.26,0,7.5,0
+2023-09-25,Store_Casablanca,Beverages,895,10131.48,0,7.7,0
+2023-10-02,Store_Casablanca,Beverages,1179,8412.82,0,4.9,0
+2023-10-09,Store_Casablanca,Beverages,903,9580.21,0,4.4,0
+2023-10-16,Store_Casablanca,Beverages,1332,9403.82,0,3.9,0
+2023-10-23,Store_Casablanca,Beverages,867,9802.01,0,7.7,0
+2023-10-30,Store_Casablanca,Beverages,979,9682.48,0,4.8,0
+2023-11-06,Store_Casablanca,Beverages,1213,14558.38,1,5.0,0
+2023-11-13,Store_Casablanca,Beverages,2328,11985.39,0,9.0,0
+2023-11-20,Store_Casablanca,Beverages,1392,11641.91,0,7.3,0
+2023-11-27,Store_Casablanca,Beverages,1787,17019.47,0,4.8,1
+2023-12-04,Store_Casablanca,Beverages,1472,12934.29,0,10.5,0
+2023-12-11,Store_Casablanca,Beverages,2106,14385.22,1,11.7,0
+2023-12-18,Store_Casablanca,Beverages,2049,12191.65,0,9.9,0
+2023-12-25,Store_Casablanca,Beverages,1358,15448.64,0,9.1,1
+2024-01-01,Store_Casablanca,Beverages,900,10497.34,1,15.2,0
+2022-01-03,Store_Casablanca,Snacks & Confectionery,1276,7673.95,0,12.3,0
+2022-01-10,Store_Casablanca,Snacks & Confectionery,1960,9726.5,1,14.3,1
+2022-01-17,Store_Casablanca,Snacks & Confectionery,855,7533.87,1,15.0,0
+2022-01-24,Store_Casablanca,Snacks & Confectionery,1705,7049.06,0,14.8,0
+2022-01-31,Store_Casablanca,Snacks & Confectionery,1260,7962.27,1,14.2,0
+2022-02-07,Store_Casablanca,Snacks & Confectionery,849,9778.41,1,22.7,0
+2022-02-14,Store_Casablanca,Snacks & Confectionery,814,9280.08,1,22.7,0
+2022-02-21,Store_Casablanca,Snacks & Confectionery,974,7537.01,0,20.3,0
+2022-02-28,Store_Casablanca,Snacks & Confectionery,961,9223.32,0,20.4,0
+2022-03-07,Store_Casablanca,Snacks & Confectionery,1224,10295.49,1,18.7,0
+2022-03-14,Store_Casablanca,Snacks & Confectionery,1416,10690.87,1,20.5,0
+2022-03-21,Store_Casablanca,Snacks & Confectionery,1944,9020.67,0,27.1,0
+2022-03-28,Store_Casablanca,Snacks & Confectionery,1298,8844.86,0,23.7,0
+2022-04-04,Store_Casablanca,Snacks & Confectionery,881,9632.42,0,24.6,0
+2022-04-11,Store_Casablanca,Snacks & Confectionery,2097,9730.16,0,22.3,0
+2022-04-18,Store_Casablanca,Snacks & Confectionery,1616,11068.33,0,23.1,0
+2022-04-25,Store_Casablanca,Snacks & Confectionery,2966,13624.43,1,25.5,1
+2022-05-02,Store_Casablanca,Snacks & Confectionery,1624,14276.24,0,22.8,1
+2022-05-09,Store_Casablanca,Snacks & Confectionery,2093,12514.67,1,23.0,0
+2022-05-16,Store_Casablanca,Snacks & Confectionery,1799,12890.11,1,25.0,0
+2022-05-23,Store_Casablanca,Snacks & Confectionery,1802,10513.76,0,22.3,0
+2022-05-30,Store_Casablanca,Snacks & Confectionery,1374,9802.34,0,25.3,0
+2022-06-06,Store_Casablanca,Snacks & Confectionery,2737,12248.89,0,19.2,0
+2022-06-13,Store_Casablanca,Snacks & Confectionery,1635,11852.76,0,19.6,0
+2022-06-20,Store_Casablanca,Snacks & Confectionery,1296,13250.21,1,20.5,0
+2022-06-27,Store_Casablanca,Snacks & Confectionery,2158,11940.96,0,20.8,0
+2022-07-04,Store_Casablanca,Snacks & Confectionery,3498,16630.16,1,18.4,1
+2022-07-11,Store_Casablanca,Snacks & Confectionery,1081,10322.01,0,17.3,0
+2022-07-18,Store_Casablanca,Snacks & Confectionery,2024,12315.7,0,17.6,0
+2022-07-25,Store_Casablanca,Snacks & Confectionery,1286,11655.97,0,16.3,0
+2022-08-01,Store_Casablanca,Snacks & Confectionery,929,10340.19,0,12.9,0
+2022-08-08,Store_Casablanca,Snacks & Confectionery,2188,10337.25,0,12.7,0
+2022-08-15,Store_Casablanca,Snacks & Confectionery,1648,11247.75,1,8.5,0
+2022-08-22,Store_Casablanca,Snacks & Confectionery,2202,9776.09,0,11.1,0
+2022-08-29,Store_Casablanca,Snacks & Confectionery,1030,10568.99,0,12.2,0
+2022-09-05,Store_Casablanca,Snacks & Confectionery,2550,10910.07,1,8.0,0
+2022-09-12,Store_Casablanca,Snacks & Confectionery,1112,11555.52,1,5.2,0
+2022-09-19,Store_Casablanca,Snacks & Confectionery,1592,9745.01,0,5.1,0
+2022-09-26,Store_Casablanca,Snacks & Confectionery,766,8003.66,0,8.1,0
+2022-10-03,Store_Casablanca,Snacks & Confectionery,1158,7257.66,0,1.1,0
+2022-10-10,Store_Casablanca,Snacks & Confectionery,1146,9157.7,1,1.4,0
+2022-10-17,Store_Casablanca,Snacks & Confectionery,809,9055.04,1,5.3,0
+2022-10-24,Store_Casablanca,Snacks & Confectionery,1448,8384.75,0,6.8,0
+2022-10-31,Store_Casablanca,Snacks & Confectionery,713,8451.9,0,2.8,0
+2022-11-07,Store_Casablanca,Snacks & Confectionery,1713,10977.3,0,5.7,0
+2022-11-14,Store_Casablanca,Snacks & Confectionery,1051,10873.8,0,6.7,0
+2022-11-21,Store_Casablanca,Snacks & Confectionery,836,9624.14,0,7.0,0
+2022-11-28,Store_Casablanca,Snacks & Confectionery,2063,16153.95,1,2.8,1
+2022-12-05,Store_Casablanca,Snacks & Confectionery,2108,11164.47,0,10.4,0
+2022-12-12,Store_Casablanca,Snacks & Confectionery,1498,9527.16,0,9.5,0
+2022-12-19,Store_Casablanca,Snacks & Confectionery,2205,9451.43,0,14.5,0
+2022-12-26,Store_Casablanca,Snacks & Confectionery,1454,11566.84,0,9.6,1
+2023-01-02,Store_Casablanca,Snacks & Confectionery,1661,9306.09,0,13.5,1
+2023-01-09,Store_Casablanca,Snacks & Confectionery,700,8140.81,1,12.5,0
+2023-01-16,Store_Casablanca,Snacks & Confectionery,873,7196.72,0,16.0,0
+2023-01-23,Store_Casablanca,Snacks & Confectionery,1920,7811.6,0,17.5,0
+2023-01-30,Store_Casablanca,Snacks & Confectionery,985,8743.74,1,16.4,0
+2023-02-06,Store_Casablanca,Snacks & Confectionery,1135,7525.5,0,24.5,0
+2023-02-13,Store_Casablanca,Snacks & Confectionery,730,8694.34,0,20.9,0
+2023-02-20,Store_Casablanca,Snacks & Confectionery,825,7796.11,0,17.6,0
+2023-02-27,Store_Casablanca,Snacks & Confectionery,1319,8051.19,0,19.1,0
+2023-03-06,Store_Casablanca,Snacks & Confectionery,2210,10705.47,1,24.7,0
+2023-03-13,Store_Casablanca,Snacks & Confectionery,1511,9590.92,0,22.3,0
+2023-03-20,Store_Casablanca,Snacks & Confectionery,830,9395.34,0,21.5,0
+2023-03-27,Store_Casablanca,Snacks & Confectionery,965,9958.3,1,24.2,0
+2023-04-03,Store_Casablanca,Snacks & Confectionery,1018,9799.15,0,22.0,0
+2023-04-10,Store_Casablanca,Snacks & Confectionery,1120,10516.17,0,28.6,0
+2023-04-17,Store_Casablanca,Snacks & Confectionery,1320,11554.22,0,27.3,0
+2023-04-24,Store_Casablanca,Snacks & Confectionery,1955,14380.24,0,24.6,1
+2023-05-01,Store_Casablanca,Snacks & Confectionery,1011,10918.61,0,23.4,0
+2023-05-08,Store_Casablanca,Snacks & Confectionery,1182,10392.66,0,26.4,0
+2023-05-15,Store_Casablanca,Snacks & Confectionery,1172,12575.39,1,20.1,0
+2023-05-22,Store_Casablanca,Snacks & Confectionery,1060,11066.78,0,25.3,0
+2023-05-29,Store_Casablanca,Snacks & Confectionery,2673,10729.48,0,24.8,0
+2023-06-05,Store_Casablanca,Snacks & Confectionery,1805,10715.7,0,22.8,0
+2023-06-12,Store_Casablanca,Snacks & Confectionery,1458,10786.06,0,19.6,0
+2023-06-19,Store_Casablanca,Snacks & Confectionery,1455,11009.61,0,18.0,0
+2023-06-26,Store_Casablanca,Snacks & Confectionery,1537,14032.91,1,18.3,0
+2023-07-03,Store_Casablanca,Snacks & Confectionery,2527,14208.72,0,16.9,1
+2023-07-10,Store_Casablanca,Snacks & Confectionery,1673,14927.9,1,17.2,0
+2023-07-17,Store_Casablanca,Snacks & Confectionery,1195,11034.27,0,16.0,0
+2023-07-24,Store_Casablanca,Snacks & Confectionery,1006,11227.47,0,13.6,0
+2023-07-31,Store_Casablanca,Snacks & Confectionery,1013,10293.45,0,15.3,0
+2023-08-07,Store_Casablanca,Snacks & Confectionery,2290,11359.52,1,10.0,0
+2023-08-14,Store_Casablanca,Snacks & Confectionery,1517,10262.16,0,10.3,0
+2023-08-21,Store_Casablanca,Snacks & Confectionery,1358,11613.46,0,10.4,0
+2023-08-28,Store_Casablanca,Snacks & Confectionery,2070,10204.73,0,10.6,0
+2023-09-04,Store_Casablanca,Snacks & Confectionery,869,10025.89,0,2.3,0
+2023-09-11,Store_Casablanca,Snacks & Confectionery,1472,9356.04,1,5.7,0
+2023-09-18,Store_Casablanca,Snacks & Confectionery,1085,8627.43,0,4.8,0
+2023-09-25,Store_Casablanca,Snacks & Confectionery,1146,10005.43,1,2.1,0
+2023-10-02,Store_Casablanca,Snacks & Confectionery,828,9074.31,1,5.2,0
+2023-10-09,Store_Casablanca,Snacks & Confectionery,698,7842.06,0,3.9,0
+2023-10-16,Store_Casablanca,Snacks & Confectionery,1845,10390.99,1,2.9,0
+2023-10-23,Store_Casablanca,Snacks & Confectionery,892,8644.45,0,3.7,0
+2023-10-30,Store_Casablanca,Snacks & Confectionery,1487,8699.06,1,2.1,0
+2023-11-06,Store_Casablanca,Snacks & Confectionery,1129,10676.19,0,3.6,0
+2023-11-13,Store_Casablanca,Snacks & Confectionery,1475,9832.7,0,12.0,0
+2023-11-20,Store_Casablanca,Snacks & Confectionery,949,9352.49,0,7.7,0
+2023-11-27,Store_Casablanca,Snacks & Confectionery,1256,12470.47,0,4.3,1
+2023-12-04,Store_Casablanca,Snacks & Confectionery,1365,9777.14,0,10.1,0
+2023-12-11,Store_Casablanca,Snacks & Confectionery,1427,11435.19,0,7.0,0
+2023-12-18,Store_Casablanca,Snacks & Confectionery,1055,9717.42,0,10.9,0
+2023-12-25,Store_Casablanca,Snacks & Confectionery,1626,15120.72,1,9.3,1
+2024-01-01,Store_Casablanca,Snacks & Confectionery,822,7781.34,0,15.9,0
+2022-01-03,Store_Casablanca,Frozen Foods,625,7338.65,0,11.8,0
+2022-01-10,Store_Casablanca,Frozen Foods,1629,10306.59,1,14.4,1
+2022-01-17,Store_Casablanca,Frozen Foods,1286,8888.08,1,15.6,0
+2022-01-24,Store_Casablanca,Frozen Foods,669,7177.3,0,13.7,0
+2022-01-31,Store_Casablanca,Frozen Foods,890,9505.5,1,12.9,0
+2022-02-07,Store_Casablanca,Frozen Foods,1110,9192.34,0,19.6,0
+2022-02-14,Store_Casablanca,Frozen Foods,802,7889.5,0,23.2,0
+2022-02-21,Store_Casablanca,Frozen Foods,1049,9289.61,0,21.4,0
+2022-02-28,Store_Casablanca,Frozen Foods,786,8996.29,0,22.2,0
+2022-03-07,Store_Casablanca,Frozen Foods,1185,10704.18,0,21.8,0
+2022-03-14,Store_Casablanca,Frozen Foods,2524,11048.76,0,21.2,0
+2022-03-21,Store_Casablanca,Frozen Foods,1158,9853.01,0,24.0,0
+2022-03-28,Store_Casablanca,Frozen Foods,1119,11308.88,1,25.9,0
+2022-04-04,Store_Casablanca,Frozen Foods,915,10971.85,0,27.4,0
+2022-04-11,Store_Casablanca,Frozen Foods,1145,10583.24,0,26.9,0
+2022-04-18,Store_Casablanca,Frozen Foods,1172,11051.3,0,23.1,0
+2022-04-25,Store_Casablanca,Frozen Foods,1316,15353.0,0,26.8,1
+2022-05-02,Store_Casablanca,Frozen Foods,2376,12908.42,0,24.3,1
+2022-05-09,Store_Casablanca,Frozen Foods,1994,13095.17,0,21.2,0
+2022-05-16,Store_Casablanca,Frozen Foods,1129,11494.49,0,21.9,0
+2022-05-23,Store_Casablanca,Frozen Foods,1088,12035.39,0,21.5,0
+2022-05-30,Store_Casablanca,Frozen Foods,1719,13734.84,1,22.9,0
+2022-06-06,Store_Casablanca,Frozen Foods,1150,12319.36,0,20.4,0
+2022-06-13,Store_Casablanca,Frozen Foods,1582,14012.47,1,19.5,0
+2022-06-20,Store_Casablanca,Frozen Foods,2547,15406.73,1,19.5,0
+2022-06-27,Store_Casablanca,Frozen Foods,1411,14840.83,1,21.3,0
+2022-07-04,Store_Casablanca,Frozen Foods,2333,13733.19,0,12.9,1
+2022-07-11,Store_Casablanca,Frozen Foods,1724,13368.27,1,17.3,0
+2022-07-18,Store_Casablanca,Frozen Foods,1024,11570.34,0,14.1,0
+2022-07-25,Store_Casablanca,Frozen Foods,1591,12711.32,0,12.6,0
+2022-08-01,Store_Casablanca,Frozen Foods,1019,10821.81,0,4.8,0
+2022-08-08,Store_Casablanca,Frozen Foods,1810,10600.72,0,8.2,0
+2022-08-15,Store_Casablanca,Frozen Foods,1903,11304.72,1,17.4,0
+2022-08-22,Store_Casablanca,Frozen Foods,1469,10546.45,0,11.2,0
+2022-08-29,Store_Casablanca,Frozen Foods,842,10059.93,0,5.6,0
+2022-09-05,Store_Casablanca,Frozen Foods,1346,9124.53,0,5.5,0
+2022-09-12,Store_Casablanca,Frozen Foods,976,9790.89,0,6.4,0
+2022-09-19,Store_Casablanca,Frozen Foods,1757,9371.32,0,8.2,0
+2022-09-26,Store_Casablanca,Frozen Foods,1124,9336.0,0,2.9,0
+2022-10-03,Store_Casablanca,Frozen Foods,1070,10831.22,1,5.1,0
+2022-10-10,Store_Casablanca,Frozen Foods,1172,8293.64,0,9.1,0
+2022-10-17,Store_Casablanca,Frozen Foods,796,7385.95,0,2.3,0
+2022-10-24,Store_Casablanca,Frozen Foods,999,8572.36,0,4.3,0
+2022-10-31,Store_Casablanca,Frozen Foods,1645,7978.02,0,3.1,0
+2022-11-07,Store_Casablanca,Frozen Foods,1824,10592.86,0,3.3,0
+2022-11-14,Store_Casablanca,Frozen Foods,2073,11120.76,0,7.1,0
+2022-11-21,Store_Casablanca,Frozen Foods,988,10655.75,0,6.1,0
+2022-11-28,Store_Casablanca,Frozen Foods,1684,14414.8,0,4.4,1
+2022-12-05,Store_Casablanca,Frozen Foods,957,11216.88,0,6.2,0
+2022-12-12,Store_Casablanca,Frozen Foods,2276,11727.03,1,6.9,0
+2022-12-19,Store_Casablanca,Frozen Foods,829,9468.38,0,7.0,0
+2022-12-26,Store_Casablanca,Frozen Foods,2305,14572.53,1,9.0,1
+2023-01-02,Store_Casablanca,Frozen Foods,1289,9613.03,0,15.5,1
+2023-01-09,Store_Casablanca,Frozen Foods,660,7190.03,0,15.7,0
+2023-01-16,Store_Casablanca,Frozen Foods,1957,7884.42,0,12.4,0
+2023-01-23,Store_Casablanca,Frozen Foods,886,8158.41,1,14.3,0
+2023-01-30,Store_Casablanca,Frozen Foods,2015,8088.24,0,14.9,0
+2023-02-06,Store_Casablanca,Frozen Foods,1593,9185.06,0,17.6,0
+2023-02-13,Store_Casablanca,Frozen Foods,1049,10097.5,1,22.1,0
+2023-02-20,Store_Casablanca,Frozen Foods,972,8733.9,0,21.9,0
+2023-02-27,Store_Casablanca,Frozen Foods,868,8417.61,0,19.8,0
+2023-03-06,Store_Casablanca,Frozen Foods,2085,8893.24,0,23.1,0
+2023-03-13,Store_Casablanca,Frozen Foods,1321,12333.17,1,23.5,0
+2023-03-20,Store_Casablanca,Frozen Foods,1370,9568.16,0,25.3,0
+2023-03-27,Store_Casablanca,Frozen Foods,1034,9353.32,0,24.7,0
+2023-04-03,Store_Casablanca,Frozen Foods,919,10530.85,0,25.9,0
+2023-04-10,Store_Casablanca,Frozen Foods,1353,10977.62,0,25.7,0
+2023-04-17,Store_Casablanca,Frozen Foods,1160,11302.41,0,26.2,0
+2023-04-24,Store_Casablanca,Frozen Foods,1376,14676.39,1,28.2,1
+2023-05-01,Store_Casablanca,Frozen Foods,1760,11263.57,0,24.1,0
+2023-05-08,Store_Casablanca,Frozen Foods,1389,12953.03,1,20.2,0
+2023-05-15,Store_Casablanca,Frozen Foods,1826,11100.12,0,24.5,0
+2023-05-22,Store_Casablanca,Frozen Foods,1752,13454.6,1,25.8,0
+2023-05-29,Store_Casablanca,Frozen Foods,2343,10912.81,0,22.9,0
+2023-06-05,Store_Casablanca,Frozen Foods,2219,13998.52,1,20.1,0
+2023-06-12,Store_Casablanca,Frozen Foods,2328,14342.21,1,22.1,0
+2023-06-19,Store_Casablanca,Frozen Foods,1995,11862.96,0,22.3,0
+2023-06-26,Store_Casablanca,Frozen Foods,1858,12280.24,0,21.2,0
+2023-07-03,Store_Casablanca,Frozen Foods,1309,14542.48,0,16.2,1
+2023-07-10,Store_Casablanca,Frozen Foods,1636,12199.56,0,16.3,0
+2023-07-17,Store_Casablanca,Frozen Foods,1645,11539.74,0,15.4,0
+2023-07-24,Store_Casablanca,Frozen Foods,2552,13377.54,1,14.9,0
+2023-07-31,Store_Casablanca,Frozen Foods,1642,12579.63,0,19.7,0
+2023-08-07,Store_Casablanca,Frozen Foods,1433,10652.07,0,8.0,0
+2023-08-14,Store_Casablanca,Frozen Foods,2390,11077.29,0,10.2,0
+2023-08-21,Store_Casablanca,Frozen Foods,1696,10806.4,0,11.3,0
+2023-08-28,Store_Casablanca,Frozen Foods,1369,11614.65,0,10.1,0
+2023-09-04,Store_Casablanca,Frozen Foods,1467,9762.68,0,7.8,0
+2023-09-11,Store_Casablanca,Frozen Foods,1966,11909.89,1,10.7,0
+2023-09-18,Store_Casablanca,Frozen Foods,1075,9734.48,0,6.4,0
+2023-09-25,Store_Casablanca,Frozen Foods,1438,10748.77,1,9.6,0
+2023-10-02,Store_Casablanca,Frozen Foods,801,8632.7,0,5.3,0
+2023-10-09,Store_Casablanca,Frozen Foods,933,9356.04,1,5.0,0
+2023-10-16,Store_Casablanca,Frozen Foods,818,8082.84,0,5.0,0
+2023-10-23,Store_Casablanca,Frozen Foods,1348,8654.63,0,5.8,0
+2023-10-30,Store_Casablanca,Frozen Foods,1126,8155.87,0,5.1,0
+2023-11-06,Store_Casablanca,Frozen Foods,1182,10623.89,0,7.5,0
+2023-11-13,Store_Casablanca,Frozen Foods,1455,12825.79,1,5.8,0
+2023-11-20,Store_Casablanca,Frozen Foods,1413,12421.43,1,7.4,0
+2023-11-27,Store_Casablanca,Frozen Foods,2467,16143.86,1,8.3,1
+2023-12-04,Store_Casablanca,Frozen Foods,2071,10783.03,0,12.3,0
+2023-12-11,Store_Casablanca,Frozen Foods,1670,9985.76,0,9.8,0
+2023-12-18,Store_Casablanca,Frozen Foods,1077,12310.78,1,8.6,0
+2023-12-25,Store_Casablanca,Frozen Foods,1472,14014.16,0,8.9,1
+2024-01-01,Store_Casablanca,Frozen Foods,651,7772.95,0,14.2,0
+2022-01-03,Store_Casablanca,Personal Care,565,4845.13,0,18.5,0
+2022-01-10,Store_Casablanca,Personal Care,1003,6239.14,0,15.8,1
+2022-01-17,Store_Casablanca,Personal Care,1074,6294.2,1,16.4,0
+2022-01-24,Store_Casablanca,Personal Care,492,4721.53,0,15.7,0
+2022-01-31,Store_Casablanca,Personal Care,713,6460.27,1,19.7,0
+2022-02-07,Store_Casablanca,Personal Care,1001,6253.25,0,21.6,0
+2022-02-14,Store_Casablanca,Personal Care,803,6567.04,1,20.7,0
+2022-02-21,Store_Casablanca,Personal Care,1072,7378.84,1,14.4,0
+2022-02-28,Store_Casablanca,Personal Care,1272,7197.19,1,20.9,0
+2022-03-07,Store_Casablanca,Personal Care,965,7307.9,0,22.4,0
+2022-03-14,Store_Casablanca,Personal Care,1174,7235.87,0,23.5,0
+2022-03-21,Store_Casablanca,Personal Care,1769,7527.4,0,26.7,0
+2022-03-28,Store_Casablanca,Personal Care,1424,6173.91,0,25.7,0
+2022-04-04,Store_Casablanca,Personal Care,1809,9554.09,1,25.6,0
+2022-04-11,Store_Casablanca,Personal Care,943,9477.92,1,28.2,0
+2022-04-18,Store_Casablanca,Personal Care,791,8066.15,0,28.0,0
+2022-04-25,Store_Casablanca,Personal Care,904,9972.37,0,25.2,1
+2022-05-02,Store_Casablanca,Personal Care,1026,10375.96,0,23.7,1
+2022-05-09,Store_Casablanca,Personal Care,2096,8994.01,0,25.5,0
+2022-05-16,Store_Casablanca,Personal Care,1912,8763.63,0,23.5,0
+2022-05-23,Store_Casablanca,Personal Care,1020,8420.86,0,22.2,0
+2022-05-30,Store_Casablanca,Personal Care,2015,8650.27,0,24.4,0
+2022-06-06,Store_Casablanca,Personal Care,1611,10686.03,1,16.7,0
+2022-06-13,Store_Casablanca,Personal Care,1677,9344.38,0,19.1,0
+2022-06-20,Store_Casablanca,Personal Care,868,8708.26,0,21.5,0
+2022-06-27,Store_Casablanca,Personal Care,769,7790.6,0,20.8,0
+2022-07-04,Store_Casablanca,Personal Care,1970,11520.97,0,14.9,1
+2022-07-11,Store_Casablanca,Personal Care,1217,8649.95,1,15.6,0
+2022-07-18,Store_Casablanca,Personal Care,1098,8497.13,0,16.6,0
+2022-07-25,Store_Casablanca,Personal Care,696,7859.28,0,18.6,0
+2022-08-01,Store_Casablanca,Personal Care,1922,9567.12,1,8.1,0
+2022-08-08,Store_Casablanca,Personal Care,707,7156.51,0,15.0,0
+2022-08-15,Store_Casablanca,Personal Care,1614,8443.35,0,6.9,0
+2022-08-22,Store_Casablanca,Personal Care,666,7457.13,0,11.3,0
+2022-08-29,Store_Casablanca,Personal Care,1494,8145.74,0,7.0,0
+2022-09-05,Store_Casablanca,Personal Care,1004,8637.15,1,9.7,0
+2022-09-12,Store_Casablanca,Personal Care,1225,7371.2,0,9.7,0
+2022-09-19,Store_Casablanca,Personal Care,701,7111.69,0,4.9,0
+2022-09-26,Store_Casablanca,Personal Care,777,6636.09,0,8.8,0
+2022-10-03,Store_Casablanca,Personal Care,605,7128.57,1,5.5,0
+2022-10-10,Store_Casablanca,Personal Care,687,5728.4,0,2.9,0
+2022-10-17,Store_Casablanca,Personal Care,1102,6517.74,0,4.5,0
+2022-10-24,Store_Casablanca,Personal Care,664,6230.87,0,5.0,0
+2022-10-31,Store_Casablanca,Personal Care,634,6260.86,0,5.9,0
+2022-11-07,Store_Casablanca,Personal Care,988,9224.14,0,7.1,0
+2022-11-14,Store_Casablanca,Personal Care,747,7659.98,0,8.3,0
+2022-11-21,Store_Casablanca,Personal Care,819,8078.93,0,6.1,0
+2022-11-28,Store_Casablanca,Personal Care,1800,9754.49,0,2.7,1
+2022-12-05,Store_Casablanca,Personal Care,972,8401.73,1,7.7,0
+2022-12-12,Store_Casablanca,Personal Care,1315,8574.26,1,9.2,0
+2022-12-19,Store_Casablanca,Personal Care,830,8519.29,1,11.0,0
+2022-12-26,Store_Casablanca,Personal Care,1171,10139.51,0,9.1,1
+2023-01-02,Store_Casablanca,Personal Care,1297,7169.52,0,20.9,1
+2023-01-09,Store_Casablanca,Personal Care,454,5408.33,0,14.6,0
+2023-01-16,Store_Casablanca,Personal Care,743,5882.58,1,15.9,0
+2023-01-23,Store_Casablanca,Personal Care,961,5723.92,0,14.5,0
+2023-01-30,Store_Casablanca,Personal Care,661,5412.82,0,16.6,0
+2023-02-06,Store_Casablanca,Personal Care,648,6672.59,0,18.1,0
+2023-02-13,Store_Casablanca,Personal Care,806,6756.23,1,17.6,0
+2023-02-20,Store_Casablanca,Personal Care,959,6508.06,1,18.8,0
+2023-02-27,Store_Casablanca,Personal Care,1536,6545.07,0,20.1,0
+2023-03-06,Store_Casablanca,Personal Care,687,6619.15,0,23.6,0
+2023-03-13,Store_Casablanca,Personal Care,784,6980.88,0,26.2,0
+2023-03-20,Store_Casablanca,Personal Care,725,6701.83,0,24.0,0
+2023-03-27,Store_Casablanca,Personal Care,944,8442.9,1,22.3,0
+2023-04-03,Store_Casablanca,Personal Care,780,7728.39,0,25.9,0
+2023-04-10,Store_Casablanca,Personal Care,2477,10010.14,1,27.5,0
+2023-04-17,Store_Casablanca,Personal Care,1190,8983.29,1,25.5,0
+2023-04-24,Store_Casablanca,Personal Care,1363,8745.18,0,22.0,1
+2023-05-01,Store_Casablanca,Personal Care,940,10461.89,1,22.2,0
+2023-05-08,Store_Casablanca,Personal Care,861,8369.93,0,25.2,0
+2023-05-15,Store_Casablanca,Personal Care,1922,9734.38,1,27.3,0
+2023-05-22,Store_Casablanca,Personal Care,699,8322.29,0,20.9,0
+2023-05-29,Store_Casablanca,Personal Care,687,8193.07,0,25.1,0
+2023-06-05,Store_Casablanca,Personal Care,1175,9105.75,0,20.5,0
+2023-06-12,Store_Casablanca,Personal Care,1191,8486.16,0,21.2,0
+2023-06-19,Store_Casablanca,Personal Care,1259,9115.45,0,22.6,0
+2023-06-26,Store_Casablanca,Personal Care,733,8635.32,0,15.0,0
+2023-07-03,Store_Casablanca,Personal Care,1469,10391.15,0,16.7,1
+2023-07-10,Store_Casablanca,Personal Care,835,9428.38,0,14.1,0
+2023-07-17,Store_Casablanca,Personal Care,749,7995.69,0,17.5,0
+2023-07-24,Store_Casablanca,Personal Care,1293,10268.35,1,14.2,0
+2023-07-31,Store_Casablanca,Personal Care,986,7495.55,0,13.9,0
+2023-08-07,Store_Casablanca,Personal Care,904,7907.21,1,10.1,0
+2023-08-14,Store_Casablanca,Personal Care,763,8658.72,1,11.8,0
+2023-08-21,Store_Casablanca,Personal Care,947,8780.67,0,11.0,0
+2023-08-28,Store_Casablanca,Personal Care,732,8607.11,1,8.4,0
+2023-09-04,Store_Casablanca,Personal Care,1713,7280.5,0,6.3,0
+2023-09-11,Store_Casablanca,Personal Care,766,6838.16,0,3.9,0
+2023-09-18,Store_Casablanca,Personal Care,536,6389.07,0,1.6,0
+2023-09-25,Store_Casablanca,Personal Care,590,6223.48,0,8.4,0
+2023-10-02,Store_Casablanca,Personal Care,614,6526.72,1,3.6,0
+2023-10-09,Store_Casablanca,Personal Care,696,6091.06,0,4.7,0
+2023-10-16,Store_Casablanca,Personal Care,607,6415.43,0,6.1,0
+2023-10-23,Store_Casablanca,Personal Care,1137,7211.86,1,3.9,0
+2023-10-30,Store_Casablanca,Personal Care,1078,6893.62,1,3.5,0
+2023-11-06,Store_Casablanca,Personal Care,1159,9912.04,1,5.6,0
+2023-11-13,Store_Casablanca,Personal Care,899,7950.33,0,7.0,0
+2023-11-20,Store_Casablanca,Personal Care,895,8406.23,1,8.4,0
+2023-11-27,Store_Casablanca,Personal Care,934,10020.41,0,6.2,1
+2023-12-04,Store_Casablanca,Personal Care,982,8960.56,1,7.6,0
+2023-12-11,Store_Casablanca,Personal Care,1629,8108.02,0,9.7,0
+2023-12-18,Store_Casablanca,Personal Care,813,7238.68,0,7.2,0
+2023-12-25,Store_Casablanca,Personal Care,799,9081.53,0,9.0,1
+2024-01-01,Store_Casablanca,Personal Care,477,5466.36,0,12.9,0
+2022-01-03,Store_Rabat,Fruits & Vegetables,1123,9781.67,0,13.1,0
+2022-01-10,Store_Rabat,Fruits & Vegetables,1151,12268.37,0,13.9,1
+2022-01-17,Store_Rabat,Fruits & Vegetables,860,9591.21,0,18.1,0
+2022-01-24,Store_Rabat,Fruits & Vegetables,2216,9259.67,1,16.1,0
+2022-01-31,Store_Rabat,Fruits & Vegetables,889,9059.32,0,14.1,0
+2022-02-07,Store_Rabat,Fruits & Vegetables,1681,10386.58,0,21.7,0
+2022-02-14,Store_Rabat,Fruits & Vegetables,1740,10741.63,0,18.7,0
+2022-02-21,Store_Rabat,Fruits & Vegetables,1223,11437.43,0,21.2,0
+2022-02-28,Store_Rabat,Fruits & Vegetables,1505,11475.78,1,17.4,0
+2022-03-07,Store_Rabat,Fruits & Vegetables,3706,15947.29,0,21.4,0
+2022-03-14,Store_Rabat,Fruits & Vegetables,2462,15419.67,0,24.9,0
+2022-03-21,Store_Rabat,Fruits & Vegetables,1624,17537.56,1,25.6,0
+2022-03-28,Store_Rabat,Fruits & Vegetables,3366,15691.57,0,21.6,0
+2022-04-04,Store_Rabat,Fruits & Vegetables,2715,17407.24,0,26.1,0
+2022-04-11,Store_Rabat,Fruits & Vegetables,2912,13980.45,0,23.2,0
+2022-04-18,Store_Rabat,Fruits & Vegetables,1436,16804.34,0,21.7,0
+2022-04-25,Store_Rabat,Fruits & Vegetables,2756,20324.28,0,22.9,1
+2022-05-02,Store_Rabat,Fruits & Vegetables,2335,23449.03,0,18.0,1
+2022-05-09,Store_Rabat,Fruits & Vegetables,2045,16737.36,0,25.7,0
+2022-05-16,Store_Rabat,Fruits & Vegetables,4592,19619.58,1,21.0,0
+2022-05-23,Store_Rabat,Fruits & Vegetables,2291,17956.14,0,24.3,0
+2022-05-30,Store_Rabat,Fruits & Vegetables,1597,18807.85,0,22.9,0
+2022-06-06,Store_Rabat,Fruits & Vegetables,2629,14924.96,0,17.5,0
+2022-06-13,Store_Rabat,Fruits & Vegetables,1180,13882.01,0,22.2,0
+2022-06-20,Store_Rabat,Fruits & Vegetables,1268,15222.46,0,17.6,0
+2022-06-27,Store_Rabat,Fruits & Vegetables,1374,14366.29,0,16.2,0
+2022-07-04,Store_Rabat,Fruits & Vegetables,2019,21065.72,1,15.8,1
+2022-07-11,Store_Rabat,Fruits & Vegetables,1643,17410.82,1,13.1,0
+2022-07-18,Store_Rabat,Fruits & Vegetables,2963,13787.31,0,19.3,0
+2022-07-25,Store_Rabat,Fruits & Vegetables,3547,15644.06,0,16.5,0
+2022-08-01,Store_Rabat,Fruits & Vegetables,1564,14560.12,0,10.7,0
+2022-08-08,Store_Rabat,Fruits & Vegetables,1259,14913.73,1,9.6,0
+2022-08-15,Store_Rabat,Fruits & Vegetables,3126,14921.32,1,7.2,0
+2022-08-22,Store_Rabat,Fruits & Vegetables,1883,17475.46,1,12.1,0
+2022-08-29,Store_Rabat,Fruits & Vegetables,1503,16440.32,1,11.7,0
+2022-09-05,Store_Rabat,Fruits & Vegetables,1215,13733.77,0,5.8,0
+2022-09-12,Store_Rabat,Fruits & Vegetables,1170,12002.31,0,5.9,0
+2022-09-19,Store_Rabat,Fruits & Vegetables,1790,10904.95,0,6.5,0
+2022-09-26,Store_Rabat,Fruits & Vegetables,2191,13945.9,1,8.2,0
+2022-10-03,Store_Rabat,Fruits & Vegetables,2245,11073.59,0,3.4,0
+2022-10-10,Store_Rabat,Fruits & Vegetables,1811,12295.7,1,5.9,0
+2022-10-17,Store_Rabat,Fruits & Vegetables,1245,11900.76,1,8.2,0
+2022-10-24,Store_Rabat,Fruits & Vegetables,910,9713.63,0,2.4,0
+2022-10-31,Store_Rabat,Fruits & Vegetables,1160,11840.82,1,7.1,0
+2022-11-07,Store_Rabat,Fruits & Vegetables,2265,15516.14,0,7.8,0
+2022-11-14,Store_Rabat,Fruits & Vegetables,1973,15627.08,1,4.2,0
+2022-11-21,Store_Rabat,Fruits & Vegetables,1158,13671.11,0,8.0,0
+2022-11-28,Store_Rabat,Fruits & Vegetables,1637,18025.92,0,5.2,1
+2022-12-05,Store_Rabat,Fruits & Vegetables,1344,14766.89,1,7.2,0
+2022-12-12,Store_Rabat,Fruits & Vegetables,1699,10946.2,0,9.3,0
+2022-12-19,Store_Rabat,Fruits & Vegetables,1620,13522.54,0,10.5,0
+2022-12-26,Store_Rabat,Fruits & Vegetables,2324,19951.4,1,8.8,1
+2023-01-02,Store_Rabat,Fruits & Vegetables,1649,12487.61,0,15.1,1
+2023-01-09,Store_Rabat,Fruits & Vegetables,1152,9996.35,0,18.0,0
+2023-01-16,Store_Rabat,Fruits & Vegetables,927,9431.91,0,14.5,0
+2023-01-23,Store_Rabat,Fruits & Vegetables,1691,9159.39,0,17.5,0
+2023-01-30,Store_Rabat,Fruits & Vegetables,1767,9379.56,0,16.0,0
+2023-02-06,Store_Rabat,Fruits & Vegetables,3182,12764.54,1,21.0,0
+2023-02-13,Store_Rabat,Fruits & Vegetables,956,9885.94,0,16.2,0
+2023-02-20,Store_Rabat,Fruits & Vegetables,858,10211.22,0,20.0,0
+2023-02-27,Store_Rabat,Fruits & Vegetables,1056,10118.0,0,18.8,0
+2023-03-06,Store_Rabat,Fruits & Vegetables,2444,16612.01,0,25.0,0
+2023-03-13,Store_Rabat,Fruits & Vegetables,3836,18884.33,1,22.9,0
+2023-03-20,Store_Rabat,Fruits & Vegetables,1700,16739.34,1,24.6,0
+2023-03-27,Store_Rabat,Fruits & Vegetables,1181,13692.04,0,25.5,0
+2023-04-03,Store_Rabat,Fruits & Vegetables,3480,19618.12,1,23.7,0
+2023-04-10,Store_Rabat,Fruits & Vegetables,2496,19179.72,0,24.3,0
+2023-04-17,Store_Rabat,Fruits & Vegetables,2261,16466.62,0,28.3,0
+2023-04-24,Store_Rabat,Fruits & Vegetables,2074,22267.28,0,26.5,1
+2023-05-01,Store_Rabat,Fruits & Vegetables,1786,17613.74,0,19.2,0
+2023-05-08,Store_Rabat,Fruits & Vegetables,2176,17671.86,0,23.4,0
+2023-05-15,Store_Rabat,Fruits & Vegetables,2720,19444.14,0,23.1,0
+2023-05-22,Store_Rabat,Fruits & Vegetables,2089,18209.88,0,21.9,0
+2023-05-29,Store_Rabat,Fruits & Vegetables,3947,17906.37,0,21.7,0
+2023-06-05,Store_Rabat,Fruits & Vegetables,1431,14143.79,0,23.8,0
+2023-06-12,Store_Rabat,Fruits & Vegetables,1922,15582.41,1,18.3,0
+2023-06-19,Store_Rabat,Fruits & Vegetables,2046,16398.82,1,20.5,0
+2023-06-26,Store_Rabat,Fruits & Vegetables,1448,16236.73,0,20.3,0
+2023-07-03,Store_Rabat,Fruits & Vegetables,4448,22858.76,1,15.7,1
+2023-07-10,Store_Rabat,Fruits & Vegetables,2267,14600.56,0,15.2,0
+2023-07-17,Store_Rabat,Fruits & Vegetables,1668,13620.81,0,13.0,0
+2023-07-24,Store_Rabat,Fruits & Vegetables,2976,14694.83,0,13.4,0
+2023-07-31,Store_Rabat,Fruits & Vegetables,3305,13572.61,0,14.5,0
+2023-08-07,Store_Rabat,Fruits & Vegetables,1398,13332.76,0,9.5,0
+2023-08-14,Store_Rabat,Fruits & Vegetables,1796,12960.34,0,10.4,0
+2023-08-21,Store_Rabat,Fruits & Vegetables,1079,12706.27,0,7.3,0
+2023-08-28,Store_Rabat,Fruits & Vegetables,1842,13415.08,0,12.6,0
+2023-09-04,Store_Rabat,Fruits & Vegetables,1174,11943.22,0,10.8,0
+2023-09-11,Store_Rabat,Fruits & Vegetables,2456,12063.19,0,8.9,0
+2023-09-18,Store_Rabat,Fruits & Vegetables,1455,12442.16,0,8.7,0
+2023-09-25,Store_Rabat,Fruits & Vegetables,2109,12228.11,0,8.3,0
+2023-10-02,Store_Rabat,Fruits & Vegetables,1555,10124.74,0,2.6,0
+2023-10-09,Store_Rabat,Fruits & Vegetables,1422,10576.33,0,3.5,0
+2023-10-16,Store_Rabat,Fruits & Vegetables,2036,10308.01,0,6.7,0
+2023-10-23,Store_Rabat,Fruits & Vegetables,1073,10109.79,0,6.5,0
+2023-10-30,Store_Rabat,Fruits & Vegetables,1513,10363.25,0,6.5,0
+2023-11-06,Store_Rabat,Fruits & Vegetables,1436,13553.36,0,7.2,0
+2023-11-13,Store_Rabat,Fruits & Vegetables,1434,13562.16,0,6.5,0
+2023-11-20,Store_Rabat,Fruits & Vegetables,1506,17014.06,1,6.3,0
+2023-11-27,Store_Rabat,Fruits & Vegetables,3109,18153.24,0,3.3,1
+2023-12-04,Store_Rabat,Fruits & Vegetables,1762,13960.86,1,7.7,0
+2023-12-11,Store_Rabat,Fruits & Vegetables,3104,16078.11,1,7.3,0
+2023-12-18,Store_Rabat,Fruits & Vegetables,2246,13014.45,0,11.0,0
+2023-12-25,Store_Rabat,Fruits & Vegetables,1557,15100.11,0,9.8,1
+2024-01-01,Store_Rabat,Fruits & Vegetables,1174,10060.04,0,9.3,0
+2022-01-03,Store_Rabat,Bakery,1035,8541.76,1,11.8,0
+2022-01-10,Store_Rabat,Bakery,1817,9063.0,0,13.4,1
+2022-01-17,Store_Rabat,Bakery,560,6654.83,0,10.3,0
+2022-01-24,Store_Rabat,Bakery,869,7170.11,0,14.4,0
+2022-01-31,Store_Rabat,Bakery,1180,8745.5,1,16.0,0
+2022-02-07,Store_Rabat,Bakery,2010,9362.95,1,19.7,0
+2022-02-14,Store_Rabat,Bakery,961,9762.87,1,19.9,0
+2022-02-21,Store_Rabat,Bakery,1885,9780.09,1,16.0,0
+2022-02-28,Store_Rabat,Bakery,1200,7951.18,0,19.3,0
+2022-03-07,Store_Rabat,Bakery,2134,10994.43,0,22.9,0
+2022-03-14,Store_Rabat,Bakery,2189,9144.83,0,21.6,0
+2022-03-21,Store_Rabat,Bakery,1805,11320.82,1,23.3,0
+2022-03-28,Store_Rabat,Bakery,915,9013.99,0,20.6,0
+2022-04-04,Store_Rabat,Bakery,881,9458.2,0,26.1,0
+2022-04-11,Store_Rabat,Bakery,1959,9662.1,0,22.0,0
+2022-04-18,Store_Rabat,Bakery,929,10625.41,0,29.2,0
+2022-04-25,Store_Rabat,Bakery,1246,12893.98,0,24.8,1
+2022-05-02,Store_Rabat,Bakery,2497,16021.63,1,23.1,1
+2022-05-09,Store_Rabat,Bakery,2185,12826.68,0,23.6,0
+2022-05-16,Store_Rabat,Bakery,1523,12209.59,0,24.5,0
+2022-05-23,Store_Rabat,Bakery,1022,11526.41,0,23.9,0
+2022-05-30,Store_Rabat,Bakery,1984,12900.95,1,21.7,0
+2022-06-06,Store_Rabat,Bakery,2368,13124.28,1,20.3,0
+2022-06-13,Store_Rabat,Bakery,2662,12494.5,0,22.3,0
+2022-06-20,Store_Rabat,Bakery,1913,12599.25,0,20.1,0
+2022-06-27,Store_Rabat,Bakery,1672,12688.75,0,16.3,0
+2022-07-04,Store_Rabat,Bakery,2485,14542.11,0,13.1,1
+2022-07-11,Store_Rabat,Bakery,1356,12635.84,0,16.5,0
+2022-07-18,Store_Rabat,Bakery,2148,13151.03,1,13.5,0
+2022-07-25,Store_Rabat,Bakery,2276,11749.56,0,15.8,0
+2022-08-01,Store_Rabat,Bakery,789,9303.81,0,10.3,0
+2022-08-08,Store_Rabat,Bakery,1468,10885.68,0,9.6,0
+2022-08-15,Store_Rabat,Bakery,906,10377.97,0,9.5,0
+2022-08-22,Store_Rabat,Bakery,2499,10262.63,0,11.1,0
+2022-08-29,Store_Rabat,Bakery,1398,10281.12,0,9.7,0
+2022-09-05,Store_Rabat,Bakery,1041,11367.18,1,11.3,0
+2022-09-12,Store_Rabat,Bakery,1049,10152.83,0,4.9,0
+2022-09-19,Store_Rabat,Bakery,871,9179.74,0,4.1,0
+2022-09-26,Store_Rabat,Bakery,1378,9422.43,0,6.9,0
+2022-10-03,Store_Rabat,Bakery,1366,8201.74,0,6.3,0
+2022-10-10,Store_Rabat,Bakery,991,9371.82,1,4.3,0
+2022-10-17,Store_Rabat,Bakery,1439,8750.89,1,4.7,0
+2022-10-24,Store_Rabat,Bakery,1505,7772.42,0,7.6,0
+2022-10-31,Store_Rabat,Bakery,878,10009.89,1,5.0,0
+2022-11-07,Store_Rabat,Bakery,1031,11517.39,0,5.8,0
+2022-11-14,Store_Rabat,Bakery,2651,11011.11,0,5.7,0
+2022-11-21,Store_Rabat,Bakery,1802,10692.62,0,8.4,0
+2022-11-28,Store_Rabat,Bakery,2553,13991.93,0,7.8,1
+2022-12-05,Store_Rabat,Bakery,1075,10779.26,0,8.4,0
+2022-12-12,Store_Rabat,Bakery,1307,9680.53,0,10.1,0
+2022-12-19,Store_Rabat,Bakery,970,9537.07,0,11.7,0
+2022-12-26,Store_Rabat,Bakery,1378,12930.02,0,10.4,1
+2023-01-02,Store_Rabat,Bakery,1110,8292.11,0,11.9,1
+2023-01-09,Store_Rabat,Bakery,715,8572.33,1,18.5,0
+2023-01-16,Store_Rabat,Bakery,578,6433.16,0,15.2,0
+2023-01-23,Store_Rabat,Bakery,1936,8287.7,1,12.3,0
+2023-01-30,Store_Rabat,Bakery,960,7840.09,1,14.7,0
+2023-02-06,Store_Rabat,Bakery,1534,8183.61,0,20.1,0
+2023-02-13,Store_Rabat,Bakery,1060,9374.92,1,17.5,0
+2023-02-20,Store_Rabat,Bakery,812,9392.17,0,20.6,0
+2023-02-27,Store_Rabat,Bakery,1371,8591.66,0,19.3,0
+2023-03-06,Store_Rabat,Bakery,925,10997.12,1,20.3,0
+2023-03-13,Store_Rabat,Bakery,2576,10360.44,1,25.0,0
+2023-03-20,Store_Rabat,Bakery,1452,9977.05,0,24.3,0
+2023-03-27,Store_Rabat,Bakery,872,8932.07,0,25.1,0
+2023-04-03,Store_Rabat,Bakery,1668,13419.65,1,25.1,0
+2023-04-10,Store_Rabat,Bakery,1793,10501.22,0,23.4,0
+2023-04-17,Store_Rabat,Bakery,982,10552.36,0,26.1,0
+2023-04-24,Store_Rabat,Bakery,2750,13906.49,1,23.5,1
+2023-05-01,Store_Rabat,Bakery,3090,14166.41,1,22.8,0
+2023-05-08,Store_Rabat,Bakery,1030,11334.03,0,21.3,0
+2023-05-15,Store_Rabat,Bakery,1420,13406.99,0,25.3,0
+2023-05-22,Store_Rabat,Bakery,2133,13510.73,1,24.1,0
+2023-05-29,Store_Rabat,Bakery,1990,12070.12,0,23.0,0
+2023-06-05,Store_Rabat,Bakery,1012,11962.29,0,15.1,0
+2023-06-12,Store_Rabat,Bakery,2162,13471.42,1,20.1,0
+2023-06-19,Store_Rabat,Bakery,1642,13402.18,0,18.7,0
+2023-06-26,Store_Rabat,Bakery,1339,12074.75,0,18.6,0
+2023-07-03,Store_Rabat,Bakery,1639,16104.12,1,14.1,1
+2023-07-10,Store_Rabat,Bakery,1456,11639.07,0,14.1,0
+2023-07-17,Store_Rabat,Bakery,1939,12699.6,0,17.6,0
+2023-07-24,Store_Rabat,Bakery,2233,12341.88,0,15.6,0
+2023-07-31,Store_Rabat,Bakery,2042,12888.5,1,20.2,0
+2023-08-07,Store_Rabat,Bakery,2028,12355.17,1,12.6,0
+2023-08-14,Store_Rabat,Bakery,2627,11706.37,1,8.8,0
+2023-08-21,Store_Rabat,Bakery,1256,11110.05,0,7.5,0
+2023-08-28,Store_Rabat,Bakery,1162,11972.52,0,10.0,0
+2023-09-04,Store_Rabat,Bakery,1166,9825.02,0,9.7,0
+2023-09-11,Store_Rabat,Bakery,1915,9628.89,0,7.4,0
+2023-09-18,Store_Rabat,Bakery,787,9159.03,1,9.0,0
+2023-09-25,Store_Rabat,Bakery,1083,9484.13,0,10.1,0
+2023-10-02,Store_Rabat,Bakery,741,7714.11,0,6.3,0
+2023-10-09,Store_Rabat,Bakery,2048,9707.57,1,7.0,0
+2023-10-16,Store_Rabat,Bakery,916,9208.99,1,2.4,0
+2023-10-23,Store_Rabat,Bakery,1470,8128.97,0,5.2,0
+2023-10-30,Store_Rabat,Bakery,1038,7485.55,0,3.6,0
+2023-11-06,Store_Rabat,Bakery,2244,11033.53,0,6.8,0
+2023-11-13,Store_Rabat,Bakery,2034,11052.74,0,6.1,0
+2023-11-20,Store_Rabat,Bakery,1289,13653.34,1,7.4,0
+2023-11-27,Store_Rabat,Bakery,2774,11724.07,0,8.8,1
+2023-12-04,Store_Rabat,Bakery,1241,9988.45,0,8.5,0
+2023-12-11,Store_Rabat,Bakery,1650,11715.47,1,5.4,0
+2023-12-18,Store_Rabat,Bakery,938,10253.84,0,11.3,0
+2023-12-25,Store_Rabat,Bakery,3122,13623.09,0,9.8,1
+2024-01-01,Store_Rabat,Bakery,825,7184.8,0,16.1,0
+2022-01-03,Store_Rabat,Dairy,1058,9110.98,0,17.4,0
+2022-01-10,Store_Rabat,Dairy,1641,10226.97,0,15.7,1
+2022-01-17,Store_Rabat,Dairy,1358,8553.17,0,12.9,0
+2022-01-24,Store_Rabat,Dairy,1509,10073.12,1,16.3,0
+2022-01-31,Store_Rabat,Dairy,878,9935.71,1,13.8,0
+2022-02-07,Store_Rabat,Dairy,937,9139.25,0,17.6,0
+2022-02-14,Store_Rabat,Dairy,958,10773.51,1,19.4,0
+2022-02-21,Store_Rabat,Dairy,1361,9715.03,0,19.7,0
+2022-02-28,Store_Rabat,Dairy,972,10214.85,1,20.1,0
+2022-03-07,Store_Rabat,Dairy,2842,12065.67,1,22.1,0
+2022-03-14,Store_Rabat,Dairy,2157,11478.7,0,25.9,0
+2022-03-21,Store_Rabat,Dairy,2458,11506.54,0,26.1,0
+2022-03-28,Store_Rabat,Dairy,2539,14072.94,1,26.4,0
+2022-04-04,Store_Rabat,Dairy,3101,12600.76,0,25.4,0
+2022-04-11,Store_Rabat,Dairy,1584,11451.65,0,25.9,0
+2022-04-18,Store_Rabat,Dairy,1050,11604.36,0,22.2,0
+2022-04-25,Store_Rabat,Dairy,1948,19535.05,1,26.5,1
+2022-05-02,Store_Rabat,Dairy,2381,18015.63,0,24.2,1
+2022-05-09,Store_Rabat,Dairy,1459,12941.74,0,24.8,0
+2022-05-16,Store_Rabat,Dairy,1654,15850.48,1,21.1,0
+2022-05-23,Store_Rabat,Dairy,3157,13833.12,0,25.3,0
+2022-05-30,Store_Rabat,Dairy,1724,12514.27,0,21.3,0
+2022-06-06,Store_Rabat,Dairy,1585,13086.95,0,18.6,0
+2022-06-13,Store_Rabat,Dairy,1234,13477.93,0,18.8,0
+2022-06-20,Store_Rabat,Dairy,2418,16507.61,1,22.2,0
+2022-06-27,Store_Rabat,Dairy,1547,12693.0,0,19.7,0
+2022-07-04,Store_Rabat,Dairy,1538,16696.11,0,13.3,1
+2022-07-11,Store_Rabat,Dairy,2924,15548.34,1,12.8,0
+2022-07-18,Store_Rabat,Dairy,1514,13260.71,0,17.8,0
+2022-07-25,Store_Rabat,Dairy,1345,15760.16,1,11.5,0
+2022-08-01,Store_Rabat,Dairy,1114,12796.17,0,7.0,0
+2022-08-08,Store_Rabat,Dairy,1869,14385.87,0,13.6,0
+2022-08-15,Store_Rabat,Dairy,2295,12589.53,0,10.2,0
+2022-08-22,Store_Rabat,Dairy,1109,12687.17,0,9.4,0
+2022-08-29,Store_Rabat,Dairy,1156,12861.23,0,11.7,0
+2022-09-05,Store_Rabat,Dairy,2130,12340.6,1,4.9,0
+2022-09-12,Store_Rabat,Dairy,1280,10609.45,0,8.3,0
+2022-09-19,Store_Rabat,Dairy,1623,9708.74,0,8.9,0
+2022-09-26,Store_Rabat,Dairy,1394,11097.3,0,4.8,0
+2022-10-03,Store_Rabat,Dairy,1224,9670.09,0,0.6,0
+2022-10-10,Store_Rabat,Dairy,970,8785.88,0,4.1,0
+2022-10-17,Store_Rabat,Dairy,1721,9660.37,0,5.5,0
+2022-10-24,Store_Rabat,Dairy,1395,10294.41,1,7.0,0
+2022-10-31,Store_Rabat,Dairy,1735,9356.77,0,3.8,0
+2022-11-07,Store_Rabat,Dairy,1372,11940.1,0,9.4,0
+2022-11-14,Store_Rabat,Dairy,2340,11641.38,0,8.5,0
+2022-11-21,Store_Rabat,Dairy,2139,12212.2,0,0.3,0
+2022-11-28,Store_Rabat,Dairy,2074,17825.89,0,8.1,1
+2022-12-05,Store_Rabat,Dairy,1065,12112.8,0,14.3,0
+2022-12-12,Store_Rabat,Dairy,1554,11768.63,0,6.3,0
+2022-12-19,Store_Rabat,Dairy,2095,13585.24,1,9.0,0
+2022-12-26,Store_Rabat,Dairy,1843,15900.01,0,8.1,1
+2023-01-02,Store_Rabat,Dairy,2278,10951.87,0,16.8,1
+2023-01-09,Store_Rabat,Dairy,1508,9624.39,1,12.5,0
+2023-01-16,Store_Rabat,Dairy,969,9898.05,1,17.1,0
+2023-01-23,Store_Rabat,Dairy,939,9124.96,0,18.2,0
+2023-01-30,Store_Rabat,Dairy,792,9053.52,0,14.4,0
+2023-02-06,Store_Rabat,Dairy,1387,10102.37,0,21.4,0
+2023-02-13,Store_Rabat,Dairy,1201,9386.66,0,20.3,0
+2023-02-20,Store_Rabat,Dairy,2282,10469.19,1,22.6,0
+2023-02-27,Store_Rabat,Dairy,1540,10348.89,1,18.6,0
+2023-03-06,Store_Rabat,Dairy,1658,12188.5,0,24.4,0
+2023-03-13,Store_Rabat,Dairy,1073,10572.69,0,20.0,0
+2023-03-20,Store_Rabat,Dairy,1398,10764.05,0,23.8,0
+2023-03-27,Store_Rabat,Dairy,1014,11865.53,0,24.0,0
+2023-04-03,Store_Rabat,Dairy,1401,13856.28,0,25.1,0
+2023-04-10,Store_Rabat,Dairy,1686,12686.57,0,23.9,0
+2023-04-17,Store_Rabat,Dairy,1372,13171.02,0,26.6,0
+2023-04-24,Store_Rabat,Dairy,1961,16028.35,0,27.9,1
+2023-05-01,Store_Rabat,Dairy,2007,13780.65,0,26.0,0
+2023-05-08,Store_Rabat,Dairy,1539,12136.91,0,25.3,0
+2023-05-15,Store_Rabat,Dairy,1759,14148.97,1,26.1,0
+2023-05-22,Store_Rabat,Dairy,1590,14324.84,0,21.5,0
+2023-05-29,Store_Rabat,Dairy,2544,14189.77,0,23.4,0
+2023-06-05,Store_Rabat,Dairy,1384,13655.42,0,18.7,0
+2023-06-12,Store_Rabat,Dairy,1242,13830.05,0,21.1,0
+2023-06-19,Store_Rabat,Dairy,1170,12521.48,0,16.4,0
+2023-06-26,Store_Rabat,Dairy,2049,15421.84,0,23.7,0
+2023-07-03,Store_Rabat,Dairy,2978,16206.07,0,15.6,1
+2023-07-10,Store_Rabat,Dairy,1074,12492.87,0,13.6,0
+2023-07-17,Store_Rabat,Dairy,1937,13283.41,0,13.3,0
+2023-07-24,Store_Rabat,Dairy,1838,14518.73,0,13.6,0
+2023-07-31,Store_Rabat,Dairy,2538,13918.96,0,13.5,0
+2023-08-07,Store_Rabat,Dairy,1914,14913.42,1,9.0,0
+2023-08-14,Store_Rabat,Dairy,1865,13476.3,0,10.9,0
+2023-08-21,Store_Rabat,Dairy,1407,13128.31,0,6.6,0
+2023-08-28,Store_Rabat,Dairy,1624,13653.36,1,10.8,0
+2023-09-04,Store_Rabat,Dairy,1536,10656.93,0,6.0,0
+2023-09-11,Store_Rabat,Dairy,1275,13788.99,1,-1.4,0
+2023-09-18,Store_Rabat,Dairy,1455,11897.92,1,7.5,0
+2023-09-25,Store_Rabat,Dairy,1717,11728.55,1,6.0,0
+2023-10-02,Store_Rabat,Dairy,927,9166.34,0,5.2,0
+2023-10-09,Store_Rabat,Dairy,786,8594.33,0,3.2,0
+2023-10-16,Store_Rabat,Dairy,1012,10539.65,1,5.4,0
+2023-10-23,Store_Rabat,Dairy,1107,9914.27,0,6.5,0
+2023-10-30,Store_Rabat,Dairy,1688,10232.55,0,3.9,0
+2023-11-06,Store_Rabat,Dairy,2589,13609.16,0,3.1,0
+2023-11-13,Store_Rabat,Dairy,1621,13054.01,0,8.9,0
+2023-11-20,Store_Rabat,Dairy,2380,12702.16,0,8.4,0
+2023-11-27,Store_Rabat,Dairy,2481,14766.24,0,7.5,1
+2023-12-04,Store_Rabat,Dairy,1041,10702.02,0,10.4,0
+2023-12-11,Store_Rabat,Dairy,1540,13516.66,1,11.1,0
+2023-12-18,Store_Rabat,Dairy,1202,13247.57,1,8.4,0
+2023-12-25,Store_Rabat,Dairy,1934,15953.66,1,9.9,1
+2024-01-01,Store_Rabat,Dairy,2452,9875.97,1,15.0,0
+2022-01-03,Store_Rabat,Meat & Seafood,2047,17127.28,1,15.7,0
+2022-01-10,Store_Rabat,Meat & Seafood,1870,18970.73,0,19.3,1
+2022-01-17,Store_Rabat,Meat & Seafood,2977,16565.46,1,12.6,0
+2022-01-24,Store_Rabat,Meat & Seafood,1893,15071.13,0,12.8,0
+2022-01-31,Store_Rabat,Meat & Seafood,1525,13726.33,0,14.3,0
+2022-02-07,Store_Rabat,Meat & Seafood,1332,14336.54,0,20.6,0
+2022-02-14,Store_Rabat,Meat & Seafood,1896,14694.28,0,19.9,0
+2022-02-21,Store_Rabat,Meat & Seafood,1803,18244.69,1,17.5,0
+2022-02-28,Store_Rabat,Meat & Seafood,1545,17055.29,1,21.6,0
+2022-03-07,Store_Rabat,Meat & Seafood,1534,17879.48,0,28.0,0
+2022-03-14,Store_Rabat,Meat & Seafood,1521,18205.58,0,24.8,0
+2022-03-21,Store_Rabat,Meat & Seafood,1814,18904.21,0,27.1,0
+2022-03-28,Store_Rabat,Meat & Seafood,2596,17761.88,0,25.2,0
+2022-04-04,Store_Rabat,Meat & Seafood,5150,23426.34,1,25.3,0
+2022-04-11,Store_Rabat,Meat & Seafood,2592,20287.83,0,28.4,0
+2022-04-18,Store_Rabat,Meat & Seafood,3837,18288.44,0,26.7,0
+2022-04-25,Store_Rabat,Meat & Seafood,3761,29710.27,1,25.5,1
+2022-05-02,Store_Rabat,Meat & Seafood,3997,28315.05,0,26.3,1
+2022-05-09,Store_Rabat,Meat & Seafood,2195,23459.65,0,22.5,0
+2022-05-16,Store_Rabat,Meat & Seafood,2386,20960.02,0,17.5,0
+2022-05-23,Store_Rabat,Meat & Seafood,2632,24447.38,1,28.3,0
+2022-05-30,Store_Rabat,Meat & Seafood,3541,21678.47,0,22.2,0
+2022-06-06,Store_Rabat,Meat & Seafood,4803,22854.79,0,19.0,0
+2022-06-13,Store_Rabat,Meat & Seafood,2747,24810.52,1,19.0,0
+2022-06-20,Store_Rabat,Meat & Seafood,3068,21993.16,0,19.3,0
+2022-06-27,Store_Rabat,Meat & Seafood,2266,24000.82,0,18.4,0
+2022-07-04,Store_Rabat,Meat & Seafood,2769,27162.06,0,11.3,1
+2022-07-11,Store_Rabat,Meat & Seafood,2081,22266.56,0,15.8,0
+2022-07-18,Store_Rabat,Meat & Seafood,4436,22820.9,1,12.9,0
+2022-07-25,Store_Rabat,Meat & Seafood,4710,21007.83,0,14.5,0
+2022-08-01,Store_Rabat,Meat & Seafood,2117,19072.9,0,13.4,0
+2022-08-08,Store_Rabat,Meat & Seafood,3756,21393.77,1,11.2,0
+2022-08-15,Store_Rabat,Meat & Seafood,1712,19645.33,0,13.9,0
+2022-08-22,Store_Rabat,Meat & Seafood,4060,23074.39,0,11.4,0
+2022-08-29,Store_Rabat,Meat & Seafood,4149,24310.93,1,10.0,0
+2022-09-05,Store_Rabat,Meat & Seafood,3136,19104.17,0,7.3,0
+2022-09-12,Store_Rabat,Meat & Seafood,1778,18551.03,0,7.6,0
+2022-09-19,Store_Rabat,Meat & Seafood,2078,17045.4,0,5.3,0
+2022-09-26,Store_Rabat,Meat & Seafood,2914,19921.81,0,6.5,0
+2022-10-03,Store_Rabat,Meat & Seafood,3079,16408.07,1,5.6,0
+2022-10-10,Store_Rabat,Meat & Seafood,3720,15242.37,0,4.9,0
+2022-10-17,Store_Rabat,Meat & Seafood,2596,14136.67,0,2.7,0
+2022-10-24,Store_Rabat,Meat & Seafood,4388,18077.93,1,5.6,0
+2022-10-31,Store_Rabat,Meat & Seafood,2374,16541.05,0,1.2,0
+2022-11-07,Store_Rabat,Meat & Seafood,2351,22328.3,1,4.5,0
+2022-11-14,Store_Rabat,Meat & Seafood,4205,21015.98,0,4.9,0
+2022-11-21,Store_Rabat,Meat & Seafood,2399,23128.25,1,4.0,0
+2022-11-28,Store_Rabat,Meat & Seafood,3728,31703.84,1,7.8,1
+2022-12-05,Store_Rabat,Meat & Seafood,2453,19819.96,0,8.7,0
+2022-12-12,Store_Rabat,Meat & Seafood,1613,17302.95,0,9.8,0
+2022-12-19,Store_Rabat,Meat & Seafood,3554,21205.69,0,10.1,0
+2022-12-26,Store_Rabat,Meat & Seafood,3954,29582.48,1,7.5,1
+2023-01-02,Store_Rabat,Meat & Seafood,2079,17667.57,0,15.1,1
+2023-01-09,Store_Rabat,Meat & Seafood,3035,16093.88,1,13.5,0
+2023-01-16,Store_Rabat,Meat & Seafood,1467,16207.37,1,17.0,0
+2023-01-23,Store_Rabat,Meat & Seafood,1284,12933.69,0,10.6,0
+2023-01-30,Store_Rabat,Meat & Seafood,1739,15139.31,0,15.3,0
+2023-02-06,Store_Rabat,Meat & Seafood,4013,18526.11,1,20.9,0
+2023-02-13,Store_Rabat,Meat & Seafood,1879,14936.68,0,22.5,0
+2023-02-20,Store_Rabat,Meat & Seafood,2049,16223.63,1,19.9,0
+2023-02-27,Store_Rabat,Meat & Seafood,1524,15287.18,0,18.4,0
+2023-03-06,Store_Rabat,Meat & Seafood,1735,17031.59,0,23.9,0
+2023-03-13,Store_Rabat,Meat & Seafood,3469,22923.21,1,25.2,0
+2023-03-20,Store_Rabat,Meat & Seafood,2583,17416.03,0,22.5,0
+2023-03-27,Store_Rabat,Meat & Seafood,2210,15993.21,0,24.9,0
+2023-04-03,Store_Rabat,Meat & Seafood,2772,20423.04,0,26.7,0
+2023-04-10,Store_Rabat,Meat & Seafood,1730,20610.76,0,25.4,0
+2023-04-17,Store_Rabat,Meat & Seafood,4956,21626.28,0,26.2,0
+2023-04-24,Store_Rabat,Meat & Seafood,4850,27551.75,0,23.4,1
+2023-05-01,Store_Rabat,Meat & Seafood,2783,23431.68,0,20.6,0
+2023-05-08,Store_Rabat,Meat & Seafood,2981,21660.81,0,24.7,0
+2023-05-15,Store_Rabat,Meat & Seafood,3826,24687.78,0,24.0,0
+2023-05-22,Store_Rabat,Meat & Seafood,2121,24927.32,1,21.5,0
+2023-05-29,Store_Rabat,Meat & Seafood,2466,25102.22,0,26.3,0
+2023-06-05,Store_Rabat,Meat & Seafood,2240,22441.14,0,16.7,0
+2023-06-12,Store_Rabat,Meat & Seafood,3049,22765.98,0,18.6,0
+2023-06-19,Store_Rabat,Meat & Seafood,5158,22082.68,0,20.1,0
+2023-06-26,Store_Rabat,Meat & Seafood,1950,21363.3,0,20.7,0
+2023-07-03,Store_Rabat,Meat & Seafood,3339,28117.12,0,16.0,1
+2023-07-10,Store_Rabat,Meat & Seafood,2540,24967.54,0,15.3,0
+2023-07-17,Store_Rabat,Meat & Seafood,5663,26582.22,1,15.6,0
+2023-07-24,Store_Rabat,Meat & Seafood,2631,24374.87,1,14.5,0
+2023-07-31,Store_Rabat,Meat & Seafood,3423,19925.65,0,15.0,0
+2023-08-07,Store_Rabat,Meat & Seafood,2763,25807.1,1,6.7,0
+2023-08-14,Store_Rabat,Meat & Seafood,2647,23318.55,1,7.9,0
+2023-08-21,Store_Rabat,Meat & Seafood,5016,26779.22,1,9.5,0
+2023-08-28,Store_Rabat,Meat & Seafood,3949,20429.5,0,7.0,0
+2023-09-04,Store_Rabat,Meat & Seafood,2566,18233.6,1,6.2,0
+2023-09-11,Store_Rabat,Meat & Seafood,1800,17957.05,0,6.0,0
+2023-09-18,Store_Rabat,Meat & Seafood,3672,18462.58,0,2.2,0
+2023-09-25,Store_Rabat,Meat & Seafood,1750,17580.14,0,11.3,0
+2023-10-02,Store_Rabat,Meat & Seafood,2533,17032.74,0,8.6,0
+2023-10-09,Store_Rabat,Meat & Seafood,2456,15349.14,0,4.3,0
+2023-10-16,Store_Rabat,Meat & Seafood,1606,15641.71,0,6.3,0
+2023-10-23,Store_Rabat,Meat & Seafood,4060,20275.61,1,9.7,0
+2023-10-30,Store_Rabat,Meat & Seafood,1968,16504.91,0,7.5,0
+2023-11-06,Store_Rabat,Meat & Seafood,1702,19892.14,0,4.7,0
+2023-11-13,Store_Rabat,Meat & Seafood,1846,19330.69,0,6.5,0
+2023-11-20,Store_Rabat,Meat & Seafood,2374,24552.97,1,4.3,0
+2023-11-27,Store_Rabat,Meat & Seafood,4396,25388.43,0,3.7,1
+2023-12-04,Store_Rabat,Meat & Seafood,2971,22106.44,0,8.4,0
+2023-12-11,Store_Rabat,Meat & Seafood,2063,19856.79,0,9.5,0
+2023-12-18,Store_Rabat,Meat & Seafood,1755,20134.69,0,6.7,0
+2023-12-25,Store_Rabat,Meat & Seafood,3259,26606.85,0,8.2,1
+2024-01-01,Store_Rabat,Meat & Seafood,1706,13695.33,0,13.7,0
+2022-01-03,Store_Rabat,Beverages,568,6392.63,0,14.3,0
+2022-01-10,Store_Rabat,Beverages,1750,8255.8,0,10.5,1
+2022-01-17,Store_Rabat,Beverages,560,6007.97,0,16.5,0
+2022-01-24,Store_Rabat,Beverages,567,6005.83,0,14.2,0
+2022-01-31,Store_Rabat,Beverages,676,6118.97,0,16.8,0
+2022-02-07,Store_Rabat,Beverages,1228,6587.25,0,22.4,0
+2022-02-14,Store_Rabat,Beverages,693,8165.81,1,20.5,0
+2022-02-21,Store_Rabat,Beverages,870,7431.67,0,24.3,0
+2022-02-28,Store_Rabat,Beverages,912,7982.6,0,16.7,0
+2022-03-07,Store_Rabat,Beverages,697,7392.86,0,21.1,0
+2022-03-14,Store_Rabat,Beverages,917,8564.84,0,25.5,0
+2022-03-21,Store_Rabat,Beverages,960,9990.55,1,24.4,0
+2022-03-28,Store_Rabat,Beverages,634,7526.67,0,26.0,0
+2022-04-04,Store_Rabat,Beverages,1381,8845.68,0,26.8,0
+2022-04-11,Store_Rabat,Beverages,1811,9426.53,1,24.1,0
+2022-04-18,Store_Rabat,Beverages,1999,9307.08,0,24.7,0
+2022-04-25,Store_Rabat,Beverages,1931,13645.74,1,24.7,1
+2022-05-02,Store_Rabat,Beverages,1729,13221.94,1,21.6,1
+2022-05-09,Store_Rabat,Beverages,1087,10623.11,1,21.8,0
+2022-05-16,Store_Rabat,Beverages,910,9117.1,0,24.0,0
+2022-05-23,Store_Rabat,Beverages,2363,11052.86,0,22.5,0
+2022-05-30,Store_Rabat,Beverages,1036,10533.28,0,21.9,0
+2022-06-06,Store_Rabat,Beverages,2697,13763.12,0,19.2,0
+2022-06-13,Store_Rabat,Beverages,2024,14042.06,1,20.0,0
+2022-06-20,Store_Rabat,Beverages,929,10809.24,0,20.9,0
+2022-06-27,Store_Rabat,Beverages,1947,12655.44,0,19.3,0
+2022-07-04,Store_Rabat,Beverages,2057,16179.39,0,15.3,1
+2022-07-11,Store_Rabat,Beverages,1241,12299.25,0,13.2,0
+2022-07-18,Store_Rabat,Beverages,1685,16058.63,1,20.0,0
+2022-07-25,Store_Rabat,Beverages,1435,13492.32,0,15.6,0
+2022-08-01,Store_Rabat,Beverages,1314,12006.95,0,9.4,0
+2022-08-08,Store_Rabat,Beverages,1346,11718.32,0,11.8,0
+2022-08-15,Store_Rabat,Beverages,1371,11567.38,0,10.4,0
+2022-08-22,Store_Rabat,Beverages,1856,10532.34,0,15.1,0
+2022-08-29,Store_Rabat,Beverages,1155,12558.84,0,6.3,0
+2022-09-05,Store_Rabat,Beverages,721,7490.36,0,6.8,0
+2022-09-12,Store_Rabat,Beverages,904,9206.99,0,5.3,0
+2022-09-19,Store_Rabat,Beverages,903,7908.69,0,9.8,0
+2022-09-26,Store_Rabat,Beverages,1882,8417.67,0,3.8,0
+2022-10-03,Store_Rabat,Beverages,1307,8260.2,1,4.4,0
+2022-10-10,Store_Rabat,Beverages,688,7094.46,0,3.4,0
+2022-10-17,Store_Rabat,Beverages,1659,6966.82,0,5.7,0
+2022-10-24,Store_Rabat,Beverages,873,8407.86,1,4.0,0
+2022-10-31,Store_Rabat,Beverages,587,6756.19,0,5.5,0
+2022-11-07,Store_Rabat,Beverages,1225,11070.77,1,5.8,0
+2022-11-14,Store_Rabat,Beverages,1984,9552.28,0,11.1,0
+2022-11-21,Store_Rabat,Beverages,1047,8573.33,0,7.6,0
+2022-11-28,Store_Rabat,Beverages,1604,11554.79,0,9.1,1
+2022-12-05,Store_Rabat,Beverages,989,8375.99,0,6.4,0
+2022-12-12,Store_Rabat,Beverages,1032,9671.83,1,10.5,0
+2022-12-19,Store_Rabat,Beverages,812,7905.27,0,8.1,0
+2022-12-26,Store_Rabat,Beverages,2613,13307.86,1,9.3,1
+2023-01-02,Store_Rabat,Beverages,1228,8951.82,0,13.1,1
+2023-01-09,Store_Rabat,Beverages,1232,6636.48,0,15.7,0
+2023-01-16,Store_Rabat,Beverages,1280,6816.11,1,12.1,0
+2023-01-23,Store_Rabat,Beverages,1056,7699.6,1,14.3,0
+2023-01-30,Store_Rabat,Beverages,705,5856.21,0,14.7,0
+2023-02-06,Store_Rabat,Beverages,834,7003.6,0,19.2,0
+2023-02-13,Store_Rabat,Beverages,848,6764.56,0,19.9,0
+2023-02-20,Store_Rabat,Beverages,714,8056.2,1,18.6,0
+2023-02-27,Store_Rabat,Beverages,1061,6680.09,0,18.3,0
+2023-03-06,Store_Rabat,Beverages,1375,6726.98,0,25.6,0
+2023-03-13,Store_Rabat,Beverages,1024,7772.73,0,24.2,0
+2023-03-20,Store_Rabat,Beverages,681,7851.58,0,24.4,0
+2023-03-27,Store_Rabat,Beverages,1142,8149.31,0,23.4,0
+2023-04-03,Store_Rabat,Beverages,917,10842.72,1,23.8,0
+2023-04-10,Store_Rabat,Beverages,794,9040.25,0,26.7,0
+2023-04-17,Store_Rabat,Beverages,1313,9273.66,0,26.7,0
+2023-04-24,Store_Rabat,Beverages,2327,12415.84,0,23.0,1
+2023-05-01,Store_Rabat,Beverages,1864,11428.42,1,25.2,0
+2023-05-08,Store_Rabat,Beverages,1443,9857.04,0,21.7,0
+2023-05-15,Store_Rabat,Beverages,831,9863.01,0,25.0,0
+2023-05-22,Store_Rabat,Beverages,922,9622.73,0,24.0,0
+2023-05-29,Store_Rabat,Beverages,985,8867.03,0,27.5,0
+2023-06-05,Store_Rabat,Beverages,1300,14214.62,1,21.6,0
+2023-06-12,Store_Rabat,Beverages,1383,13678.8,0,20.3,0
+2023-06-19,Store_Rabat,Beverages,1427,13301.56,0,19.1,0
+2023-06-26,Store_Rabat,Beverages,1344,13947.25,0,16.6,0
+2023-07-03,Store_Rabat,Beverages,3513,15915.24,0,15.5,1
+2023-07-10,Store_Rabat,Beverages,1315,13933.41,0,20.1,0
+2023-07-17,Store_Rabat,Beverages,1398,12112.96,0,14.7,0
+2023-07-24,Store_Rabat,Beverages,2817,12869.45,0,15.9,0
+2023-07-31,Store_Rabat,Beverages,1545,12262.29,0,20.2,0
+2023-08-07,Store_Rabat,Beverages,1477,11637.5,0,9.8,0
+2023-08-14,Store_Rabat,Beverages,2822,14234.92,1,8.0,0
+2023-08-21,Store_Rabat,Beverages,1211,11656.26,0,13.7,0
+2023-08-28,Store_Rabat,Beverages,1644,14064.72,1,10.7,0
+2023-09-04,Store_Rabat,Beverages,1314,7414.66,0,8.1,0
+2023-09-11,Store_Rabat,Beverages,1202,8109.1,0,4.1,0
+2023-09-18,Store_Rabat,Beverages,774,7672.85,0,5.2,0
+2023-09-25,Store_Rabat,Beverages,807,8450.05,0,7.2,0
+2023-10-02,Store_Rabat,Beverages,1148,8668.22,1,6.0,0
+2023-10-09,Store_Rabat,Beverages,1401,7409.82,0,4.8,0
+2023-10-16,Store_Rabat,Beverages,891,8391.21,1,4.8,0
+2023-10-23,Store_Rabat,Beverages,1151,8176.52,1,5.5,0
+2023-10-30,Store_Rabat,Beverages,1012,8070.98,1,4.9,0
+2023-11-06,Store_Rabat,Beverages,969,8993.17,0,10.0,0
+2023-11-13,Store_Rabat,Beverages,1740,8761.33,0,4.2,0
+2023-11-20,Store_Rabat,Beverages,942,9059.35,0,4.9,0
+2023-11-27,Store_Rabat,Beverages,1497,11861.05,0,7.9,1
+2023-12-04,Store_Rabat,Beverages,911,9059.27,0,8.9,0
+2023-12-11,Store_Rabat,Beverages,1881,10055.77,1,8.7,0
+2023-12-18,Store_Rabat,Beverages,878,7572.43,0,8.3,0
+2023-12-25,Store_Rabat,Beverages,1093,12771.36,1,10.8,1
+2024-01-01,Store_Rabat,Beverages,1461,6394.53,0,13.9,0
+2022-01-03,Store_Rabat,Snacks & Confectionery,1014,5085.66,0,13.3,0
+2022-01-10,Store_Rabat,Snacks & Confectionery,1105,6167.69,0,14.4,1
+2022-01-17,Store_Rabat,Snacks & Confectionery,821,5015.5,0,14.4,0
+2022-01-24,Store_Rabat,Snacks & Confectionery,595,4427.3,0,17.5,0
+2022-01-31,Store_Rabat,Snacks & Confectionery,470,4941.39,0,14.0,0
+2022-02-07,Store_Rabat,Snacks & Confectionery,597,4776.45,0,18.3,0
+2022-02-14,Store_Rabat,Snacks & Confectionery,573,5766.54,0,20.4,0
+2022-02-21,Store_Rabat,Snacks & Confectionery,600,5547.4,0,21.4,0
+2022-02-28,Store_Rabat,Snacks & Confectionery,1158,5743.8,0,20.9,0
+2022-03-07,Store_Rabat,Snacks & Confectionery,576,6870.57,0,25.7,0
+2022-03-14,Store_Rabat,Snacks & Confectionery,1105,6231.0,0,25.4,0
+2022-03-21,Store_Rabat,Snacks & Confectionery,493,5886.47,0,24.5,0
+2022-03-28,Store_Rabat,Snacks & Confectionery,1618,7550.06,0,20.0,0
+2022-04-04,Store_Rabat,Snacks & Confectionery,581,6959.7,0,24.0,0
+2022-04-11,Store_Rabat,Snacks & Confectionery,636,7282.58,0,22.6,0
+2022-04-18,Store_Rabat,Snacks & Confectionery,831,6997.18,0,24.5,0
+2022-04-25,Store_Rabat,Snacks & Confectionery,1091,8457.04,0,24.0,1
+2022-05-02,Store_Rabat,Snacks & Confectionery,1155,10620.52,0,24.8,1
+2022-05-09,Store_Rabat,Snacks & Confectionery,1387,7924.55,0,21.4,0
+2022-05-16,Store_Rabat,Snacks & Confectionery,1747,8461.21,1,23.9,0
+2022-05-23,Store_Rabat,Snacks & Confectionery,1436,8322.48,0,22.2,0
+2022-05-30,Store_Rabat,Snacks & Confectionery,1547,8421.45,0,24.8,0
+2022-06-06,Store_Rabat,Snacks & Confectionery,1055,9035.81,1,20.6,0
+2022-06-13,Store_Rabat,Snacks & Confectionery,833,8324.96,0,20.7,0
+2022-06-20,Store_Rabat,Snacks & Confectionery,915,8763.12,0,21.4,0
+2022-06-27,Store_Rabat,Snacks & Confectionery,1171,9400.14,1,22.9,0
+2022-07-04,Store_Rabat,Snacks & Confectionery,1862,9880.56,0,18.2,1
+2022-07-11,Store_Rabat,Snacks & Confectionery,1950,8591.27,1,14.2,0
+2022-07-18,Store_Rabat,Snacks & Confectionery,1008,7808.81,0,13.3,0
+2022-07-25,Store_Rabat,Snacks & Confectionery,1823,9347.56,1,16.4,0
+2022-08-01,Store_Rabat,Snacks & Confectionery,1748,7365.75,0,5.8,0
+2022-08-08,Store_Rabat,Snacks & Confectionery,628,6688.19,0,12.1,0
+2022-08-15,Store_Rabat,Snacks & Confectionery,1213,8129.78,1,8.7,0
+2022-08-22,Store_Rabat,Snacks & Confectionery,1469,7747.44,0,11.3,0
+2022-08-29,Store_Rabat,Snacks & Confectionery,873,8057.13,0,11.5,0
+2022-09-05,Store_Rabat,Snacks & Confectionery,1101,7349.86,1,6.7,0
+2022-09-12,Store_Rabat,Snacks & Confectionery,651,6651.45,0,8.9,0
+2022-09-19,Store_Rabat,Snacks & Confectionery,616,6147.08,0,6.7,0
+2022-09-26,Store_Rabat,Snacks & Confectionery,961,6837.24,0,6.8,0
+2022-10-03,Store_Rabat,Snacks & Confectionery,658,6050.77,0,3.8,0
+2022-10-10,Store_Rabat,Snacks & Confectionery,703,6023.68,0,3.6,0
+2022-10-17,Store_Rabat,Snacks & Confectionery,1041,5282.98,0,2.3,0
+2022-10-24,Store_Rabat,Snacks & Confectionery,1011,5631.21,0,7.1,0
+2022-10-31,Store_Rabat,Snacks & Confectionery,603,6420.9,1,2.2,0
+2022-11-07,Store_Rabat,Snacks & Confectionery,1066,8253.56,0,7.5,0
+2022-11-14,Store_Rabat,Snacks & Confectionery,1380,6759.05,0,2.3,0
+2022-11-21,Store_Rabat,Snacks & Confectionery,1692,7024.79,0,8.0,0
+2022-11-28,Store_Rabat,Snacks & Confectionery,2349,9917.93,0,8.1,1
+2022-12-05,Store_Rabat,Snacks & Confectionery,841,7219.99,0,7.7,0
+2022-12-12,Store_Rabat,Snacks & Confectionery,1318,8555.14,1,6.8,0
+2022-12-19,Store_Rabat,Snacks & Confectionery,1204,7626.5,0,13.1,0
+2022-12-26,Store_Rabat,Snacks & Confectionery,1335,8973.66,0,8.6,1
+2023-01-02,Store_Rabat,Snacks & Confectionery,1009,6403.41,0,14.9,1
+2023-01-09,Store_Rabat,Snacks & Confectionery,502,5005.51,0,16.4,0
+2023-01-16,Store_Rabat,Snacks & Confectionery,438,5155.67,0,14.3,0
+2023-01-23,Store_Rabat,Snacks & Confectionery,582,5203.38,0,13.8,0
+2023-01-30,Store_Rabat,Snacks & Confectionery,439,4921.34,0,15.8,0
+2023-02-06,Store_Rabat,Snacks & Confectionery,660,5192.44,0,15.5,0
+2023-02-13,Store_Rabat,Snacks & Confectionery,922,6278.07,0,17.8,0
+2023-02-20,Store_Rabat,Snacks & Confectionery,503,5641.35,0,22.5,0
+2023-02-27,Store_Rabat,Snacks & Confectionery,751,5999.34,0,21.0,0
+2023-03-06,Store_Rabat,Snacks & Confectionery,789,6650.31,0,21.0,0
+2023-03-13,Store_Rabat,Snacks & Confectionery,821,5737.21,0,22.4,0
+2023-03-20,Store_Rabat,Snacks & Confectionery,781,6388.31,0,22.6,0
+2023-03-27,Store_Rabat,Snacks & Confectionery,897,6575.52,0,21.1,0
+2023-04-03,Store_Rabat,Snacks & Confectionery,748,7099.58,0,23.6,0
+2023-04-10,Store_Rabat,Snacks & Confectionery,963,7105.37,0,25.2,0
+2023-04-17,Store_Rabat,Snacks & Confectionery,858,8121.8,1,23.8,0
+2023-04-24,Store_Rabat,Snacks & Confectionery,1461,8859.57,0,26.5,1
+2023-05-01,Store_Rabat,Snacks & Confectionery,729,8300.8,0,28.0,0
+2023-05-08,Store_Rabat,Snacks & Confectionery,887,7718.25,0,27.2,0
+2023-05-15,Store_Rabat,Snacks & Confectionery,1319,8601.58,1,20.6,0
+2023-05-22,Store_Rabat,Snacks & Confectionery,688,7137.27,0,22.8,0
+2023-05-29,Store_Rabat,Snacks & Confectionery,1804,7950.91,0,20.2,0
+2023-06-05,Store_Rabat,Snacks & Confectionery,982,8338.03,0,19.8,0
+2023-06-12,Store_Rabat,Snacks & Confectionery,1070,8157.42,0,18.1,0
+2023-06-19,Store_Rabat,Snacks & Confectionery,1013,8110.22,0,17.2,0
+2023-06-26,Store_Rabat,Snacks & Confectionery,753,8934.4,1,21.2,0
+2023-07-03,Store_Rabat,Snacks & Confectionery,2146,11911.3,1,18.2,1
+2023-07-10,Store_Rabat,Snacks & Confectionery,1250,8033.08,0,13.0,0
+2023-07-17,Store_Rabat,Snacks & Confectionery,794,8391.54,0,15.8,0
+2023-07-24,Store_Rabat,Snacks & Confectionery,670,7874.36,0,14.5,0
+2023-07-31,Store_Rabat,Snacks & Confectionery,691,7329.45,0,14.7,0
+2023-08-07,Store_Rabat,Snacks & Confectionery,653,7220.8,0,10.7,0
+2023-08-14,Store_Rabat,Snacks & Confectionery,698,6748.5,0,11.9,0
+2023-08-21,Store_Rabat,Snacks & Confectionery,1246,7672.7,0,9.1,0
+2023-08-28,Store_Rabat,Snacks & Confectionery,668,6756.09,0,11.8,0
+2023-09-04,Store_Rabat,Snacks & Confectionery,710,6734.64,0,4.8,0
+2023-09-11,Store_Rabat,Snacks & Confectionery,701,6362.43,0,5.4,0
+2023-09-18,Store_Rabat,Snacks & Confectionery,656,7240.85,0,5.2,0
+2023-09-25,Store_Rabat,Snacks & Confectionery,1045,6642.51,0,5.3,0
+2023-10-02,Store_Rabat,Snacks & Confectionery,1019,6835.82,1,7.8,0
+2023-10-09,Store_Rabat,Snacks & Confectionery,982,5333.23,0,9.9,0
+2023-10-16,Store_Rabat,Snacks & Confectionery,783,5952.05,0,1.3,0
+2023-10-23,Store_Rabat,Snacks & Confectionery,859,6181.15,0,5.7,0
+2023-10-30,Store_Rabat,Snacks & Confectionery,1351,7044.1,1,5.4,0
+2023-11-06,Store_Rabat,Snacks & Confectionery,1266,7733.93,0,8.3,0
+2023-11-13,Store_Rabat,Snacks & Confectionery,1103,7230.98,0,5.1,0
+2023-11-20,Store_Rabat,Snacks & Confectionery,873,6744.69,0,7.1,0
+2023-11-27,Store_Rabat,Snacks & Confectionery,1209,9574.39,0,7.3,1
+2023-12-04,Store_Rabat,Snacks & Confectionery,645,7384.08,0,9.8,0
+2023-12-11,Store_Rabat,Snacks & Confectionery,738,8232.44,1,9.5,0
+2023-12-18,Store_Rabat,Snacks & Confectionery,1356,7133.86,1,11.5,0
+2023-12-25,Store_Rabat,Snacks & Confectionery,880,8785.25,0,9.6,1
+2024-01-01,Store_Rabat,Snacks & Confectionery,526,5380.37,1,12.4,0
+2022-01-03,Store_Rabat,Frozen Foods,898,6197.41,1,18.5,0
+2022-01-10,Store_Rabat,Frozen Foods,977,6611.1,0,17.3,1
+2022-01-17,Store_Rabat,Frozen Foods,1668,6760.54,1,15.1,0
+2022-01-24,Store_Rabat,Frozen Foods,575,5825.0,0,16.0,0
+2022-01-31,Store_Rabat,Frozen Foods,697,6644.78,1,14.8,0
+2022-02-07,Store_Rabat,Frozen Foods,1055,6254.87,0,22.6,0
+2022-02-14,Store_Rabat,Frozen Foods,567,6804.63,1,19.4,0
+2022-02-21,Store_Rabat,Frozen Foods,1410,6120.41,0,19.0,0
+2022-02-28,Store_Rabat,Frozen Foods,955,5710.08,0,17.9,0
+2022-03-07,Store_Rabat,Frozen Foods,647,6953.1,0,24.1,0
+2022-03-14,Store_Rabat,Frozen Foods,674,6978.66,0,21.4,0
+2022-03-21,Store_Rabat,Frozen Foods,1090,8678.78,1,23.0,0
+2022-03-28,Store_Rabat,Frozen Foods,679,7741.26,1,27.5,0
+2022-04-04,Store_Rabat,Frozen Foods,964,7699.68,0,28.4,0
+2022-04-11,Store_Rabat,Frozen Foods,948,8030.91,0,24.7,0
+2022-04-18,Store_Rabat,Frozen Foods,941,8152.8,0,24.4,0
+2022-04-25,Store_Rabat,Frozen Foods,1533,10540.08,0,21.7,1
+2022-05-02,Store_Rabat,Frozen Foods,2585,10897.29,0,22.8,1
+2022-05-09,Store_Rabat,Frozen Foods,2130,10366.6,1,24.1,0
+2022-05-16,Store_Rabat,Frozen Foods,1424,8679.31,0,24.1,0
+2022-05-23,Store_Rabat,Frozen Foods,2156,9440.43,1,22.6,0
+2022-05-30,Store_Rabat,Frozen Foods,1404,10737.61,1,20.9,0
+2022-06-06,Store_Rabat,Frozen Foods,1746,9165.7,1,17.4,0
+2022-06-13,Store_Rabat,Frozen Foods,1111,9039.8,1,19.9,0
+2022-06-20,Store_Rabat,Frozen Foods,988,8256.2,0,22.5,0
+2022-06-27,Store_Rabat,Frozen Foods,1662,9530.12,1,20.3,0
+2022-07-04,Store_Rabat,Frozen Foods,1317,10851.87,0,15.9,1
+2022-07-11,Store_Rabat,Frozen Foods,867,8412.48,0,13.5,0
+2022-07-18,Store_Rabat,Frozen Foods,1178,9488.92,0,16.5,0
+2022-07-25,Store_Rabat,Frozen Foods,1217,9710.07,1,17.3,0
+2022-08-01,Store_Rabat,Frozen Foods,2064,8983.3,1,10.7,0
+2022-08-08,Store_Rabat,Frozen Foods,876,7783.96,0,7.1,0
+2022-08-15,Store_Rabat,Frozen Foods,1106,7926.81,0,10.3,0
+2022-08-22,Store_Rabat,Frozen Foods,745,8042.68,0,12.0,0
+2022-08-29,Store_Rabat,Frozen Foods,1264,9134.8,0,10.6,0
+2022-09-05,Store_Rabat,Frozen Foods,1060,6618.75,0,10.0,0
+2022-09-12,Store_Rabat,Frozen Foods,1075,7654.83,0,5.0,0
+2022-09-19,Store_Rabat,Frozen Foods,1051,7033.82,0,7.8,0
+2022-09-26,Store_Rabat,Frozen Foods,792,6377.76,0,2.3,0
+2022-10-03,Store_Rabat,Frozen Foods,1109,5810.08,0,5.9,0
+2022-10-10,Store_Rabat,Frozen Foods,630,5868.56,0,4.3,0
+2022-10-17,Store_Rabat,Frozen Foods,1496,6299.85,0,5.3,0
+2022-10-24,Store_Rabat,Frozen Foods,495,5742.43,0,6.6,0
+2022-10-31,Store_Rabat,Frozen Foods,762,7219.39,1,6.9,0
+2022-11-07,Store_Rabat,Frozen Foods,1124,7596.16,0,3.5,0
+2022-11-14,Store_Rabat,Frozen Foods,701,8292.06,0,7.1,0
+2022-11-21,Store_Rabat,Frozen Foods,1706,9801.14,1,6.3,0
+2022-11-28,Store_Rabat,Frozen Foods,858,9717.9,0,4.1,1
+2022-12-05,Store_Rabat,Frozen Foods,1102,7433.63,0,11.3,0
+2022-12-12,Store_Rabat,Frozen Foods,1588,9266.09,1,8.8,0
+2022-12-19,Store_Rabat,Frozen Foods,1119,8099.5,0,10.6,0
+2022-12-26,Store_Rabat,Frozen Foods,821,9201.0,0,9.7,1
+2023-01-02,Store_Rabat,Frozen Foods,1286,8057.45,1,16.2,1
+2023-01-09,Store_Rabat,Frozen Foods,681,5711.13,0,13.6,0
+2023-01-16,Store_Rabat,Frozen Foods,905,4911.25,0,14.9,0
+2023-01-23,Store_Rabat,Frozen Foods,884,5705.75,0,13.6,0
+2023-01-30,Store_Rabat,Frozen Foods,826,6505.89,1,15.5,0
+2023-02-06,Store_Rabat,Frozen Foods,1082,6175.29,0,20.8,0
+2023-02-13,Store_Rabat,Frozen Foods,599,7084.31,1,21.1,0
+2023-02-20,Store_Rabat,Frozen Foods,666,7276.76,1,20.2,0
+2023-02-27,Store_Rabat,Frozen Foods,1589,6813.82,1,23.4,0
+2023-03-06,Store_Rabat,Frozen Foods,982,8420.65,1,23.8,0
+2023-03-13,Store_Rabat,Frozen Foods,1646,8588.85,1,19.2,0
+2023-03-20,Store_Rabat,Frozen Foods,1658,7966.7,1,21.7,0
+2023-03-27,Store_Rabat,Frozen Foods,1014,6795.74,0,21.4,0
+2023-04-03,Store_Rabat,Frozen Foods,662,7213.22,0,24.5,0
+2023-04-10,Store_Rabat,Frozen Foods,863,6717.03,0,25.2,0
+2023-04-17,Store_Rabat,Frozen Foods,938,7869.88,0,25.5,0
+2023-04-24,Store_Rabat,Frozen Foods,934,9626.75,0,25.3,1
+2023-05-01,Store_Rabat,Frozen Foods,1182,10309.69,1,24.1,0
+2023-05-08,Store_Rabat,Frozen Foods,815,7964.97,0,24.8,0
+2023-05-15,Store_Rabat,Frozen Foods,1059,9982.86,1,23.2,0
+2023-05-22,Store_Rabat,Frozen Foods,1634,7985.19,0,25.0,0
+2023-05-29,Store_Rabat,Frozen Foods,1862,8620.82,0,24.5,0
+2023-06-05,Store_Rabat,Frozen Foods,902,8233.79,0,18.2,0
+2023-06-12,Store_Rabat,Frozen Foods,734,8163.25,0,22.1,0
+2023-06-19,Store_Rabat,Frozen Foods,1179,9186.95,0,22.0,0
+2023-06-26,Store_Rabat,Frozen Foods,785,8159.44,0,25.7,0
+2023-07-03,Store_Rabat,Frozen Foods,1156,10872.74,0,15.3,1
+2023-07-10,Store_Rabat,Frozen Foods,1245,9771.68,1,9.8,0
+2023-07-17,Store_Rabat,Frozen Foods,1261,8949.9,0,16.6,0
+2023-07-24,Store_Rabat,Frozen Foods,971,9431.94,1,16.4,0
+2023-07-31,Store_Rabat,Frozen Foods,807,8349.19,0,19.2,0
+2023-08-07,Store_Rabat,Frozen Foods,1264,7730.6,0,9.7,0
+2023-08-14,Store_Rabat,Frozen Foods,1007,8074.79,0,9.6,0
+2023-08-21,Store_Rabat,Frozen Foods,931,7640.17,0,7.2,0
+2023-08-28,Store_Rabat,Frozen Foods,758,8504.04,0,10.1,0
+2023-09-04,Store_Rabat,Frozen Foods,688,7140.69,0,4.6,0
+2023-09-11,Store_Rabat,Frozen Foods,799,6696.24,0,8.6,0
+2023-09-18,Store_Rabat,Frozen Foods,891,6576.77,0,10.1,0
+2023-09-25,Store_Rabat,Frozen Foods,637,6818.43,0,7.5,0
+2023-10-02,Store_Rabat,Frozen Foods,1060,6251.38,0,1.9,0
+2023-10-09,Store_Rabat,Frozen Foods,656,6372.9,0,1.3,0
+2023-10-16,Store_Rabat,Frozen Foods,561,6212.58,0,6.3,0
+2023-10-23,Store_Rabat,Frozen Foods,587,5925.66,0,3.5,0
+2023-10-30,Store_Rabat,Frozen Foods,1048,7764.37,1,4.9,0
+2023-11-06,Store_Rabat,Frozen Foods,1008,7975.01,0,4.9,0
+2023-11-13,Store_Rabat,Frozen Foods,1806,9137.42,1,6.9,0
+2023-11-20,Store_Rabat,Frozen Foods,1428,9523.17,1,7.8,0
+2023-11-27,Store_Rabat,Frozen Foods,877,9785.57,0,6.6,1
+2023-12-04,Store_Rabat,Frozen Foods,1678,8074.2,0,13.3,0
+2023-12-11,Store_Rabat,Frozen Foods,1454,8751.9,1,10.6,0
+2023-12-18,Store_Rabat,Frozen Foods,1039,9276.92,1,8.1,0
+2023-12-25,Store_Rabat,Frozen Foods,1918,9149.4,0,9.3,1
+2024-01-01,Store_Rabat,Frozen Foods,686,5329.32,0,13.0,0
+2022-01-03,Store_Rabat,Personal Care,378,3888.2,0,19.4,0
+2022-01-10,Store_Rabat,Personal Care,723,4551.6,0,14.9,1
+2022-01-17,Store_Rabat,Personal Care,394,4011.8,0,15.1,0
+2022-01-24,Store_Rabat,Personal Care,737,4259.22,0,15.3,0
+2022-01-31,Store_Rabat,Personal Care,322,3809.5,0,15.3,0
+2022-02-07,Store_Rabat,Personal Care,825,4299.92,0,19.9,0
+2022-02-14,Store_Rabat,Personal Care,441,5072.64,0,18.4,0
+2022-02-21,Store_Rabat,Personal Care,453,4470.47,0,20.9,0
+2022-02-28,Store_Rabat,Personal Care,1051,5191.74,1,20.3,0
+2022-03-07,Store_Rabat,Personal Care,648,4886.8,0,24.5,0
+2022-03-14,Store_Rabat,Personal Care,591,5000.35,0,25.6,0
+2022-03-21,Store_Rabat,Personal Care,656,4672.43,0,20.9,0
+2022-03-28,Store_Rabat,Personal Care,468,5206.45,0,24.7,0
+2022-04-04,Store_Rabat,Personal Care,699,5564.59,0,25.3,0
+2022-04-11,Store_Rabat,Personal Care,738,5608.03,0,25.3,0
+2022-04-18,Store_Rabat,Personal Care,1035,6082.28,0,24.2,0
+2022-04-25,Store_Rabat,Personal Care,945,7310.27,0,28.7,1
+2022-05-02,Store_Rabat,Personal Care,762,6450.91,0,23.1,1
+2022-05-09,Store_Rabat,Personal Care,687,5988.78,0,23.0,0
+2022-05-16,Store_Rabat,Personal Care,981,6015.06,0,26.2,0
+2022-05-23,Store_Rabat,Personal Care,1336,6109.31,0,22.0,0
+2022-05-30,Store_Rabat,Personal Care,736,5607.48,0,24.4,0
+2022-06-06,Store_Rabat,Personal Care,1312,6908.24,1,19.4,0
+2022-06-13,Store_Rabat,Personal Care,591,6959.75,1,17.7,0
+2022-06-20,Store_Rabat,Personal Care,599,6329.5,0,21.7,0
+2022-06-27,Store_Rabat,Personal Care,726,6280.2,0,17.4,0
+2022-07-04,Store_Rabat,Personal Care,1367,7171.85,0,13.8,1
+2022-07-11,Store_Rabat,Personal Care,679,5413.86,0,18.0,0
+2022-07-18,Store_Rabat,Personal Care,998,5782.47,0,17.5,0
+2022-07-25,Store_Rabat,Personal Care,1013,6306.66,0,16.8,0
+2022-08-01,Store_Rabat,Personal Care,744,5180.95,0,11.3,0
+2022-08-08,Store_Rabat,Personal Care,1267,5943.8,0,8.1,0
+2022-08-15,Store_Rabat,Personal Care,1117,6330.11,1,5.9,0
+2022-08-22,Store_Rabat,Personal Care,489,5805.76,0,10.6,0
+2022-08-29,Store_Rabat,Personal Care,899,5337.87,0,7.5,0
+2022-09-05,Store_Rabat,Personal Care,865,5771.09,1,7.6,0
+2022-09-12,Store_Rabat,Personal Care,1156,4698.74,0,6.0,0
+2022-09-19,Store_Rabat,Personal Care,1245,5349.98,0,7.9,0
+2022-09-26,Store_Rabat,Personal Care,623,5039.11,0,5.9,0
+2022-10-03,Store_Rabat,Personal Care,486,4057.95,0,3.9,0
+2022-10-10,Store_Rabat,Personal Care,707,4023.32,0,7.7,0
+2022-10-17,Store_Rabat,Personal Care,510,4685.13,0,6.2,0
+2022-10-24,Store_Rabat,Personal Care,457,4101.58,0,3.4,0
+2022-10-31,Store_Rabat,Personal Care,521,4268.87,0,6.4,0
+2022-11-07,Store_Rabat,Personal Care,924,5185.49,0,8.9,0
+2022-11-14,Store_Rabat,Personal Care,465,5388.36,0,7.0,0
+2022-11-21,Store_Rabat,Personal Care,639,5920.73,0,5.9,0
+2022-11-28,Store_Rabat,Personal Care,1096,8247.42,1,3.6,1
+2022-12-05,Store_Rabat,Personal Care,661,4988.79,0,10.9,0
+2022-12-12,Store_Rabat,Personal Care,498,5581.47,0,9.6,0
+2022-12-19,Store_Rabat,Personal Care,1306,5649.5,1,8.7,0
+2022-12-26,Store_Rabat,Personal Care,969,6156.81,0,9.6,1
+2023-01-02,Store_Rabat,Personal Care,402,4534.81,0,16.0,1
+2023-01-09,Store_Rabat,Personal Care,481,3908.45,0,15.7,0
+2023-01-16,Store_Rabat,Personal Care,858,3776.87,0,13.8,0
+2023-01-23,Store_Rabat,Personal Care,748,3804.9,0,13.4,0
+2023-01-30,Store_Rabat,Personal Care,537,3942.1,0,14.3,0
+2023-02-06,Store_Rabat,Personal Care,1183,5430.95,1,19.9,0
+2023-02-13,Store_Rabat,Personal Care,488,5315.0,1,22.6,0
+2023-02-20,Store_Rabat,Personal Care,748,4099.59,0,25.7,0
+2023-02-27,Store_Rabat,Personal Care,668,4257.54,0,24.0,0
+2023-03-06,Store_Rabat,Personal Care,523,5630.97,1,24.0,0
+2023-03-13,Store_Rabat,Personal Care,637,5802.82,1,22.1,0
+2023-03-20,Store_Rabat,Personal Care,669,5618.15,1,29.8,0
+2023-03-27,Store_Rabat,Personal Care,471,5349.71,0,25.8,0
+2023-04-03,Store_Rabat,Personal Care,810,5611.38,0,23.7,0
+2023-04-10,Store_Rabat,Personal Care,681,6020.97,0,25.9,0
+2023-04-17,Store_Rabat,Personal Care,961,5420.56,0,27.0,0
+2023-04-24,Store_Rabat,Personal Care,578,6582.59,0,24.0,1
+2023-05-01,Store_Rabat,Personal Care,1163,6359.91,0,20.4,0
+2023-05-08,Store_Rabat,Personal Care,1184,6975.37,1,25.9,0
+2023-05-15,Store_Rabat,Personal Care,1299,5332.54,0,23.4,0
+2023-05-22,Store_Rabat,Personal Care,610,6294.65,0,23.8,0
+2023-05-29,Store_Rabat,Personal Care,477,5321.11,0,26.0,0
+2023-06-05,Store_Rabat,Personal Care,527,6208.01,0,18.4,0
+2023-06-12,Store_Rabat,Personal Care,607,6877.99,1,20.9,0
+2023-06-19,Store_Rabat,Personal Care,662,7710.92,1,18.2,0
+2023-06-26,Store_Rabat,Personal Care,683,7275.42,1,18.9,0
+2023-07-03,Store_Rabat,Personal Care,1055,7813.49,0,11.9,1
+2023-07-10,Store_Rabat,Personal Care,520,6025.19,0,11.9,0
+2023-07-17,Store_Rabat,Personal Care,718,5871.42,0,15.6,0
+2023-07-24,Store_Rabat,Personal Care,728,6215.56,0,11.6,0
+2023-07-31,Store_Rabat,Personal Care,1077,7017.51,1,14.4,0
+2023-08-07,Store_Rabat,Personal Care,1082,5853.0,0,9.4,0
+2023-08-14,Store_Rabat,Personal Care,1192,4999.5,0,9.1,0
+2023-08-21,Store_Rabat,Personal Care,904,5375.71,0,11.4,0
+2023-08-28,Store_Rabat,Personal Care,734,6920.9,1,7.8,0
+2023-09-04,Store_Rabat,Personal Care,464,4881.55,0,5.2,0
+2023-09-11,Store_Rabat,Personal Care,1257,5396.33,1,6.8,0
+2023-09-18,Store_Rabat,Personal Care,569,4935.67,0,7.8,0
+2023-09-25,Store_Rabat,Personal Care,686,4704.28,0,7.6,0
+2023-10-02,Store_Rabat,Personal Care,931,4834.02,1,7.2,0
+2023-10-09,Store_Rabat,Personal Care,423,4585.29,0,4.7,0
+2023-10-16,Store_Rabat,Personal Care,776,4123.75,0,5.1,0
+2023-10-23,Store_Rabat,Personal Care,888,4510.13,0,5.2,0
+2023-10-30,Store_Rabat,Personal Care,479,3925.07,0,6.6,0
+2023-11-06,Store_Rabat,Personal Care,488,5623.02,0,5.5,0
+2023-11-13,Store_Rabat,Personal Care,802,4978.15,0,5.9,0
+2023-11-20,Store_Rabat,Personal Care,563,5925.38,0,7.6,0
+2023-11-27,Store_Rabat,Personal Care,798,7080.37,0,7.9,1
+2023-12-04,Store_Rabat,Personal Care,632,5349.44,0,9.9,0
+2023-12-11,Store_Rabat,Personal Care,752,6868.48,1,11.4,0
+2023-12-18,Store_Rabat,Personal Care,773,5399.74,0,11.8,0
+2023-12-25,Store_Rabat,Personal Care,649,7220.62,0,10.0,1
+2024-01-01,Store_Rabat,Personal Care,598,4257.99,0,16.7,0
+2022-01-03,Store_Tanger,Fruits & Vegetables,884,6691.41,0,16.1,0
+2022-01-10,Store_Tanger,Fruits & Vegetables,966,8644.2,0,14.4,1
+2022-01-17,Store_Tanger,Fruits & Vegetables,896,7433.41,1,14.6,0
+2022-01-24,Store_Tanger,Fruits & Vegetables,722,7323.2,0,14.6,0
+2022-01-31,Store_Tanger,Fruits & Vegetables,1466,7018.6,0,16.8,0
+2022-02-07,Store_Tanger,Fruits & Vegetables,1421,10826.27,1,16.6,0
+2022-02-14,Store_Tanger,Fruits & Vegetables,1260,9228.77,0,19.9,0
+2022-02-21,Store_Tanger,Fruits & Vegetables,1105,7721.23,0,21.4,0
+2022-02-28,Store_Tanger,Fruits & Vegetables,1111,8395.39,1,20.7,0
+2022-03-07,Store_Tanger,Fruits & Vegetables,1802,12355.41,0,25.9,0
+2022-03-14,Store_Tanger,Fruits & Vegetables,1267,12194.81,0,23.7,0
+2022-03-21,Store_Tanger,Fruits & Vegetables,1981,12189.09,0,25.6,0
+2022-03-28,Store_Tanger,Fruits & Vegetables,1701,12647.0,0,19.7,0
+2022-04-04,Store_Tanger,Fruits & Vegetables,1652,14067.28,0,25.5,0
+2022-04-11,Store_Tanger,Fruits & Vegetables,1090,12175.0,0,23.1,0
+2022-04-18,Store_Tanger,Fruits & Vegetables,2713,12667.1,0,24.7,0
+2022-04-25,Store_Tanger,Fruits & Vegetables,2443,15506.33,0,27.9,1
+2022-05-02,Store_Tanger,Fruits & Vegetables,2966,16761.71,0,27.8,1
+2022-05-09,Store_Tanger,Fruits & Vegetables,1791,12841.1,0,18.1,0
+2022-05-16,Store_Tanger,Fruits & Vegetables,2211,13896.9,0,27.2,0
+2022-05-23,Store_Tanger,Fruits & Vegetables,1465,13066.11,0,25.6,0
+2022-05-30,Store_Tanger,Fruits & Vegetables,2172,14920.59,1,25.7,0
+2022-06-06,Store_Tanger,Fruits & Vegetables,2658,12268.59,1,19.5,0
+2022-06-13,Store_Tanger,Fruits & Vegetables,1196,9554.64,0,17.8,0
+2022-06-20,Store_Tanger,Fruits & Vegetables,2077,10502.75,0,20.4,0
+2022-06-27,Store_Tanger,Fruits & Vegetables,1477,12530.16,1,21.8,0
+2022-07-04,Store_Tanger,Fruits & Vegetables,3551,14283.7,0,14.6,1
+2022-07-11,Store_Tanger,Fruits & Vegetables,1615,11694.99,0,18.8,0
+2022-07-18,Store_Tanger,Fruits & Vegetables,1292,11156.43,0,11.6,0
+2022-07-25,Store_Tanger,Fruits & Vegetables,2271,10341.65,0,15.9,0
+2022-08-01,Store_Tanger,Fruits & Vegetables,1596,11984.37,1,7.5,0
+2022-08-08,Store_Tanger,Fruits & Vegetables,1188,10442.66,0,6.9,0
+2022-08-15,Store_Tanger,Fruits & Vegetables,917,9550.44,0,9.3,0
+2022-08-22,Store_Tanger,Fruits & Vegetables,870,9427.91,0,11.2,0
+2022-08-29,Store_Tanger,Fruits & Vegetables,2479,10561.26,0,10.7,0
+2022-09-05,Store_Tanger,Fruits & Vegetables,1112,8493.53,0,3.6,0
+2022-09-12,Store_Tanger,Fruits & Vegetables,1121,8279.38,0,3.7,0
+2022-09-19,Store_Tanger,Fruits & Vegetables,1417,9601.35,0,7.6,0
+2022-09-26,Store_Tanger,Fruits & Vegetables,954,9486.11,0,4.9,0
+2022-10-03,Store_Tanger,Fruits & Vegetables,1212,8417.97,0,4.7,0
+2022-10-10,Store_Tanger,Fruits & Vegetables,660,7852.24,0,4.7,0
+2022-10-17,Store_Tanger,Fruits & Vegetables,672,7991.88,0,4.0,0
+2022-10-24,Store_Tanger,Fruits & Vegetables,782,7462.78,0,5.3,0
+2022-10-31,Store_Tanger,Fruits & Vegetables,676,7895.61,0,5.4,0
+2022-11-07,Store_Tanger,Fruits & Vegetables,1956,10633.51,0,5.0,0
+2022-11-14,Store_Tanger,Fruits & Vegetables,1295,10901.36,0,3.9,0
+2022-11-21,Store_Tanger,Fruits & Vegetables,2287,10148.83,0,2.2,0
+2022-11-28,Store_Tanger,Fruits & Vegetables,2665,12650.78,0,7.5,1
+2022-12-05,Store_Tanger,Fruits & Vegetables,1249,11307.74,0,12.7,0
+2022-12-12,Store_Tanger,Fruits & Vegetables,1507,9821.56,0,12.7,0
+2022-12-19,Store_Tanger,Fruits & Vegetables,1552,10594.92,0,9.1,0
+2022-12-26,Store_Tanger,Fruits & Vegetables,1245,13371.54,0,7.8,1
+2023-01-02,Store_Tanger,Fruits & Vegetables,2220,9301.53,0,13.8,1
+2023-01-09,Store_Tanger,Fruits & Vegetables,634,7447.24,0,18.3,0
+2023-01-16,Store_Tanger,Fruits & Vegetables,571,6694.55,0,14.8,0
+2023-01-23,Store_Tanger,Fruits & Vegetables,771,7578.17,0,16.5,0
+2023-01-30,Store_Tanger,Fruits & Vegetables,767,7369.15,0,16.3,0
+2023-02-06,Store_Tanger,Fruits & Vegetables,662,7895.86,0,21.7,0
+2023-02-13,Store_Tanger,Fruits & Vegetables,661,7185.28,0,16.2,0
+2023-02-20,Store_Tanger,Fruits & Vegetables,1664,8649.01,1,21.6,0
+2023-02-27,Store_Tanger,Fruits & Vegetables,1082,7637.66,0,21.0,0
+2023-03-06,Store_Tanger,Fruits & Vegetables,3187,13968.83,1,24.8,0
+2023-03-13,Store_Tanger,Fruits & Vegetables,1754,11424.14,0,23.4,0
+2023-03-20,Store_Tanger,Fruits & Vegetables,1494,14241.72,1,28.4,0
+2023-03-27,Store_Tanger,Fruits & Vegetables,1269,10160.59,0,23.3,0
+2023-04-03,Store_Tanger,Fruits & Vegetables,2412,14395.52,1,27.9,0
+2023-04-10,Store_Tanger,Fruits & Vegetables,2588,14696.61,1,21.6,0
+2023-04-17,Store_Tanger,Fruits & Vegetables,1351,13730.01,0,26.8,0
+2023-04-24,Store_Tanger,Fruits & Vegetables,1354,15780.68,0,23.1,1
+2023-05-01,Store_Tanger,Fruits & Vegetables,3273,17523.35,1,23.7,0
+2023-05-08,Store_Tanger,Fruits & Vegetables,1918,14398.29,0,22.6,0
+2023-05-15,Store_Tanger,Fruits & Vegetables,1673,11579.07,0,28.3,0
+2023-05-22,Store_Tanger,Fruits & Vegetables,1582,15449.67,1,22.6,0
+2023-05-29,Store_Tanger,Fruits & Vegetables,2339,14450.98,0,26.4,0
+2023-06-05,Store_Tanger,Fruits & Vegetables,3057,13315.22,1,19.4,0
+2023-06-12,Store_Tanger,Fruits & Vegetables,948,10912.4,0,18.9,0
+2023-06-19,Store_Tanger,Fruits & Vegetables,957,11210.31,0,20.1,0
+2023-06-26,Store_Tanger,Fruits & Vegetables,2020,12581.53,1,20.0,0
+2023-07-03,Store_Tanger,Fruits & Vegetables,3521,14927.51,0,12.3,1
+2023-07-10,Store_Tanger,Fruits & Vegetables,1132,10683.65,0,16.8,0
+2023-07-17,Store_Tanger,Fruits & Vegetables,1214,12829.72,1,14.3,0
+2023-07-24,Store_Tanger,Fruits & Vegetables,1771,11117.65,0,14.1,0
+2023-07-31,Store_Tanger,Fruits & Vegetables,1584,11157.77,0,14.9,0
+2023-08-07,Store_Tanger,Fruits & Vegetables,999,11501.8,0,11.2,0
+2023-08-14,Store_Tanger,Fruits & Vegetables,1477,10236.45,0,8.1,0
+2023-08-21,Store_Tanger,Fruits & Vegetables,1253,10629.51,0,8.7,0
+2023-08-28,Store_Tanger,Fruits & Vegetables,818,9369.59,0,8.5,0
+2023-09-04,Store_Tanger,Fruits & Vegetables,2184,11050.53,1,5.0,0
+2023-09-11,Store_Tanger,Fruits & Vegetables,1547,11054.62,1,6.0,0
+2023-09-18,Store_Tanger,Fruits & Vegetables,1055,9728.72,0,4.6,0
+2023-09-25,Store_Tanger,Fruits & Vegetables,957,8695.27,0,2.1,0
+2023-10-02,Store_Tanger,Fruits & Vegetables,722,8197.02,0,7.6,0
+2023-10-09,Store_Tanger,Fruits & Vegetables,1309,8213.37,0,4.9,0
+2023-10-16,Store_Tanger,Fruits & Vegetables,978,8404.76,0,4.3,0
+2023-10-23,Store_Tanger,Fruits & Vegetables,937,7753.56,0,5.6,0
+2023-10-30,Store_Tanger,Fruits & Vegetables,1523,8034.47,0,6.4,0
+2023-11-06,Store_Tanger,Fruits & Vegetables,1351,10396.32,0,8.2,0
+2023-11-13,Store_Tanger,Fruits & Vegetables,991,9805.29,0,7.0,0
+2023-11-20,Store_Tanger,Fruits & Vegetables,2179,10730.24,0,5.7,0
+2023-11-27,Store_Tanger,Fruits & Vegetables,1351,13228.05,0,6.7,1
+2023-12-04,Store_Tanger,Fruits & Vegetables,901,9220.45,0,10.1,0
+2023-12-11,Store_Tanger,Fruits & Vegetables,1287,9284.98,0,9.8,0
+2023-12-18,Store_Tanger,Fruits & Vegetables,2000,9716.33,0,8.1,0
+2023-12-25,Store_Tanger,Fruits & Vegetables,2033,13354.78,0,6.0,1
+2024-01-01,Store_Tanger,Fruits & Vegetables,807,6696.24,0,14.2,0
+2022-01-03,Store_Tanger,Bakery,458,5474.91,0,16.3,0
+2022-01-10,Store_Tanger,Bakery,987,6566.33,0,13.2,1
+2022-01-17,Store_Tanger,Bakery,936,6001.68,1,12.8,0
+2022-01-24,Store_Tanger,Bakery,805,5441.2,0,14.5,0
+2022-01-31,Store_Tanger,Bakery,584,5082.04,0,13.1,0
+2022-02-07,Store_Tanger,Bakery,1097,6359.67,0,22.1,0
+2022-02-14,Store_Tanger,Bakery,579,5734.6,0,19.2,0
+2022-02-21,Store_Tanger,Bakery,1325,6700.57,0,22.4,0
+2022-02-28,Store_Tanger,Bakery,859,6781.5,0,18.4,0
+2022-03-07,Store_Tanger,Bakery,1151,8730.1,1,24.6,0
+2022-03-14,Store_Tanger,Bakery,686,8168.6,1,24.5,0
+2022-03-21,Store_Tanger,Bakery,595,6622.45,0,25.3,0
+2022-03-28,Store_Tanger,Bakery,1062,6878.56,0,25.9,0
+2022-04-04,Store_Tanger,Bakery,1140,7241.76,0,23.3,0
+2022-04-11,Store_Tanger,Bakery,831,8411.83,1,23.8,0
+2022-04-18,Store_Tanger,Bakery,1228,8766.3,1,24.0,0
+2022-04-25,Store_Tanger,Bakery,1166,9257.0,0,25.7,1
+2022-05-02,Store_Tanger,Bakery,1396,10814.24,0,25.9,1
+2022-05-09,Store_Tanger,Bakery,1096,9223.8,0,25.3,0
+2022-05-16,Store_Tanger,Bakery,2195,8949.19,0,21.3,0
+2022-05-23,Store_Tanger,Bakery,864,8359.59,0,24.4,0
+2022-05-30,Store_Tanger,Bakery,997,8783.36,1,20.8,0
+2022-06-06,Store_Tanger,Bakery,748,8881.13,0,18.5,0
+2022-06-13,Store_Tanger,Bakery,1322,8854.58,0,19.8,0
+2022-06-20,Store_Tanger,Bakery,1359,9251.47,0,20.2,0
+2022-06-27,Store_Tanger,Bakery,938,9187.46,0,18.1,0
+2022-07-04,Store_Tanger,Bakery,1013,10789.97,0,11.5,1
+2022-07-11,Store_Tanger,Bakery,1107,9073.78,1,16.4,0
+2022-07-18,Store_Tanger,Bakery,1570,8365.76,0,16.7,0
+2022-07-25,Store_Tanger,Bakery,931,8805.27,0,12.6,0
+2022-08-01,Store_Tanger,Bakery,989,9670.27,1,5.9,0
+2022-08-08,Store_Tanger,Bakery,635,7455.95,0,8.5,0
+2022-08-15,Store_Tanger,Bakery,989,8144.79,0,9.9,0
+2022-08-22,Store_Tanger,Bakery,1106,7912.76,0,11.6,0
+2022-08-29,Store_Tanger,Bakery,960,7558.13,0,8.6,0
+2022-09-05,Store_Tanger,Bakery,829,7224.46,1,7.8,0
+2022-09-12,Store_Tanger,Bakery,1304,6929.39,0,4.3,0
+2022-09-19,Store_Tanger,Bakery,734,6781.97,0,8.9,0
+2022-09-26,Store_Tanger,Bakery,699,6940.67,0,7.7,0
+2022-10-03,Store_Tanger,Bakery,1289,7709.53,1,4.7,0
+2022-10-10,Store_Tanger,Bakery,1462,6715.22,0,6.1,0
+2022-10-17,Store_Tanger,Bakery,943,5929.95,0,4.8,0
+2022-10-24,Store_Tanger,Bakery,615,6737.53,0,7.1,0
+2022-10-31,Store_Tanger,Bakery,737,6954.65,1,6.0,0
+2022-11-07,Store_Tanger,Bakery,691,7502.52,0,6.8,0
+2022-11-14,Store_Tanger,Bakery,1950,8093.73,0,-1.3,0
+2022-11-21,Store_Tanger,Bakery,2225,9292.59,0,8.4,0
+2022-11-28,Store_Tanger,Bakery,1550,9232.84,0,4.6,1
+2022-12-05,Store_Tanger,Bakery,745,7625.48,0,8.4,0
+2022-12-12,Store_Tanger,Bakery,1556,7481.14,0,10.5,0
+2022-12-19,Store_Tanger,Bakery,1101,8522.73,1,10.4,0
+2022-12-26,Store_Tanger,Bakery,821,9556.49,0,10.6,1
+2023-01-02,Store_Tanger,Bakery,1215,6593.86,0,15.9,1
+2023-01-09,Store_Tanger,Bakery,482,5661.69,0,14.4,0
+2023-01-16,Store_Tanger,Bakery,684,6261.96,0,14.5,0
+2023-01-23,Store_Tanger,Bakery,536,5116.16,0,16.5,0
+2023-01-30,Store_Tanger,Bakery,1025,5937.03,1,15.3,0
+2023-02-06,Store_Tanger,Bakery,700,5991.6,0,19.7,0
+2023-02-13,Store_Tanger,Bakery,870,7391.24,1,21.2,0
+2023-02-20,Store_Tanger,Bakery,839,7627.8,1,18.2,0
+2023-02-27,Store_Tanger,Bakery,1091,5844.07,0,23.0,0
+2023-03-06,Store_Tanger,Bakery,887,6842.9,0,22.6,0
+2023-03-13,Store_Tanger,Bakery,1641,7485.32,1,21.1,0
+2023-03-20,Store_Tanger,Bakery,1168,7227.84,0,23.3,0
+2023-03-27,Store_Tanger,Bakery,602,7051.3,0,22.9,0
+2023-04-03,Store_Tanger,Bakery,806,7983.64,0,27.5,0
+2023-04-10,Store_Tanger,Bakery,1545,9465.45,1,23.8,0
+2023-04-17,Store_Tanger,Bakery,990,8319.22,0,24.6,0
+2023-04-24,Store_Tanger,Bakery,1007,9998.77,0,26.0,1
+2023-05-01,Store_Tanger,Bakery,1739,10765.13,1,23.3,0
+2023-05-08,Store_Tanger,Bakery,827,8114.46,0,24.7,0
+2023-05-15,Store_Tanger,Bakery,1546,9040.43,1,23.2,0
+2023-05-22,Store_Tanger,Bakery,2134,10049.9,1,24.3,0
+2023-05-29,Store_Tanger,Bakery,819,8584.38,0,21.0,0
+2023-06-05,Store_Tanger,Bakery,1111,8427.76,0,19.3,0
+2023-06-12,Store_Tanger,Bakery,915,9165.71,0,17.3,0
+2023-06-19,Store_Tanger,Bakery,2147,9777.05,1,23.0,0
+2023-06-26,Store_Tanger,Bakery,1998,9296.93,0,16.4,0
+2023-07-03,Store_Tanger,Bakery,891,10201.41,0,15.8,1
+2023-07-10,Store_Tanger,Bakery,1585,7943.92,0,14.4,0
+2023-07-17,Store_Tanger,Bakery,1588,8728.98,0,14.8,0
+2023-07-24,Store_Tanger,Bakery,1303,10497.7,1,15.4,0
+2023-07-31,Store_Tanger,Bakery,1275,9417.37,1,12.8,0
+2023-08-07,Store_Tanger,Bakery,968,7413.82,0,8.9,0
+2023-08-14,Store_Tanger,Bakery,849,8715.59,1,10.4,0
+2023-08-21,Store_Tanger,Bakery,765,8977.46,1,10.2,0
+2023-08-28,Store_Tanger,Bakery,1041,9424.29,1,10.7,0
+2023-09-04,Store_Tanger,Bakery,1031,7154.24,0,9.2,0
+2023-09-11,Store_Tanger,Bakery,657,7408.11,0,3.9,0
+2023-09-18,Store_Tanger,Bakery,982,6524.98,0,6.4,0
+2023-09-25,Store_Tanger,Bakery,756,7294.22,0,5.7,0
+2023-10-02,Store_Tanger,Bakery,838,6254.42,1,0.9,0
+2023-10-09,Store_Tanger,Bakery,832,7234.64,1,4.4,0
+2023-10-16,Store_Tanger,Bakery,1150,6643.69,0,4.9,0
+2023-10-23,Store_Tanger,Bakery,1146,6946.92,0,4.2,0
+2023-10-30,Store_Tanger,Bakery,969,7069.6,1,4.7,0
+2023-11-06,Store_Tanger,Bakery,1182,9581.22,1,4.9,0
+2023-11-13,Store_Tanger,Bakery,1545,8027.72,0,6.3,0
+2023-11-20,Store_Tanger,Bakery,819,9153.85,1,6.8,0
+2023-11-27,Store_Tanger,Bakery,1045,10587.66,0,3.9,1
+2023-12-04,Store_Tanger,Bakery,2245,9704.13,1,12.4,0
+2023-12-11,Store_Tanger,Bakery,932,8790.1,0,10.5,0
+2023-12-18,Store_Tanger,Bakery,1839,7451.58,0,12.9,0
+2023-12-25,Store_Tanger,Bakery,1115,9253.12,0,11.1,1
+2024-01-01,Store_Tanger,Bakery,609,5530.58,0,17.4,0
+2022-01-03,Store_Tanger,Dairy,770,6647.07,1,18.0,0
+2022-01-10,Store_Tanger,Dairy,680,7662.59,0,14.6,1
+2022-01-17,Store_Tanger,Dairy,661,5875.8,0,12.4,0
+2022-01-24,Store_Tanger,Dairy,1135,6594.39,0,17.0,0
+2022-01-31,Store_Tanger,Dairy,1357,7608.53,1,14.1,0
+2022-02-07,Store_Tanger,Dairy,983,8451.65,1,20.2,0
+2022-02-14,Store_Tanger,Dairy,1166,6924.59,0,19.1,0
+2022-02-21,Store_Tanger,Dairy,1662,8109.12,0,22.4,0
+2022-02-28,Store_Tanger,Dairy,1312,6811.88,0,19.8,0
+2022-03-07,Store_Tanger,Dairy,1361,9121.31,0,24.9,0
+2022-03-14,Store_Tanger,Dairy,1085,8684.75,0,23.8,0
+2022-03-21,Store_Tanger,Dairy,898,7566.77,0,21.9,0
+2022-03-28,Store_Tanger,Dairy,845,7373.1,0,21.6,0
+2022-04-04,Store_Tanger,Dairy,732,8508.2,0,19.8,0
+2022-04-11,Store_Tanger,Dairy,765,8947.09,0,25.8,0
+2022-04-18,Store_Tanger,Dairy,1324,9477.95,0,26.3,0
+2022-04-25,Store_Tanger,Dairy,2024,12714.97,0,25.6,1
+2022-05-02,Store_Tanger,Dairy,1075,12417.33,0,25.6,1
+2022-05-09,Store_Tanger,Dairy,1698,11449.78,1,23.9,0
+2022-05-16,Store_Tanger,Dairy,1170,9467.23,0,25.0,0
+2022-05-23,Store_Tanger,Dairy,1009,10816.88,0,24.2,0
+2022-05-30,Store_Tanger,Dairy,1988,10239.62,0,26.1,0
+2022-06-06,Store_Tanger,Dairy,1219,13050.29,1,21.5,0
+2022-06-13,Store_Tanger,Dairy,1244,12083.76,1,16.0,0
+2022-06-20,Store_Tanger,Dairy,779,9087.37,0,17.0,0
+2022-06-27,Store_Tanger,Dairy,1023,11717.14,1,18.8,0
+2022-07-04,Store_Tanger,Dairy,1391,12620.58,0,16.2,1
+2022-07-11,Store_Tanger,Dairy,2176,11460.02,1,13.9,0
+2022-07-18,Store_Tanger,Dairy,780,8855.49,0,17.1,0
+2022-07-25,Store_Tanger,Dairy,1137,9790.27,0,14.9,0
+2022-08-01,Store_Tanger,Dairy,883,8660.52,0,6.4,0
+2022-08-08,Store_Tanger,Dairy,2327,9973.23,1,11.7,0
+2022-08-15,Store_Tanger,Dairy,872,9372.27,0,13.1,0
+2022-08-22,Store_Tanger,Dairy,1556,9510.97,0,7.6,0
+2022-08-29,Store_Tanger,Dairy,1307,9370.08,0,12.7,0
+2022-09-05,Store_Tanger,Dairy,844,9530.02,1,4.9,0
+2022-09-12,Store_Tanger,Dairy,1412,7429.49,0,8.0,0
+2022-09-19,Store_Tanger,Dairy,1441,8968.22,1,5.7,0
+2022-09-26,Store_Tanger,Dairy,1702,8970.0,0,6.0,0
+2022-10-03,Store_Tanger,Dairy,905,8550.5,1,2.1,0
+2022-10-10,Store_Tanger,Dairy,1330,6453.24,0,6.9,0
+2022-10-17,Store_Tanger,Dairy,664,7918.34,1,4.4,0
+2022-10-24,Store_Tanger,Dairy,809,8547.08,1,4.3,0
+2022-10-31,Store_Tanger,Dairy,681,7355.34,0,2.7,0
+2022-11-07,Store_Tanger,Dairy,1266,9602.62,0,5.6,0
+2022-11-14,Store_Tanger,Dairy,2079,9829.38,0,6.2,0
+2022-11-21,Store_Tanger,Dairy,2115,9643.49,0,8.9,0
+2022-11-28,Store_Tanger,Dairy,2117,11493.06,0,4.8,1
+2022-12-05,Store_Tanger,Dairy,1685,9173.57,0,7.0,0
+2022-12-12,Store_Tanger,Dairy,1646,8334.48,0,9.7,0
+2022-12-19,Store_Tanger,Dairy,1919,10360.5,0,12.2,0
+2022-12-26,Store_Tanger,Dairy,1564,13338.01,1,10.5,1
+2023-01-02,Store_Tanger,Dairy,1348,7352.37,0,13.3,1
+2023-01-09,Store_Tanger,Dairy,779,6903.38,0,16.3,0
+2023-01-16,Store_Tanger,Dairy,637,7188.28,1,13.4,0
+2023-01-23,Store_Tanger,Dairy,1324,6544.31,0,16.3,0
+2023-01-30,Store_Tanger,Dairy,826,6489.04,0,13.3,0
+2023-02-06,Store_Tanger,Dairy,865,7130.62,0,17.5,0
+2023-02-13,Store_Tanger,Dairy,925,7307.88,0,20.9,0
+2023-02-20,Store_Tanger,Dairy,903,7335.89,0,18.4,0
+2023-02-27,Store_Tanger,Dairy,953,7809.03,0,20.4,0
+2023-03-06,Store_Tanger,Dairy,2569,11133.01,1,24.6,0
+2023-03-13,Store_Tanger,Dairy,888,8158.24,0,20.0,0
+2023-03-20,Store_Tanger,Dairy,1106,9258.8,1,24.5,0
+2023-03-27,Store_Tanger,Dairy,1057,7825.36,0,21.4,0
+2023-04-03,Store_Tanger,Dairy,1582,8839.02,0,25.7,0
+2023-04-10,Store_Tanger,Dairy,1368,9624.62,0,23.7,0
+2023-04-17,Store_Tanger,Dairy,796,9453.23,0,24.3,0
+2023-04-24,Store_Tanger,Dairy,1716,11198.89,0,26.7,1
+2023-05-01,Store_Tanger,Dairy,1646,10254.63,0,23.7,0
+2023-05-08,Store_Tanger,Dairy,1515,9412.62,0,24.4,0
+2023-05-15,Store_Tanger,Dairy,1046,10619.93,0,25.0,0
+2023-05-22,Store_Tanger,Dairy,1209,11911.89,1,20.6,0
+2023-05-29,Store_Tanger,Dairy,872,9773.0,0,22.1,0
+2023-06-05,Store_Tanger,Dairy,1237,9906.32,0,22.9,0
+2023-06-12,Store_Tanger,Dairy,2205,11199.71,0,20.6,0
+2023-06-19,Store_Tanger,Dairy,1781,11546.27,0,19.3,0
+2023-06-26,Store_Tanger,Dairy,1860,10704.56,0,21.2,0
+2023-07-03,Store_Tanger,Dairy,1326,12469.65,0,18.7,1
+2023-07-10,Store_Tanger,Dairy,1145,10218.78,0,14.0,0
+2023-07-17,Store_Tanger,Dairy,1228,11026.63,1,15.9,0
+2023-07-24,Store_Tanger,Dairy,1502,10535.0,0,12.2,0
+2023-07-31,Store_Tanger,Dairy,1642,12860.0,1,16.8,0
+2023-08-07,Store_Tanger,Dairy,2195,9553.29,0,10.9,0
+2023-08-14,Store_Tanger,Dairy,998,10615.03,1,11.7,0
+2023-08-21,Store_Tanger,Dairy,1869,9558.98,0,10.3,0
+2023-08-28,Store_Tanger,Dairy,797,9127.91,0,9.2,0
+2023-09-04,Store_Tanger,Dairy,1488,9141.93,1,5.4,0
+2023-09-11,Store_Tanger,Dairy,907,8631.47,0,3.2,0
+2023-09-18,Store_Tanger,Dairy,932,7903.21,0,2.7,0
+2023-09-25,Store_Tanger,Dairy,1262,7327.54,0,5.6,0
+2023-10-02,Store_Tanger,Dairy,834,7685.92,0,5.3,0
+2023-10-09,Store_Tanger,Dairy,1664,8908.71,1,4.7,0
+2023-10-16,Store_Tanger,Dairy,1343,7226.78,0,2.4,0
+2023-10-23,Store_Tanger,Dairy,1047,7263.39,0,3.0,0
+2023-10-30,Store_Tanger,Dairy,1464,7856.13,1,4.7,0
+2023-11-06,Store_Tanger,Dairy,1209,9674.63,0,3.6,0
+2023-11-13,Store_Tanger,Dairy,1617,9364.61,0,5.7,0
+2023-11-20,Store_Tanger,Dairy,1150,9174.98,0,7.1,0
+2023-11-27,Store_Tanger,Dairy,1448,9950.26,0,8.1,1
+2023-12-04,Store_Tanger,Dairy,1116,8843.92,0,11.1,0
+2023-12-11,Store_Tanger,Dairy,943,8458.95,0,12.0,0
+2023-12-18,Store_Tanger,Dairy,1292,10292.57,0,10.9,0
+2023-12-25,Store_Tanger,Dairy,1345,12275.57,0,12.7,1
+2024-01-01,Store_Tanger,Dairy,828,7311.46,1,17.1,0
+2022-01-03,Store_Tanger,Meat & Seafood,1014,9590.83,0,13.8,0
+2022-01-10,Store_Tanger,Meat & Seafood,1301,12442.91,0,16.2,1
+2022-01-17,Store_Tanger,Meat & Seafood,1009,11011.52,0,22.1,0
+2022-01-24,Store_Tanger,Meat & Seafood,1407,11004.25,0,12.3,0
+2022-01-31,Store_Tanger,Meat & Seafood,1270,11962.88,1,14.1,0
+2022-02-07,Store_Tanger,Meat & Seafood,1503,14244.3,1,21.7,0
+2022-02-14,Store_Tanger,Meat & Seafood,1847,12957.84,1,20.8,0
+2022-02-21,Store_Tanger,Meat & Seafood,2546,13202.02,1,18.3,0
+2022-02-28,Store_Tanger,Meat & Seafood,1077,11791.81,0,19.3,0
+2022-03-07,Store_Tanger,Meat & Seafood,1825,14139.8,0,22.0,0
+2022-03-14,Store_Tanger,Meat & Seafood,2503,13882.01,0,25.9,0
+2022-03-21,Store_Tanger,Meat & Seafood,1521,14159.45,0,21.8,0
+2022-03-28,Store_Tanger,Meat & Seafood,1148,13113.76,0,23.3,0
+2022-04-04,Store_Tanger,Meat & Seafood,1273,13748.16,0,22.8,0
+2022-04-11,Store_Tanger,Meat & Seafood,2126,17158.98,1,22.4,0
+2022-04-18,Store_Tanger,Meat & Seafood,2025,16117.34,0,25.6,0
+2022-04-25,Store_Tanger,Meat & Seafood,2386,18784.87,0,25.0,1
+2022-05-02,Store_Tanger,Meat & Seafood,2987,21641.3,0,25.6,1
+2022-05-09,Store_Tanger,Meat & Seafood,2462,17999.95,0,21.8,0
+2022-05-16,Store_Tanger,Meat & Seafood,1675,19877.83,1,22.6,0
+2022-05-23,Store_Tanger,Meat & Seafood,3559,15846.04,0,23.7,0
+2022-05-30,Store_Tanger,Meat & Seafood,4325,20223.49,1,24.2,0
+2022-06-06,Store_Tanger,Meat & Seafood,2657,17631.21,0,18.6,0
+2022-06-13,Store_Tanger,Meat & Seafood,3131,21066.95,1,19.7,0
+2022-06-20,Store_Tanger,Meat & Seafood,1768,16268.82,0,21.9,0
+2022-06-27,Store_Tanger,Meat & Seafood,1583,16943.74,0,19.1,0
+2022-07-04,Store_Tanger,Meat & Seafood,4257,23983.38,1,15.9,1
+2022-07-11,Store_Tanger,Meat & Seafood,2884,15938.98,0,14.5,0
+2022-07-18,Store_Tanger,Meat & Seafood,2433,15184.21,0,13.5,0
+2022-07-25,Store_Tanger,Meat & Seafood,2452,16903.38,0,14.0,0
+2022-08-01,Store_Tanger,Meat & Seafood,4348,18694.9,1,10.1,0
+2022-08-08,Store_Tanger,Meat & Seafood,2557,15813.57,1,9.4,0
+2022-08-15,Store_Tanger,Meat & Seafood,2248,16503.13,0,9.0,0
+2022-08-22,Store_Tanger,Meat & Seafood,1449,16372.89,0,10.4,0
+2022-08-29,Store_Tanger,Meat & Seafood,1419,14756.29,0,6.6,0
+2022-09-05,Store_Tanger,Meat & Seafood,2251,13140.19,0,6.9,0
+2022-09-12,Store_Tanger,Meat & Seafood,1666,13918.69,0,10.2,0
+2022-09-19,Store_Tanger,Meat & Seafood,2489,14339.83,1,6.1,0
+2022-09-26,Store_Tanger,Meat & Seafood,2041,15180.44,0,6.5,0
+2022-10-03,Store_Tanger,Meat & Seafood,1246,11653.61,0,6.2,0
+2022-10-10,Store_Tanger,Meat & Seafood,949,11248.92,0,8.3,0
+2022-10-17,Store_Tanger,Meat & Seafood,3006,14190.83,1,7.5,0
+2022-10-24,Store_Tanger,Meat & Seafood,1912,12588.06,0,3.1,0
+2022-10-31,Store_Tanger,Meat & Seafood,1022,11369.19,0,5.7,0
+2022-11-07,Store_Tanger,Meat & Seafood,1885,15598.33,0,5.4,0
+2022-11-14,Store_Tanger,Meat & Seafood,1719,18668.08,1,5.4,0
+2022-11-21,Store_Tanger,Meat & Seafood,1342,15205.32,0,8.9,0
+2022-11-28,Store_Tanger,Meat & Seafood,2290,19267.38,0,5.8,1
+2022-12-05,Store_Tanger,Meat & Seafood,1787,15047.89,0,10.5,0
+2022-12-12,Store_Tanger,Meat & Seafood,1520,15787.79,0,9.5,0
+2022-12-19,Store_Tanger,Meat & Seafood,2873,16823.54,1,8.8,0
+2022-12-26,Store_Tanger,Meat & Seafood,1766,19513.4,0,6.1,1
+2023-01-02,Store_Tanger,Meat & Seafood,1562,13388.68,0,16.2,1
+2023-01-09,Store_Tanger,Meat & Seafood,1817,10902.51,0,17.8,0
+2023-01-16,Store_Tanger,Meat & Seafood,2282,11981.45,0,14.6,0
+2023-01-23,Store_Tanger,Meat & Seafood,1963,10838.77,0,16.9,0
+2023-01-30,Store_Tanger,Meat & Seafood,1141,12518.76,1,18.1,0
+2023-02-06,Store_Tanger,Meat & Seafood,2570,12128.79,0,23.0,0
+2023-02-13,Store_Tanger,Meat & Seafood,1115,12072.94,0,20.9,0
+2023-02-20,Store_Tanger,Meat & Seafood,1548,10444.3,0,21.8,0
+2023-02-27,Store_Tanger,Meat & Seafood,1368,11166.7,0,19.2,0
+2023-03-06,Store_Tanger,Meat & Seafood,1998,15672.09,1,23.3,0
+2023-03-13,Store_Tanger,Meat & Seafood,1735,17832.23,1,24.0,0
+2023-03-20,Store_Tanger,Meat & Seafood,3434,15469.19,1,23.4,0
+2023-03-27,Store_Tanger,Meat & Seafood,2269,12889.08,0,22.8,0
+2023-04-03,Store_Tanger,Meat & Seafood,1822,18023.01,1,22.3,0
+2023-04-10,Store_Tanger,Meat & Seafood,2184,15619.46,0,22.8,0
+2023-04-17,Store_Tanger,Meat & Seafood,2611,16512.76,1,25.9,0
+2023-04-24,Store_Tanger,Meat & Seafood,2957,18792.54,0,23.7,1
+2023-05-01,Store_Tanger,Meat & Seafood,1447,16082.21,0,23.9,0
+2023-05-08,Store_Tanger,Meat & Seafood,1415,13727.56,0,26.8,0
+2023-05-15,Store_Tanger,Meat & Seafood,2836,16678.71,0,22.1,0
+2023-05-22,Store_Tanger,Meat & Seafood,2209,16819.57,0,24.1,0
+2023-05-29,Store_Tanger,Meat & Seafood,2092,20244.68,1,25.0,0
+2023-06-05,Store_Tanger,Meat & Seafood,1649,17626.11,0,21.5,0
+2023-06-12,Store_Tanger,Meat & Seafood,1852,16266.95,0,16.4,0
+2023-06-19,Store_Tanger,Meat & Seafood,1648,16529.8,0,20.2,0
+2023-06-26,Store_Tanger,Meat & Seafood,4107,17077.51,0,17.7,0
+2023-07-03,Store_Tanger,Meat & Seafood,4028,21524.42,0,14.8,1
+2023-07-10,Store_Tanger,Meat & Seafood,2445,16112.02,0,18.5,0
+2023-07-17,Store_Tanger,Meat & Seafood,1813,17145.88,0,17.3,0
+2023-07-24,Store_Tanger,Meat & Seafood,1628,17107.04,0,12.3,0
+2023-07-31,Store_Tanger,Meat & Seafood,1657,15216.79,0,16.0,0
+2023-08-07,Store_Tanger,Meat & Seafood,3026,14594.57,0,10.1,0
+2023-08-14,Store_Tanger,Meat & Seafood,1422,16683.75,1,8.2,0
+2023-08-21,Store_Tanger,Meat & Seafood,1286,14633.82,0,12.5,0
+2023-08-28,Store_Tanger,Meat & Seafood,1348,14291.48,0,8.9,0
+2023-09-04,Store_Tanger,Meat & Seafood,1453,15331.99,0,5.4,0
+2023-09-11,Store_Tanger,Meat & Seafood,1483,13669.8,0,8.2,0
+2023-09-18,Store_Tanger,Meat & Seafood,1232,13194.58,0,6.0,0
+2023-09-25,Store_Tanger,Meat & Seafood,1210,13475.17,0,5.3,0
+2023-10-02,Store_Tanger,Meat & Seafood,1123,11734.63,0,3.9,0
+2023-10-09,Store_Tanger,Meat & Seafood,1718,11572.44,0,2.1,0
+2023-10-16,Store_Tanger,Meat & Seafood,2430,11289.01,0,6.4,0
+2023-10-23,Store_Tanger,Meat & Seafood,1416,11687.72,0,6.7,0
+2023-10-30,Store_Tanger,Meat & Seafood,1800,13958.65,1,3.7,0
+2023-11-06,Store_Tanger,Meat & Seafood,2041,15202.32,0,6.0,0
+2023-11-13,Store_Tanger,Meat & Seafood,3003,15308.02,0,5.7,0
+2023-11-20,Store_Tanger,Meat & Seafood,1812,14856.68,0,5.8,0
+2023-11-27,Store_Tanger,Meat & Seafood,3574,21319.3,1,5.6,1
+2023-12-04,Store_Tanger,Meat & Seafood,1462,14211.68,0,8.5,0
+2023-12-11,Store_Tanger,Meat & Seafood,1873,15375.77,0,13.5,0
+2023-12-18,Store_Tanger,Meat & Seafood,3465,14548.31,0,9.7,0
+2023-12-25,Store_Tanger,Meat & Seafood,2215,18882.71,1,9.7,1
+2024-01-01,Store_Tanger,Meat & Seafood,944,9743.26,0,16.8,0
+2022-01-03,Store_Tanger,Beverages,628,5158.83,1,14.2,0
+2022-01-10,Store_Tanger,Beverages,489,5572.3,0,18.6,1
+2022-01-17,Store_Tanger,Beverages,560,4653.75,0,21.0,0
+2022-01-24,Store_Tanger,Beverages,446,5063.49,0,16.6,0
+2022-01-31,Store_Tanger,Beverages,764,5504.79,1,16.5,0
+2022-02-07,Store_Tanger,Beverages,779,5656.84,0,20.8,0
+2022-02-14,Store_Tanger,Beverages,671,5333.59,0,19.7,0
+2022-02-21,Store_Tanger,Beverages,624,5301.24,0,21.7,0
+2022-02-28,Store_Tanger,Beverages,648,5355.48,0,18.1,0
+2022-03-07,Store_Tanger,Beverages,1040,6724.39,0,22.8,0
+2022-03-14,Store_Tanger,Beverages,514,5590.44,0,24.2,0
+2022-03-21,Store_Tanger,Beverages,965,6001.11,0,30.2,0
+2022-03-28,Store_Tanger,Beverages,740,6199.93,1,25.7,0
+2022-04-04,Store_Tanger,Beverages,1070,7625.33,1,23.6,0
+2022-04-11,Store_Tanger,Beverages,1318,7669.6,1,28.1,0
+2022-04-18,Store_Tanger,Beverages,749,6664.31,0,27.2,0
+2022-04-25,Store_Tanger,Beverages,1186,9182.51,1,24.3,1
+2022-05-02,Store_Tanger,Beverages,822,9066.43,0,22.3,1
+2022-05-09,Store_Tanger,Beverages,2145,9614.5,1,25.1,0
+2022-05-16,Store_Tanger,Beverages,775,7198.26,0,22.8,0
+2022-05-23,Store_Tanger,Beverages,1385,7886.18,0,22.1,0
+2022-05-30,Store_Tanger,Beverages,1635,7796.93,1,22.5,0
+2022-06-06,Store_Tanger,Beverages,920,10020.79,0,17.5,0
+2022-06-13,Store_Tanger,Beverages,1272,11413.36,1,19.6,0
+2022-06-20,Store_Tanger,Beverages,1155,9428.82,0,24.1,0
+2022-06-27,Store_Tanger,Beverages,1005,11121.73,1,20.4,0
+2022-07-04,Store_Tanger,Beverages,1991,12638.19,0,13.9,1
+2022-07-11,Store_Tanger,Beverages,2445,10207.14,1,14.8,0
+2022-07-18,Store_Tanger,Beverages,1922,9089.59,0,17.1,0
+2022-07-25,Store_Tanger,Beverages,1915,11292.78,1,13.8,0
+2022-08-01,Store_Tanger,Beverages,1716,9514.97,0,12.2,0
+2022-08-08,Store_Tanger,Beverages,914,10959.52,1,11.9,0
+2022-08-15,Store_Tanger,Beverages,775,9203.83,0,14.2,0
+2022-08-22,Store_Tanger,Beverages,826,8658.92,0,10.1,0
+2022-08-29,Store_Tanger,Beverages,1749,9713.26,0,14.5,0
+2022-09-05,Store_Tanger,Beverages,884,6019.41,0,6.3,0
+2022-09-12,Store_Tanger,Beverages,951,6232.05,0,7.1,0
+2022-09-19,Store_Tanger,Beverages,1394,6274.22,0,6.6,0
+2022-09-26,Store_Tanger,Beverages,1528,6714.54,0,8.4,0
+2022-10-03,Store_Tanger,Beverages,452,4846.25,0,1.5,0
+2022-10-10,Store_Tanger,Beverages,607,4973.36,0,3.9,0
+2022-10-17,Store_Tanger,Beverages,938,5447.75,0,6.9,0
+2022-10-24,Store_Tanger,Beverages,461,5100.4,0,3.6,0
+2022-10-31,Store_Tanger,Beverages,616,6350.01,1,5.4,0
+2022-11-07,Store_Tanger,Beverages,537,6234.58,0,8.7,0
+2022-11-14,Store_Tanger,Beverages,713,8442.1,1,8.7,0
+2022-11-21,Store_Tanger,Beverages,602,6659.49,0,5.1,0
+2022-11-28,Store_Tanger,Beverages,753,8774.68,0,5.9,1
+2022-12-05,Store_Tanger,Beverages,896,6616.71,0,13.1,0
+2022-12-12,Store_Tanger,Beverages,1716,8415.94,1,8.7,0
+2022-12-19,Store_Tanger,Beverages,578,6120.88,0,11.0,0
+2022-12-26,Store_Tanger,Beverages,1795,8848.82,0,10.7,1
+2023-01-02,Store_Tanger,Beverages,576,6813.7,1,13.8,1
+2023-01-09,Store_Tanger,Beverages,713,4467.81,0,13.5,0
+2023-01-16,Store_Tanger,Beverages,403,4344.75,0,15.4,0
+2023-01-23,Store_Tanger,Beverages,640,4859.85,0,13.2,0
+2023-01-30,Store_Tanger,Beverages,1014,4752.03,0,19.3,0
+2023-02-06,Store_Tanger,Beverages,504,5592.38,0,14.4,0
+2023-02-13,Store_Tanger,Beverages,1072,6223.14,1,15.5,0
+2023-02-20,Store_Tanger,Beverages,916,5143.55,0,21.3,0
+2023-02-27,Store_Tanger,Beverages,841,4791.3,0,18.9,0
+2023-03-06,Store_Tanger,Beverages,854,5935.36,0,25.4,0
+2023-03-13,Store_Tanger,Beverages,501,5559.36,0,23.8,0
+2023-03-20,Store_Tanger,Beverages,503,5959.24,0,22.9,0
+2023-03-27,Store_Tanger,Beverages,1172,7061.93,1,21.1,0
+2023-04-03,Store_Tanger,Beverages,1345,6747.67,0,23.8,0
+2023-04-10,Store_Tanger,Beverages,1524,6567.62,0,25.8,0
+2023-04-17,Store_Tanger,Beverages,708,6099.69,0,26.9,0
+2023-04-24,Store_Tanger,Beverages,1684,7691.98,0,24.3,1
+2023-05-01,Store_Tanger,Beverages,1407,6226.9,0,25.4,0
+2023-05-08,Store_Tanger,Beverages,799,8837.66,1,28.5,0
+2023-05-15,Store_Tanger,Beverages,823,8586.18,1,26.0,0
+2023-05-22,Store_Tanger,Beverages,687,8147.58,0,26.4,0
+2023-05-29,Store_Tanger,Beverages,828,7735.07,0,24.5,0
+2023-06-05,Store_Tanger,Beverages,1176,9924.51,0,20.8,0
+2023-06-12,Store_Tanger,Beverages,798,8679.36,0,16.2,0
+2023-06-19,Store_Tanger,Beverages,1283,10838.89,0,18.4,0
+2023-06-26,Store_Tanger,Beverages,1272,11029.63,0,20.5,0
+2023-07-03,Store_Tanger,Beverages,1011,11723.19,0,12.4,1
+2023-07-10,Store_Tanger,Beverages,1413,9863.21,0,11.3,0
+2023-07-17,Store_Tanger,Beverages,1137,10216.12,0,12.0,0
+2023-07-24,Store_Tanger,Beverages,1442,9345.6,0,15.6,0
+2023-07-31,Store_Tanger,Beverages,1424,9392.35,0,15.8,0
+2023-08-07,Store_Tanger,Beverages,1919,9918.09,1,8.4,0
+2023-08-14,Store_Tanger,Beverages,1780,8906.24,0,7.5,0
+2023-08-21,Store_Tanger,Beverages,855,9093.32,0,10.2,0
+2023-08-28,Store_Tanger,Beverages,1858,9312.27,0,13.6,0
+2023-09-04,Store_Tanger,Beverages,564,5701.88,0,2.7,0
+2023-09-11,Store_Tanger,Beverages,600,6206.58,0,5.5,0
+2023-09-18,Store_Tanger,Beverages,864,7683.46,1,4.6,0
+2023-09-25,Store_Tanger,Beverages,768,6020.92,0,1.7,0
+2023-10-02,Store_Tanger,Beverages,589,5766.86,1,4.7,0
+2023-10-09,Store_Tanger,Beverages,462,5481.04,0,6.1,0
+2023-10-16,Store_Tanger,Beverages,1147,5930.98,1,5.5,0
+2023-10-23,Store_Tanger,Beverages,541,6451.15,1,8.8,0
+2023-10-30,Store_Tanger,Beverages,1014,5621.78,0,9.0,0
+2023-11-06,Store_Tanger,Beverages,1670,7673.32,1,5.4,0
+2023-11-13,Store_Tanger,Beverages,1050,6695.76,0,7.3,0
+2023-11-20,Store_Tanger,Beverages,936,6732.65,0,5.0,0
+2023-11-27,Store_Tanger,Beverages,733,8262.22,0,8.9,1
+2023-12-04,Store_Tanger,Beverages,1143,6780.48,0,8.4,0
+2023-12-11,Store_Tanger,Beverages,808,6855.6,0,9.0,0
+2023-12-18,Store_Tanger,Beverages,655,6074.92,0,12.9,0
+2023-12-25,Store_Tanger,Beverages,732,7846.2,1,10.2,1
+2024-01-01,Store_Tanger,Beverages,644,4951.91,0,19.3,0
+2022-01-03,Store_Tanger,Snacks & Confectionery,511,3950.02,0,18.0,0
+2022-01-10,Store_Tanger,Snacks & Confectionery,860,5076.36,1,11.7,1
+2022-01-17,Store_Tanger,Snacks & Confectionery,761,4185.72,0,14.5,0
+2022-01-24,Store_Tanger,Snacks & Confectionery,641,3598.09,0,17.3,0
+2022-01-31,Store_Tanger,Snacks & Confectionery,682,3914.54,0,12.5,0
+2022-02-07,Store_Tanger,Snacks & Confectionery,1032,5184.11,1,19.1,0
+2022-02-14,Store_Tanger,Snacks & Confectionery,680,3883.43,0,20.2,0
+2022-02-21,Store_Tanger,Snacks & Confectionery,612,4073.07,0,20.0,0
+2022-02-28,Store_Tanger,Snacks & Confectionery,365,4214.31,0,19.5,0
+2022-03-07,Store_Tanger,Snacks & Confectionery,885,4714.93,0,21.8,0
+2022-03-14,Store_Tanger,Snacks & Confectionery,891,4847.95,0,22.3,0
+2022-03-21,Store_Tanger,Snacks & Confectionery,1407,6151.08,1,23.0,0
+2022-03-28,Store_Tanger,Snacks & Confectionery,665,5705.14,1,22.9,0
+2022-04-04,Store_Tanger,Snacks & Confectionery,662,6446.53,1,26.0,0
+2022-04-11,Store_Tanger,Snacks & Confectionery,1098,6538.51,1,20.7,0
+2022-04-18,Store_Tanger,Snacks & Confectionery,1004,5808.19,0,22.3,0
+2022-04-25,Store_Tanger,Snacks & Confectionery,760,7171.27,1,20.8,1
+2022-05-02,Store_Tanger,Snacks & Confectionery,777,7979.07,0,23.7,1
+2022-05-09,Store_Tanger,Snacks & Confectionery,1250,5815.45,0,21.1,0
+2022-05-16,Store_Tanger,Snacks & Confectionery,513,5932.97,0,22.2,0
+2022-05-23,Store_Tanger,Snacks & Confectionery,666,6557.9,1,21.9,0
+2022-05-30,Store_Tanger,Snacks & Confectionery,655,6205.62,0,25.9,0
+2022-06-06,Store_Tanger,Snacks & Confectionery,781,6198.03,0,18.4,0
+2022-06-13,Store_Tanger,Snacks & Confectionery,1311,7917.53,1,18.3,0
+2022-06-20,Store_Tanger,Snacks & Confectionery,806,6234.44,0,20.3,0
+2022-06-27,Store_Tanger,Snacks & Confectionery,546,6365.06,1,17.3,0
+2022-07-04,Store_Tanger,Snacks & Confectionery,664,7844.54,0,15.7,1
+2022-07-11,Store_Tanger,Snacks & Confectionery,525,6134.35,0,15.0,0
+2022-07-18,Store_Tanger,Snacks & Confectionery,960,6222.75,1,17.9,0
+2022-07-25,Store_Tanger,Snacks & Confectionery,631,6240.59,0,14.1,0
+2022-08-01,Store_Tanger,Snacks & Confectionery,1111,5354.46,0,8.6,0
+2022-08-08,Store_Tanger,Snacks & Confectionery,1007,5679.41,0,9.1,0
+2022-08-15,Store_Tanger,Snacks & Confectionery,520,5580.71,0,14.4,0
+2022-08-22,Store_Tanger,Snacks & Confectionery,1100,5560.77,0,11.8,0
+2022-08-29,Store_Tanger,Snacks & Confectionery,652,5650.29,0,11.4,0
+2022-09-05,Store_Tanger,Snacks & Confectionery,772,6004.8,1,3.7,0
+2022-09-12,Store_Tanger,Snacks & Confectionery,407,4598.02,0,8.0,0
+2022-09-19,Store_Tanger,Snacks & Confectionery,599,5362.38,1,7.3,0
+2022-09-26,Store_Tanger,Snacks & Confectionery,733,5680.62,1,5.9,0
+2022-10-03,Store_Tanger,Snacks & Confectionery,549,4232.63,0,4.5,0
+2022-10-10,Store_Tanger,Snacks & Confectionery,522,4048.06,0,2.6,0
+2022-10-17,Store_Tanger,Snacks & Confectionery,586,4262.45,0,5.0,0
+2022-10-24,Store_Tanger,Snacks & Confectionery,456,4294.07,0,3.6,0
+2022-10-31,Store_Tanger,Snacks & Confectionery,387,4345.72,0,4.6,0
+2022-11-07,Store_Tanger,Snacks & Confectionery,532,5373.89,0,6.1,0
+2022-11-14,Store_Tanger,Snacks & Confectionery,521,5563.83,0,10.0,0
+2022-11-21,Store_Tanger,Snacks & Confectionery,1294,5571.52,0,5.0,0
+2022-11-28,Store_Tanger,Snacks & Confectionery,885,7054.08,0,3.4,1
+2022-12-05,Store_Tanger,Snacks & Confectionery,397,4510.79,0,12.4,0
+2022-12-12,Store_Tanger,Snacks & Confectionery,514,4610.45,0,8.0,0
+2022-12-19,Store_Tanger,Snacks & Confectionery,1342,6038.06,0,11.4,0
+2022-12-26,Store_Tanger,Snacks & Confectionery,1166,6179.18,0,14.3,1
+2023-01-02,Store_Tanger,Snacks & Confectionery,844,5575.65,1,12.7,1
+2023-01-09,Store_Tanger,Snacks & Confectionery,496,3684.01,0,12.2,0
+2023-01-16,Store_Tanger,Snacks & Confectionery,639,4271.93,0,11.9,0
+2023-01-23,Store_Tanger,Snacks & Confectionery,452,3577.18,0,14.1,0
+2023-01-30,Store_Tanger,Snacks & Confectionery,345,3711.46,0,15.7,0
+2023-02-06,Store_Tanger,Snacks & Confectionery,375,4492.12,1,20.1,0
+2023-02-13,Store_Tanger,Snacks & Confectionery,418,4163.42,0,15.5,0
+2023-02-20,Store_Tanger,Snacks & Confectionery,527,5097.91,1,18.7,0
+2023-02-27,Store_Tanger,Snacks & Confectionery,352,3612.15,0,21.0,0
+2023-03-06,Store_Tanger,Snacks & Confectionery,617,4682.32,0,29.1,0
+2023-03-13,Store_Tanger,Snacks & Confectionery,767,4860.93,0,23.0,0
+2023-03-20,Store_Tanger,Snacks & Confectionery,526,5467.75,1,23.8,0
+2023-03-27,Store_Tanger,Snacks & Confectionery,935,5187.62,0,21.7,0
+2023-04-03,Store_Tanger,Snacks & Confectionery,1552,6348.92,1,24.6,0
+2023-04-10,Store_Tanger,Snacks & Confectionery,472,5550.72,0,25.0,0
+2023-04-17,Store_Tanger,Snacks & Confectionery,570,6709.72,1,20.9,0
+2023-04-24,Store_Tanger,Snacks & Confectionery,640,7086.85,0,24.1,1
+2023-05-01,Store_Tanger,Snacks & Confectionery,628,6367.24,0,25.0,0
+2023-05-08,Store_Tanger,Snacks & Confectionery,607,6151.05,0,23.6,0
+2023-05-15,Store_Tanger,Snacks & Confectionery,790,6578.31,1,23.2,0
+2023-05-22,Store_Tanger,Snacks & Confectionery,1252,6645.16,1,25.3,0
+2023-05-29,Store_Tanger,Snacks & Confectionery,1401,7222.13,1,23.8,0
+2023-06-05,Store_Tanger,Snacks & Confectionery,995,6630.8,0,21.6,0
+2023-06-12,Store_Tanger,Snacks & Confectionery,1382,6008.41,0,19.8,0
+2023-06-19,Store_Tanger,Snacks & Confectionery,678,6358.12,0,17.3,0
+2023-06-26,Store_Tanger,Snacks & Confectionery,495,5386.6,0,21.2,0
+2023-07-03,Store_Tanger,Snacks & Confectionery,662,7572.13,0,16.8,1
+2023-07-10,Store_Tanger,Snacks & Confectionery,555,5652.55,0,19.4,0
+2023-07-17,Store_Tanger,Snacks & Confectionery,1141,5659.1,0,12.8,0
+2023-07-24,Store_Tanger,Snacks & Confectionery,679,6921.65,1,14.4,0
+2023-07-31,Store_Tanger,Snacks & Confectionery,820,5983.24,0,16.6,0
+2023-08-07,Store_Tanger,Snacks & Confectionery,528,5022.38,0,6.7,0
+2023-08-14,Store_Tanger,Snacks & Confectionery,605,6661.5,1,10.0,0
+2023-08-21,Store_Tanger,Snacks & Confectionery,1074,5780.31,1,9.5,0
+2023-08-28,Store_Tanger,Snacks & Confectionery,601,5443.82,0,7.9,0
+2023-09-04,Store_Tanger,Snacks & Confectionery,911,4928.05,0,7.3,0
+2023-09-11,Store_Tanger,Snacks & Confectionery,874,4711.53,0,2.2,0
+2023-09-18,Store_Tanger,Snacks & Confectionery,840,4548.79,0,5.9,0
+2023-09-25,Store_Tanger,Snacks & Confectionery,739,4648.04,0,6.1,0
+2023-10-02,Store_Tanger,Snacks & Confectionery,585,4534.04,0,4.4,0
+2023-10-09,Store_Tanger,Snacks & Confectionery,871,4666.34,1,5.5,0
+2023-10-16,Store_Tanger,Snacks & Confectionery,680,4534.07,0,6.1,0
+2023-10-23,Store_Tanger,Snacks & Confectionery,431,4313.29,0,2.2,0
+2023-10-30,Store_Tanger,Snacks & Confectionery,641,4332.03,0,7.9,0
+2023-11-06,Store_Tanger,Snacks & Confectionery,1184,5905.17,1,6.0,0
+2023-11-13,Store_Tanger,Snacks & Confectionery,670,6825.08,1,5.4,0
+2023-11-20,Store_Tanger,Snacks & Confectionery,639,5756.17,0,5.7,0
+2023-11-27,Store_Tanger,Snacks & Confectionery,804,8529.39,1,5.0,1
+2023-12-04,Store_Tanger,Snacks & Confectionery,560,5210.28,0,12.3,0
+2023-12-11,Store_Tanger,Snacks & Confectionery,727,6674.43,1,8.0,0
+2023-12-18,Store_Tanger,Snacks & Confectionery,435,5189.62,0,11.3,0
+2023-12-25,Store_Tanger,Snacks & Confectionery,1225,7015.35,0,10.6,1
+2024-01-01,Store_Tanger,Snacks & Confectionery,446,3652.65,0,15.1,0
+2022-01-03,Store_Tanger,Frozen Foods,703,4410.89,0,14.0,0
+2022-01-10,Store_Tanger,Frozen Foods,1067,5417.85,0,13.4,1
+2022-01-17,Store_Tanger,Frozen Foods,544,4306.53,1,17.7,0
+2022-01-24,Store_Tanger,Frozen Foods,661,4715.06,1,17.1,0
+2022-01-31,Store_Tanger,Frozen Foods,507,4667.92,1,13.3,0
+2022-02-07,Store_Tanger,Frozen Foods,425,4799.04,0,19.7,0
+2022-02-14,Store_Tanger,Frozen Foods,466,5044.6,0,18.6,0
+2022-02-21,Store_Tanger,Frozen Foods,464,4536.92,1,20.8,0
+2022-02-28,Store_Tanger,Frozen Foods,851,4721.11,0,17.6,0
+2022-03-07,Store_Tanger,Frozen Foods,529,4777.67,0,25.5,0
+2022-03-14,Store_Tanger,Frozen Foods,728,5689.73,1,18.8,0
+2022-03-21,Store_Tanger,Frozen Foods,908,5664.93,1,22.1,0
+2022-03-28,Store_Tanger,Frozen Foods,933,5306.02,0,23.9,0
+2022-04-04,Store_Tanger,Frozen Foods,648,5717.01,0,26.7,0
+2022-04-11,Store_Tanger,Frozen Foods,1043,5548.68,0,24.7,0
+2022-04-18,Store_Tanger,Frozen Foods,518,5367.07,0,23.0,0
+2022-04-25,Store_Tanger,Frozen Foods,753,8583.66,1,29.0,1
+2022-05-02,Store_Tanger,Frozen Foods,726,8168.28,0,26.0,1
+2022-05-09,Store_Tanger,Frozen Foods,790,6168.91,0,22.1,0
+2022-05-16,Store_Tanger,Frozen Foods,895,7273.3,1,22.4,0
+2022-05-23,Store_Tanger,Frozen Foods,785,6631.46,0,24.2,0
+2022-05-30,Store_Tanger,Frozen Foods,662,6513.32,0,26.2,0
+2022-06-06,Store_Tanger,Frozen Foods,1757,8011.48,1,20.7,0
+2022-06-13,Store_Tanger,Frozen Foods,957,6122.64,0,19.3,0
+2022-06-20,Store_Tanger,Frozen Foods,855,8218.35,1,18.7,0
+2022-06-27,Store_Tanger,Frozen Foods,623,6741.78,0,19.7,0
+2022-07-04,Store_Tanger,Frozen Foods,1319,7945.56,0,13.4,1
+2022-07-11,Store_Tanger,Frozen Foods,1227,7898.32,1,15.0,0
+2022-07-18,Store_Tanger,Frozen Foods,623,5881.16,0,17.8,0
+2022-07-25,Store_Tanger,Frozen Foods,589,5994.96,0,17.1,0
+2022-08-01,Store_Tanger,Frozen Foods,676,5904.34,0,10.9,0
+2022-08-08,Store_Tanger,Frozen Foods,1169,5674.53,0,10.7,0
+2022-08-15,Store_Tanger,Frozen Foods,632,6011.12,0,8.5,0
+2022-08-22,Store_Tanger,Frozen Foods,597,6294.95,0,7.5,0
+2022-08-29,Store_Tanger,Frozen Foods,651,5860.8,0,8.5,0
+2022-09-05,Store_Tanger,Frozen Foods,892,5449.47,0,2.3,0
+2022-09-12,Store_Tanger,Frozen Foods,778,6215.78,1,8.0,0
+2022-09-19,Store_Tanger,Frozen Foods,1164,6344.16,1,7.5,0
+2022-09-26,Store_Tanger,Frozen Foods,985,4912.0,0,8.1,0
+2022-10-03,Store_Tanger,Frozen Foods,834,5294.69,0,0.4,0
+2022-10-10,Store_Tanger,Frozen Foods,455,4304.28,0,4.9,0
+2022-10-17,Store_Tanger,Frozen Foods,562,4306.76,0,3.8,0
+2022-10-24,Store_Tanger,Frozen Foods,1180,5634.23,1,7.2,0
+2022-10-31,Store_Tanger,Frozen Foods,458,5173.78,0,6.7,0
+2022-11-07,Store_Tanger,Frozen Foods,1461,7397.18,1,3.5,0
+2022-11-14,Store_Tanger,Frozen Foods,1393,6022.11,0,10.4,0
+2022-11-21,Store_Tanger,Frozen Foods,763,7027.81,1,4.2,0
+2022-11-28,Store_Tanger,Frozen Foods,1648,7144.63,0,6.8,1
+2022-12-05,Store_Tanger,Frozen Foods,902,6040.72,0,5.7,0
+2022-12-12,Store_Tanger,Frozen Foods,551,6233.84,0,9.2,0
+2022-12-19,Store_Tanger,Frozen Foods,873,5622.12,0,9.2,0
+2022-12-26,Store_Tanger,Frozen Foods,1222,6510.21,0,10.9,1
+2023-01-02,Store_Tanger,Frozen Foods,498,5530.23,0,17.3,1
+2023-01-09,Store_Tanger,Frozen Foods,443,4714.9,1,15.4,0
+2023-01-16,Store_Tanger,Frozen Foods,445,3993.61,0,14.9,0
+2023-01-23,Store_Tanger,Frozen Foods,459,4355.99,0,13.7,0
+2023-01-30,Store_Tanger,Frozen Foods,722,3802.26,0,14.6,0
+2023-02-06,Store_Tanger,Frozen Foods,1025,5239.78,1,20.8,0
+2023-02-13,Store_Tanger,Frozen Foods,764,4912.42,0,21.6,0
+2023-02-20,Store_Tanger,Frozen Foods,756,4182.48,0,20.6,0
+2023-02-27,Store_Tanger,Frozen Foods,716,4505.35,0,18.9,0
+2023-03-06,Store_Tanger,Frozen Foods,914,4828.78,0,27.3,0
+2023-03-13,Store_Tanger,Frozen Foods,554,5222.68,0,21.0,0
+2023-03-20,Store_Tanger,Frozen Foods,1373,5612.39,0,23.2,0
+2023-03-27,Store_Tanger,Frozen Foods,464,5160.93,0,25.5,0
+2023-04-03,Store_Tanger,Frozen Foods,809,5426.39,0,23.2,0
+2023-04-10,Store_Tanger,Frozen Foods,963,7183.08,1,19.0,0
+2023-04-17,Store_Tanger,Frozen Foods,759,6752.95,1,29.0,0
+2023-04-24,Store_Tanger,Frozen Foods,1152,8327.42,0,25.1,1
+2023-05-01,Store_Tanger,Frozen Foods,1202,7111.65,1,18.8,0
+2023-05-08,Store_Tanger,Frozen Foods,1797,7354.29,1,22.2,0
+2023-05-15,Store_Tanger,Frozen Foods,553,6603.75,0,25.0,0
+2023-05-22,Store_Tanger,Frozen Foods,611,6073.07,0,24.8,0
+2023-05-29,Store_Tanger,Frozen Foods,997,6383.22,1,20.9,0
+2023-06-05,Store_Tanger,Frozen Foods,850,5972.48,0,19.6,0
+2023-06-12,Store_Tanger,Frozen Foods,942,6302.98,0,20.4,0
+2023-06-19,Store_Tanger,Frozen Foods,1172,7191.93,0,19.4,0
+2023-06-26,Store_Tanger,Frozen Foods,959,6609.59,0,19.5,0
+2023-07-03,Store_Tanger,Frozen Foods,1477,10062.82,1,14.7,1
+2023-07-10,Store_Tanger,Frozen Foods,1503,6103.03,0,16.6,0
+2023-07-17,Store_Tanger,Frozen Foods,783,6769.94,0,16.3,0
+2023-07-24,Store_Tanger,Frozen Foods,587,6873.72,1,16.2,0
+2023-07-31,Store_Tanger,Frozen Foods,1544,7546.56,1,9.7,0
+2023-08-07,Store_Tanger,Frozen Foods,918,6220.75,0,7.5,0
+2023-08-14,Store_Tanger,Frozen Foods,668,6117.62,0,9.0,0
+2023-08-21,Store_Tanger,Frozen Foods,505,5853.64,0,15.6,0
+2023-08-28,Store_Tanger,Frozen Foods,605,6327.09,0,12.0,0
+2023-09-04,Store_Tanger,Frozen Foods,780,4482.91,0,6.7,0
+2023-09-11,Store_Tanger,Frozen Foods,653,6376.64,1,7.5,0
+2023-09-18,Store_Tanger,Frozen Foods,590,4922.66,0,9.1,0
+2023-09-25,Store_Tanger,Frozen Foods,911,5310.17,0,7.8,0
+2023-10-02,Store_Tanger,Frozen Foods,764,4847.58,0,4.6,0
+2023-10-09,Store_Tanger,Frozen Foods,391,4472.31,0,6.1,0
+2023-10-16,Store_Tanger,Frozen Foods,591,5418.9,1,2.1,0
+2023-10-23,Store_Tanger,Frozen Foods,481,4963.9,1,4.4,0
+2023-10-30,Store_Tanger,Frozen Foods,743,4737.69,0,7.0,0
+2023-11-06,Store_Tanger,Frozen Foods,718,7115.67,1,3.3,0
+2023-11-13,Store_Tanger,Frozen Foods,1238,5909.81,0,3.5,0
+2023-11-20,Store_Tanger,Frozen Foods,530,5901.91,1,7.2,0
+2023-11-27,Store_Tanger,Frozen Foods,815,8592.14,1,4.0,1
+2023-12-04,Store_Tanger,Frozen Foods,582,5878.06,0,9.7,0
+2023-12-11,Store_Tanger,Frozen Foods,723,5640.41,0,10.1,0
+2023-12-18,Store_Tanger,Frozen Foods,937,5606.7,0,12.4,0
+2023-12-25,Store_Tanger,Frozen Foods,746,8116.22,1,7.5,1
+2024-01-01,Store_Tanger,Frozen Foods,570,4044.53,0,16.0,0
+2022-01-03,Store_Tanger,Personal Care,720,3114.96,0,19.2,0
+2022-01-10,Store_Tanger,Personal Care,573,3812.87,0,15.6,1
+2022-01-17,Store_Tanger,Personal Care,563,3098.19,0,14.4,0
+2022-01-24,Store_Tanger,Personal Care,292,3014.75,0,15.9,0
+2022-01-31,Store_Tanger,Personal Care,257,2973.81,0,11.0,0
+2022-02-07,Store_Tanger,Personal Care,543,3789.4,0,19.5,0
+2022-02-14,Store_Tanger,Personal Care,740,3105.1,0,18.7,0
+2022-02-21,Store_Tanger,Personal Care,824,3688.62,0,16.1,0
+2022-02-28,Store_Tanger,Personal Care,417,3159.91,0,19.8,0
+2022-03-07,Store_Tanger,Personal Care,482,4059.61,0,23.4,0
+2022-03-14,Store_Tanger,Personal Care,419,3924.19,0,23.1,0
+2022-03-21,Store_Tanger,Personal Care,355,3980.17,0,22.2,0
+2022-03-28,Store_Tanger,Personal Care,363,3541.38,0,22.9,0
+2022-04-04,Store_Tanger,Personal Care,406,4042.48,0,25.3,0
+2022-04-11,Store_Tanger,Personal Care,574,4118.96,0,28.6,0
+2022-04-18,Store_Tanger,Personal Care,939,4506.96,1,23.9,0
+2022-04-25,Store_Tanger,Personal Care,472,5217.76,0,21.7,1
+2022-05-02,Store_Tanger,Personal Care,865,5668.98,0,25.7,1
+2022-05-09,Store_Tanger,Personal Care,505,4818.05,0,26.2,0
+2022-05-16,Store_Tanger,Personal Care,438,4445.67,0,21.2,0
+2022-05-23,Store_Tanger,Personal Care,775,4795.63,1,21.9,0
+2022-05-30,Store_Tanger,Personal Care,693,4810.57,0,20.7,0
+2022-06-06,Store_Tanger,Personal Care,859,5828.01,1,18.7,0
+2022-06-13,Store_Tanger,Personal Care,536,5065.28,0,22.0,0
+2022-06-20,Store_Tanger,Personal Care,739,4756.16,0,20.0,0
+2022-06-27,Store_Tanger,Personal Care,438,4883.55,0,21.4,0
+2022-07-04,Store_Tanger,Personal Care,558,5416.52,0,12.0,1
+2022-07-11,Store_Tanger,Personal Care,573,4386.06,0,13.4,0
+2022-07-18,Store_Tanger,Personal Care,853,5466.43,1,15.3,0
+2022-07-25,Store_Tanger,Personal Care,406,4813.51,1,13.5,0
+2022-08-01,Store_Tanger,Personal Care,496,3936.13,0,8.0,0
+2022-08-08,Store_Tanger,Personal Care,532,4126.65,0,9.3,0
+2022-08-15,Store_Tanger,Personal Care,518,5130.47,1,10.3,0
+2022-08-22,Store_Tanger,Personal Care,662,4258.14,1,10.9,0
+2022-08-29,Store_Tanger,Personal Care,404,4159.7,0,9.1,0
+2022-09-05,Store_Tanger,Personal Care,950,4052.22,1,5.4,0
+2022-09-12,Store_Tanger,Personal Care,329,3513.06,0,7.8,0
+2022-09-19,Store_Tanger,Personal Care,364,3726.14,0,5.5,0
+2022-09-26,Store_Tanger,Personal Care,333,3423.37,0,8.5,0
+2022-10-03,Store_Tanger,Personal Care,324,3571.51,0,5.3,0
+2022-10-10,Store_Tanger,Personal Care,646,3082.5,0,6.3,0
+2022-10-17,Store_Tanger,Personal Care,279,3177.74,0,2.3,0
+2022-10-24,Store_Tanger,Personal Care,417,3145.06,0,7.2,0
+2022-10-31,Store_Tanger,Personal Care,644,3990.48,1,3.3,0
+2022-11-07,Store_Tanger,Personal Care,374,4420.97,0,6.8,0
+2022-11-14,Store_Tanger,Personal Care,611,4349.15,0,5.8,0
+2022-11-21,Store_Tanger,Personal Care,391,4352.01,0,8.7,0
+2022-11-28,Store_Tanger,Personal Care,950,5225.44,0,5.7,1
+2022-12-05,Store_Tanger,Personal Care,817,4226.27,0,10.9,0
+2022-12-12,Store_Tanger,Personal Care,852,3985.45,0,8.2,0
+2022-12-19,Store_Tanger,Personal Care,389,4194.1,0,10.4,0
+2022-12-26,Store_Tanger,Personal Care,1311,6222.9,1,8.8,1
+2023-01-02,Store_Tanger,Personal Care,408,3758.51,0,13.5,1
+2023-01-09,Store_Tanger,Personal Care,330,3579.84,1,16.3,0
+2023-01-16,Store_Tanger,Personal Care,439,3033.44,0,16.7,0
+2023-01-23,Store_Tanger,Personal Care,359,3146.88,1,16.4,0
+2023-01-30,Store_Tanger,Personal Care,534,3477.71,1,15.4,0
+2023-02-06,Store_Tanger,Personal Care,458,3306.62,0,18.4,0
+2023-02-13,Store_Tanger,Personal Care,303,3319.26,0,19.2,0
+2023-02-20,Store_Tanger,Personal Care,343,3747.39,1,23.2,0
+2023-02-27,Store_Tanger,Personal Care,347,3735.21,0,17.8,0
+2023-03-06,Store_Tanger,Personal Care,407,3711.16,0,28.3,0
+2023-03-13,Store_Tanger,Personal Care,624,3588.76,0,24.4,0
+2023-03-20,Store_Tanger,Personal Care,530,4131.09,1,24.5,0
+2023-03-27,Store_Tanger,Personal Care,384,3915.87,0,24.3,0
+2023-04-03,Store_Tanger,Personal Care,463,5135.27,1,24.9,0
+2023-04-10,Store_Tanger,Personal Care,778,5306.9,1,24.8,0
+2023-04-17,Store_Tanger,Personal Care,405,4772.42,0,24.4,0
+2023-04-24,Store_Tanger,Personal Care,663,4969.82,0,24.0,1
+2023-05-01,Store_Tanger,Personal Care,992,5023.19,0,25.2,0
+2023-05-08,Store_Tanger,Personal Care,438,4933.7,0,24.2,0
+2023-05-15,Store_Tanger,Personal Care,972,5164.07,0,22.1,0
+2023-05-22,Store_Tanger,Personal Care,413,4871.95,0,17.6,0
+2023-05-29,Store_Tanger,Personal Care,821,5058.5,1,23.3,0
+2023-06-05,Store_Tanger,Personal Care,430,4759.93,0,21.2,0
+2023-06-12,Store_Tanger,Personal Care,806,5141.39,0,21.3,0
+2023-06-19,Store_Tanger,Personal Care,1198,5038.75,0,19.5,0
+2023-06-26,Store_Tanger,Personal Care,689,4384.24,0,22.6,0
+2023-07-03,Store_Tanger,Personal Care,473,5634.99,0,13.3,1
+2023-07-10,Store_Tanger,Personal Care,797,4482.91,0,15.7,0
+2023-07-17,Store_Tanger,Personal Care,474,4716.46,0,15.7,0
+2023-07-24,Store_Tanger,Personal Care,393,4273.27,0,14.4,0
+2023-07-31,Store_Tanger,Personal Care,518,5458.26,1,13.6,0
+2023-08-07,Store_Tanger,Personal Care,827,4361.75,0,12.4,0
+2023-08-14,Store_Tanger,Personal Care,780,4346.78,0,11.7,0
+2023-08-21,Store_Tanger,Personal Care,602,4068.05,0,11.3,0
+2023-08-28,Store_Tanger,Personal Care,759,4427.46,0,13.1,0
+2023-09-04,Store_Tanger,Personal Care,524,3985.68,0,2.1,0
+2023-09-11,Store_Tanger,Personal Care,367,3798.48,0,6.0,0
+2023-09-18,Store_Tanger,Personal Care,612,3642.21,0,5.2,0
+2023-09-25,Store_Tanger,Personal Care,431,3728.34,0,6.2,0
+2023-10-02,Store_Tanger,Personal Care,420,3883.97,1,2.6,0
+2023-10-09,Store_Tanger,Personal Care,362,3314.32,0,7.4,0
+2023-10-16,Store_Tanger,Personal Care,382,4205.47,1,5.3,0
+2023-10-23,Store_Tanger,Personal Care,830,3598.83,0,2.8,0
+2023-10-30,Store_Tanger,Personal Care,306,3259.0,0,3.9,0
+2023-11-06,Store_Tanger,Personal Care,364,3695.18,0,8.0,0
+2023-11-13,Store_Tanger,Personal Care,484,4289.96,0,10.0,0
+2023-11-20,Store_Tanger,Personal Care,509,4252.46,0,8.2,0
+2023-11-27,Store_Tanger,Personal Care,483,5313.25,0,7.1,1
+2023-12-04,Store_Tanger,Personal Care,945,3904.15,0,8.5,0
+2023-12-11,Store_Tanger,Personal Care,334,3825.64,0,11.2,0
+2023-12-18,Store_Tanger,Personal Care,428,4255.66,0,12.6,0
+2023-12-25,Store_Tanger,Personal Care,791,4692.04,0,11.9,1
+2024-01-01,Store_Tanger,Personal Care,322,2879.06,0,16.2,0

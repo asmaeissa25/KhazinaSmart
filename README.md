@@ -1,6 +1,4 @@
 # KhazinaSmart 📦
-### AI-Powered Inventory Intelligence Platform
-
 ## 🏆 Hackathon Achievement
 
 **IT DAY'Z 11th Edition Hackathon** — ENSA Tanger, April 18-19, 2026  
@@ -8,6 +6,13 @@
 **Result:** 🥈 2nd Place
 
 Built in 48 hours by a team of 3 Master's students — M2 Intelligence Artificielle pour l'Économie Numérique et la Gestion
+
+---
+
+## 👩‍💻 My Contribution
+
+- **Implemented the XGBoost demand forecasting model** — trained on Walmart sales data to predict weekly demand across 45 stores
+- Collaborated on the overall ML pipeline and data preprocessing
 
 ---
 
